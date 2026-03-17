@@ -2587,7 +2587,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "TLV9002IDR"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -2596,7 +2596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PL IC Opamp:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2605,7 +2605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9002.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2614,7 +2614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Standard (General Purpose) Amplifier 2 Circuit Rail-to-Rail 8-SOIC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2623,7 +2623,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TLV9002IDR"
 			(at 0 0 0)
 			(effects
 				(font
