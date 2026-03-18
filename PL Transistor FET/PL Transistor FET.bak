@@ -19,7 +19,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3400A"
+		(property "Value" "20N03"
 			(at 5.08 0 0)
 			(effects
 				(font
@@ -28,7 +28,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PL Transistor FET:SOT-23-3"
+		(property "Footprint" "PL Transistor FET:TO-252-2"
 			(at 5.08 -1.905 0)
 			(effects
 				(font
@@ -39,7 +39,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C19271469.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -49,7 +49,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+		(property "Description" "N-Channel 30V 20A 5.5W Surface Mount TO-252"
 			(at 0 0 0)
 			(effects
 				(font
@@ -58,7 +58,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AO3400A"
+		(property "MPN" "20N03"
 			(at 0 0 0)
 			(effects
 				(font

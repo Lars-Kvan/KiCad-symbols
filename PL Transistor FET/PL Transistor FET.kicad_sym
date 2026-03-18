@@ -4024,25 +4024,6 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 2.54 -5.08 90)
-				(length 2.54)
-				(hide yes)
-				(name "S"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(embedded_fonts no)
 	)
