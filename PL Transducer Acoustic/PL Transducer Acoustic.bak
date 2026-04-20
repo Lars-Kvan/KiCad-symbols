@@ -28,7 +28,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PL Transducer Acoustic:CUI_CMC-2742PBJ-A"
 			(at 1.27 -1.778 90)
 			(effects
 				(font
@@ -38,7 +38,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.cuidevices.com/product/resource/cmc-2742pbj-a.pdf"
 			(at 0 2.54 90)
 			(effects
 				(font
@@ -47,7 +47,43 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Crystal microphone"
+		(property "Description" "100 Hz ~ 20 kHz Analog Microphone Electret Condenser 2 V ~ 10 V Omnidirectional (-42dB ±3dB @ 94dB SPL) PC Pins"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CMC-2742PBJ-A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Impedance" "2.2kΩ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "S/N" "58dB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Frequency Range" "100Hz-20KHz"
 			(at 0 0 0)
 			(effects
 				(font
