@@ -291,6 +291,17 @@
 				)
 			)
 		)
+		(property "ESR" "14mΩ@100kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -427,6 +438,17 @@
 				)
 			)
 		)
+		(property "ESR" "20mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -450,6 +472,12 @@
 			)
 		)
 		(embedded_fonts no)
+		(property "approval_properties" "{\"datasheet\":\"https://www.lcsc.com/datasheet/C44606499.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1JdVVNfQlJeUTtW\"}"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 	)
 	(symbol "47uF_D8xL10.5"
 		(extends "C_Polarized_Template")
@@ -531,6 +559,28 @@
 			)
 		)
 		(property "Tolerance" "20%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ESR" "120mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ripple Current" "1250mA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -645,6 +695,28 @@
 			)
 		)
 		(property "MPN" "SV470M101F11R7R1Z00ZZ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ESR" "30mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ripple Current" "1500mA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

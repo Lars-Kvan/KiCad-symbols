@@ -89,6 +89,12 @@
 				(hide yes)
 			)
 		)
+		(property "Z@Freq" "170Ω@100MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "CM3440Z171B-10_0_1"
 			(circle
 				(center -2.794 1.27)
@@ -597,6 +603,12 @@
 				(hide yes)
 			)
 		)
+		(property "Z@Freq" "250Ω@100MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "FC-DLF2218-2R5-100A-LF_0_1"
 			(circle
 				(center -2.794 1.27)
@@ -1095,6 +1107,12 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Z@Freq" "170Ω@100MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "HXA0805F2SF-801-N H-CND_0_1"
 			(circle

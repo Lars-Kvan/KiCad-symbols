@@ -112,6 +112,18 @@
 				(hide yes)
 			)
 		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "150mA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "47uH_0805_0_1"
 			(polyline
 				(pts
@@ -455,6 +467,18 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "35mA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "6.8uH_0805_0_1"
 			(polyline

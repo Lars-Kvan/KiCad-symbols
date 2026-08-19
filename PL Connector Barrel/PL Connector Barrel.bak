@@ -97,6 +97,16 @@
 				(hide yes)
 			)
 		)
+		(property "Pin Diameter" "2.0mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Current Rating" "5A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "2x5.5_PJ-002AH_0_1"
 			(rectangle
 				(start -5.08 3.81)
@@ -119,6 +129,17 @@
 				)
 				(fill
 					(type none)
+				)
+			)
+			(rectangle
+				(start -3.302 3.175)
+				(end 3.683 1.905)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type outline)
 				)
 			)
 			(arc
@@ -155,17 +176,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(rectangle
-				(start 3.683 3.175)
-				(end -3.302 1.905)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
 				)
 			)
 			(polyline

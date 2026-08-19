@@ -1,0 +1,2 @@
+2026-08-19: Removed an orphan duplicate datasheet created during a deliberately aborted pre-commit transaction. Its SHA-256 was verified equal to Littelfuse_SMAJ_SMA_TVS_Diodes_bf298e2c.pdf before removal.
+2026-08-19: Removed rgb_pinout_check*.png temporary inspection renders created while verifying XL-1608SURUGC pin mapping. No library, footprint, source CSV, .bak, or .kicad_sym file was removed.

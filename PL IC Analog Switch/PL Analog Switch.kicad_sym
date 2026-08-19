@@ -79,6 +79,12 @@
 				(hide yes)
 			)
 		)
+		(property "Max Supply Voltage" "6V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "CD74HC4067SM_0_1"
 			(rectangle
 				(start -8.89 21.59)
@@ -608,6 +614,18 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Off-Isolation" "-60 dB (@ 1 MHz)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Max Supply Voltage" "5.5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "TMUX1112PWR_0_0"
 			(circle

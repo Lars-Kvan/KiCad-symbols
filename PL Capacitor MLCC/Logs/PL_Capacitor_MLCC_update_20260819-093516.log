@@ -1,0 +1,456 @@
+[2026-08-19T09:35:16] BEGIN Yageo CC X7R derived-symbol update
+[2026-08-19T09:35:16] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C0402.kicad_mod bytes=3740 sha256=cd54ff3453785cc53f11be352cd41b98b6807f168481c26010e4fb0d62929a3a
+[2026-08-19T09:35:16] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C0603.kicad_mod bytes=3726 sha256=2fda19f3320e3dc50a13e6799e767eb71ed983fdd337714b9f128156e5eaa010
+[2026-08-19T09:35:16] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C0805.kicad_mod bytes=3818 sha256=a9c3c6e92f2f468c0eb8e45dee0e2383df92ea42ca6cdd580046b4b2ba2245db
+[2026-08-19T09:35:16] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C1206.kicad_mod bytes=3726 sha256=5db981a1451a38796fd1e5078386c1746a258c68ceb64be2c34ae2dd3d2498b9
+[2026-08-19T09:35:16] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C1210.kicad_mod bytes=3728 sha256=84a2c86616df733d9641b8eed666e5693031d71c747f69cd0b4a76fc2aac5c18
+[2026-08-19T09:35:16] INPUT library=C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym bytes=106199 sha256=16aefce91dbcceaea128badcb7726fe38d812894c0420a270e89d5e0c493da5b
+[2026-08-19T09:35:16] INPUT bak=C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.bak bytes=105843 sha256=732a9a6c73efd00a220b64d67e8525aab16780443eab3893f132a2e65273fd34
+[2026-08-19T09:35:16] INPUT datasheet=C:\KiCad\9.0\symbols\PL Capacitor MLCC\Yageo_Capacitor.pdf bytes=1131214 sha256=61a606825ab314ea318cfb5362848a62fdffb851efa9818d642e9a541c56a648
+[2026-08-19T09:35:16] UPDATER C:\KiCad\9.0\symbols\PL Capacitor MLCC\Tools\bulk_add_yageo_cc_x7r_capacitors.py sha256=099b81a0b466983e668ea5b9d15e7680609af2ec60eed2f0185185951192aec3
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(22).csv rows=25 bytes=6210 sha256=7e3366cc835266ebd9897c7c56adef657f23cda2eafbe59f0ce6907efd89e7d1
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(23).csv rows=100 bytes=24367 sha256=4c7ea16288621264c0a8302f80524f759508132057f854a68176e9d0f197f6a5
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(24).csv rows=100 bytes=24370 sha256=4bc39ca99a351268379ab39d8b2fd000862e0b224929d469bc915d35de5c1aa5
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(25).csv rows=100 bytes=24276 sha256=d060089dafc74ddf00577c4a542f816ded725835d60a20fe1cc877987379e916
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(26).csv rows=100 bytes=24269 sha256=348e731fb5611a407bb90b29833009f098c5e0c223b65f0ec20aafdb4460da23
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(27).csv rows=100 bytes=24269 sha256=348e731fb5611a407bb90b29833009f098c5e0c223b65f0ec20aafdb4460da23
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(28).csv rows=100 bytes=24249 sha256=09fbf3ff1d25e170977764a57b5cf57731dbb989548b98196ba8e2f70f036f56
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(29).csv rows=100 bytes=24426 sha256=4fd193c26c16b3f4938a8c7d8302f36e5a04717dfb7daf1574b2f7e1c9eecd5a
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(30).csv rows=100 bytes=24208 sha256=9c271e8d805e37c168d57b682dd3de7859a157c3d520fb791d6dd5e32a31212d
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(31).csv rows=100 bytes=24202 sha256=89bfb3c01cb34421b461cf9575f97cc293e8b3ff22b2d2fc19e6b07bb14cd3b0
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(32).csv rows=100 bytes=24193 sha256=888639e36af30479ad0625f02a33ccc4acdea9ac15a7e527394b73f40f64366d
+[2026-08-19T09:35:16] SOURCE LCSCSearchDownload(33).csv rows=29 bytes=7129 sha256=83ade4541e1af7dc438e4a6622b27129d528d9e65df70cc017d05ce643d54fde
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C14663 mpn=CC0603KRX7R9BB104 availability=6807250 kept_availability=6807250
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C49678 mpn=CC0805KRX7R9BB104 availability=2094500 kept_availability=2094500
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C60133 mpn=CC0402KRX7R9BB103 availability=4434700 kept_availability=4434700
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C60474 mpn=CC0402KRX7R7BB104 availability=4354500 kept_availability=4354500
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C83170 mpn=CC0805KRX7R9BB103 availability=352550 kept_availability=352550
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C91185 mpn=CC0805KKX7R9BB105 availability=481860 kept_availability=481860
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C94121 mpn=CC0805KRX7R9BB102 availability=662600 kept_availability=662600
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C100040 mpn=CC0603KRX7R9BB102 availability=1751300 kept_availability=1751300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C100042 mpn=CC0603KRX7R9BB103 availability=3509000 kept_availability=3509000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C105883 mpn=CC0402KRX7R8BB104 availability=2027000 kept_availability=2027000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106208 mpn=CC0402KRX7R9BB472 availability=929600 kept_availability=929600
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106222 mpn=CC0603KRX7R9BB223 availability=442900 kept_availability=442900
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106248 mpn=CC0603KRX7R7BB105 availability=557500 kept_availability=557500
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106250 mpn=CC0603KRX7R6BB474 availability=11500 kept_availability=11500
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106840 mpn=CC0805KKX7RBBB103 availability=12460 kept_availability=12460
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106845 mpn=CC0805KKX7R7BB474 availability=8850 kept_availability=8850
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C106863 mpn=CC0402KRX7R7BB333 availability=26400 kept_availability=26400
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107018 mpn=CC0402KRX7R7BB563 availability=45700 kept_availability=45700
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107020 mpn=CC0402KRX7R8BB473 availability=26900 kept_availability=26900
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107059 mpn=CC0603KRX7R0BB103 availability=881450 kept_availability=881450
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107060 mpn=CC0603KRX7R0BB152 availability=23850 kept_availability=23850
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107071 mpn=CC0603KRX7R8BB683 availability=23900 kept_availability=23900
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107078 mpn=CC0603KRX7R9BB182 availability=36400 kept_availability=36400
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107092 mpn=CC0603KRX7R9BB471 availability=627600 kept_availability=627600
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107093 mpn=CC0603KRX7R9BB473 availability=1239150 kept_availability=1239150
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107156 mpn=CC0805KRX7R9BB563 availability=15300 kept_availability=15300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107163 mpn=CC0805KRX7RABB471 availability=27450 kept_availability=27450
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107168 mpn=CC0805KRX7RYBB472 availability=18450 kept_availability=18450
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107183 mpn=CC1206KKX7R7BB225 availability=4600 kept_availability=4600
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107190 mpn=CC1206KKX7RBBB472 availability=8700 kept_availability=8700
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C107210 mpn=CC1206KRX7R9BB683 availability=5360 kept_availability=5360
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C111492 mpn=CC0805JRX7R9BB104 availability=718300 kept_availability=718300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113789 mpn=CC0402KRX7R9BB151 availability=40100 kept_availability=40100
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113803 mpn=CC0603KRX7R0BB104 availability=983300 kept_availability=983300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113850 mpn=CC0805KRX7R0BB331 availability=26450 kept_availability=26450
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113860 mpn=CC0805KRX7R9BB273 availability=13550 kept_availability=13550
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113862 mpn=CC0805KRX7R9BB562 availability=23750 kept_availability=23750
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113864 mpn=CC0805KRX7RABB222 availability=29100 kept_availability=29100
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113866 mpn=CC0805KRX7RABB472 availability=18550 kept_availability=18550
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C113867 mpn=CC0805KRX7RBBB471 availability=18200 kept_availability=18200
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C114401 mpn=CC0402JRX7R9BB221 availability=39100 kept_availability=39100
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C131394 mpn=CC0402KRX7R9BB104 availability=5700800 kept_availability=5700800
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C149601 mpn=AC1206KKX7R0BB104 availability=5920 kept_availability=5920
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C149615 mpn=AC0603KRX7R9BB472 availability=31150 kept_availability=31150
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C160903 mpn=CC0603KRX7R9BB101 availability=759500 kept_availability=759500
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C277508 mpn=CC1206KKX7R8BB475 availability=3170 kept_availability=3170
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C277522 mpn=AC0402KRX7R9BB102 availability=22300 kept_availability=22300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C277529 mpn=CC0805KKX7RYBB223 availability=6880 kept_availability=6880
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C309458 mpn=CC0402KRX7R6BB104 availability=30000 kept_availability=30000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C309475 mpn=CC0603JRX7R9BB683 availability=20000 kept_availability=20000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C326638 mpn=CC1210KKX7R8BB105 availability=3360 kept_availability=3360
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C326671 mpn=CC1210KKX7RYBB224 availability=2125 kept_availability=2125
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C326699 mpn=CC1206KRX7RYBB103 availability=7480 kept_availability=7480
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C327004 mpn=CC1206KKX7RABB473 availability=3710 kept_availability=3710
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C327009 mpn=CC0402KRX7R7BB103 availability=46100 kept_availability=46100
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C327054 mpn=CC0402KRX7R6BB473 availability=33400 kept_availability=33400
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C389112 mpn=AC1206KKX7R0BB224 availability=2690 kept_availability=2690
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C513577 mpn=CC0603KRX7R9BB474 availability=1033880 kept_availability=1033880
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C513589 mpn=CC1206KKX7RYBB333 availability=2340 kept_availability=2340
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C513659 mpn=CC1206KKX7RCBB152 availability=7380 kept_availability=7380
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C513710 mpn=CC0805KKX7R0BB224 availability=109160 kept_availability=109160
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519403 mpn=CC0603KRX7R7BB102 availability=29000 kept_availability=29000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519404 mpn=CC0603KRX7R8BB102 availability=37000 kept_availability=37000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519422 mpn=CC0603KRX7R8BB222 availability=37350 kept_availability=37350
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519530 mpn=CC0603JRX7R9BB332 availability=21400 kept_availability=21400
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519560 mpn=CC0603JRX7R7BB105 availability=12140 kept_availability=12140
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519578 mpn=CC0603JRX7R7BB334 availability=8360 kept_availability=8360
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C519579 mpn=CC0603JRX7R8BB334 availability=7300 kept_availability=7300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527273 mpn=CC1206JKX7R9BB105 availability=2365 kept_availability=2365
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527275 mpn=CC1206JKX7RBBB103 availability=5340 kept_availability=5340
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527336 mpn=CC1206KKX7RDBB221 availability=5680 kept_availability=5680
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527347 mpn=CC1206KRX7R8BB104 availability=5680 kept_availability=5680
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527348 mpn=CC1206KRX7R8BB224 availability=180 kept_availability=180
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527375 mpn=CC1210KKX7R0BB104 availability=2490 kept_availability=2490
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C527382 mpn=CC1210KKX7RYBB473 availability=195 kept_availability=195
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C541379 mpn=CC0402KRX7R7BB471 availability=38600 kept_availability=38600
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C541482 mpn=CC1206KRX7R9BB331 availability=700 kept_availability=700
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C541525 mpn=CC0805JRX7R9BB154 availability=7240 kept_availability=7240
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C541546 mpn=CC1206JRX7R8BB104 availability=5100 kept_availability=5100
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C559769 mpn=CC0603KRX7R9BB105 availability=219020 kept_availability=219020
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C560862 mpn=AC0805KKX7R0BB473 availability=6080 kept_availability=6080
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C577211 mpn=CC1206KKX7R0BB225 availability=584435 kept_availability=584435
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C577277 mpn=CC1210KKX7R9BB684 availability=3005 kept_availability=3005
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C577278 mpn=CC1210KKX7RBBB333 availability=515 kept_availability=515
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C577280 mpn=CC1210KKX7RCBB102 availability=1885 kept_availability=1885
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C577436 mpn=CS1206KKX7RCBB103 availability=3450 kept_availability=3450
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C605211 mpn=AC0603JRX7R9BB104 availability=193580 kept_availability=193580
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C726554 mpn=AC0603KRX7R6BB105 availability=8400 kept_availability=8400
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C726559 mpn=AC0603KRX7R8BB103 availability=25750 kept_availability=25750
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C726596 mpn=AC0805KRX7R9BB472 availability=21950 kept_availability=21950
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C1853266 mpn=CC0603KPX7R8BB104 availability=14740 kept_availability=14740
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C1853771 mpn=CC0603JPX7R9BB223 availability=5350 kept_availability=5350
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C1854267 mpn=CC0805KKX7R9BB394 availability=9540 kept_availability=9540
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C1854427 mpn=CC1206KKX7RBBB272 availability=1380 kept_availability=1380
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C1856545 mpn=CS1210KKX7R9BB475 availability=260 kept_availability=260
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C1952576 mpn=CC1210KKX7R6BB106 availability=1440 kept_availability=1440
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2172564 mpn=AC1206KRX7R0BB223 availability=3890 kept_availability=3890
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2175066 mpn=AS0805KKX7R0BB473 availability=2480 kept_availability=2480
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2182865 mpn=AC0805KRX7RBBB472 availability=5020 kept_availability=5020
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2203584 mpn=CS0603KRX7R8BB224 availability=6180 kept_availability=6180
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2225066 mpn=CS1206KKX7RZBB332 availability=2200 kept_availability=2200
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2230885 mpn=CS0805KRX7RABB102 availability=3640 kept_availability=3640
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2237338 mpn=AC1206KKX7R6BB105 availability=2590 kept_availability=2590
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2936583 mpn=CC0603KRX7RABB471 availability=22200 kept_availability=22200
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C2936627 mpn=AC1206KKX7R0BB105 availability=4660 kept_availability=4660
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3836573 mpn=CC0805JRNPOBBN820 availability=7550 kept_availability=7550
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3839034 mpn=CQ0603JRNPOYBN680 availability=3160 kept_availability=3160
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3843771 mpn=CC1206JRNPO0BN562 availability=3300 kept_availability=3300
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3861426 mpn=AC1210KKX7R0BB104 availability=1510 kept_availability=1510
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3866704 mpn=AC0603KRX7R8BB474 availability=11080 kept_availability=11080
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3876299 mpn=AC0402KRX7R9BB473 availability=31100 kept_availability=31100
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3884582 mpn=AQ0402JRNPO9BN220 availability=7550 kept_availability=7550
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3888349 mpn=CC1206KKX7R0BB154 availability=4240 kept_availability=4240
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3893829 mpn=CC1210JKNPOBBN102 availability=645 kept_availability=645
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C3909468 mpn=AC1206JKNPOCBN101 availability=2760 kept_availability=2760
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C5140553 mpn=CC0402KRX7R9BB393 availability=32200 kept_availability=32200
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C5182466 mpn=AC1210KKX7R0BB225 availability=650 kept_availability=650
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C5355266 mpn=AC0805KRX7R9BB272 availability=1000 kept_availability=1000
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C5575492 mpn=AC0402JRX7R9BB103 availability=19800 kept_availability=19800
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C6113815 mpn=AC0603KRX7R9BB393 availability=3950 kept_availability=3950
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C6492241 mpn=AC0805KKX7RGBB225 availability=2280 kept_availability=2280
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C7209274 mpn=AC1210KKX7R0BB105 availability=730 kept_availability=730
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C7210087 mpn=AC0805KKX7R5BB106 availability=2615 kept_availability=2615
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C7500386 mpn=CC1206JKNPOZBN103 availability=845 kept_availability=845
+[2026-08-19T09:35:16] DEDUP_DROP lcsc=C42097139 mpn=AC1206KKX7R7BB106 availability=240 kept_availability=240
+[2026-08-19T09:35:16] SELECT name=100pF_0402 mpn=CC0402JRX7R9BB101 lcsc=C281750 capacitance=100pF package=0402 voltage=50V tolerance=±5% availability=167400
+[2026-08-19T09:35:16] SELECT name=150pF_0402 mpn=CC0402JRX7R9BB151 lcsc=C541446 capacitance=150pF package=0402 voltage=50V tolerance=±5% availability=9800
+[2026-08-19T09:35:16] SELECT name=220pF_0402 mpn=CC0402JRX7R9BB221 lcsc=C114401 capacitance=220pF package=0402 voltage=50V tolerance=±5% availability=39100
+[2026-08-19T09:35:16] SELECT name=330pF_0402 mpn=CC0402JRX7R9BB331 lcsc=C325463 capacitance=330pF package=0402 voltage=50V tolerance=±5% availability=5300
+[2026-08-19T09:35:16] SELECT name=470pF_0402 mpn=CC0402JRX7R9BB471 lcsc=C272887 capacitance=470pF package=0402 voltage=50V tolerance=±5% availability=8600
+[2026-08-19T09:35:16] SELECT name=680pF_0402 mpn=CC0402JRX7R9BB681 lcsc=C513560 capacitance=680pF package=0402 voltage=50V tolerance=±5% availability=11300
+[2026-08-19T09:35:16] SELECT name=1nF_0402 mpn=CC0402KRX7R0BB102 lcsc=C527013 capacitance=1nF package=0402 voltage=100V tolerance=±10% availability=96300
+[2026-08-19T09:35:16] SELECT name=1.5nF_0402 mpn=CC0402JRX7R9BB152 lcsc=C281752 capacitance=1.5nF package=0402 voltage=50V tolerance=±5% availability=188100
+[2026-08-19T09:35:16] SELECT name=2.2nF_0402 mpn=CC0402KRX7R0BB222 lcsc=C576731 capacitance=2.2nF package=0402 voltage=100V tolerance=±10% availability=9100
+[2026-08-19T09:35:16] SELECT name=3.3nF_0402 mpn=CC0402JRX7R9BB332 lcsc=C541447 capacitance=3.3nF package=0402 voltage=50V tolerance=±5% availability=51900
+[2026-08-19T09:35:16] SELECT name=4.7nF_0402 mpn=CC0402KRX7R0BB472 lcsc=C576733 capacitance=4.7nF package=0402 voltage=100V tolerance=±10% availability=9800
+[2026-08-19T09:35:16] SELECT name=6.8nF_0402 mpn=CC0402KRX7R9BB682 lcsc=C93654 capacitance=6.8nF package=0402 voltage=50V tolerance=±10% availability=523400
+[2026-08-19T09:35:16] SELECT name=10nF_0402 mpn=CC0402KRX7R0BB103 lcsc=C527014 capacitance=10nF package=0402 voltage=100V tolerance=±10% availability=298750
+[2026-08-19T09:35:16] SELECT name=15nF_0402 mpn=CC0402KRX7R9BB153 lcsc=C114405 capacitance=15nF package=0402 voltage=50V tolerance=±10% availability=717900
+[2026-08-19T09:35:16] SELECT name=22nF_0402 mpn=CC0402JRX7R9BB223 lcsc=C541460 capacitance=22nF package=0402 voltage=50V tolerance=±5% availability=58300
+[2026-08-19T09:35:16] SELECT name=33nF_0402 mpn=CC0402JRX7R9BB333 lcsc=C541463 capacitance=33nF package=0402 voltage=50V tolerance=±5% availability=55700
+[2026-08-19T09:35:16] SELECT name=47nF_0402 mpn=CC0402JRX7R9BB473 lcsc=C576715 capacitance=47nF package=0402 voltage=50V tolerance=±5% availability=130500
+[2026-08-19T09:35:16] SELECT name=68nF_0402 mpn=CC0402KRX7R9BB683 lcsc=C354977 capacitance=68nF package=0402 voltage=50V tolerance=±10% availability=331900
+[2026-08-19T09:35:16] SELECT name=100nF_0402 mpn=CC0402JRX7R9BB104 lcsc=C5182432 capacitance=100nF package=0402 voltage=50V tolerance=±5% availability=361200
+[2026-08-19T09:35:16] SELECT name=150nF_0402 mpn=CC0402KRX7R7BB154 lcsc=C505466 capacitance=150nF package=0402 voltage=16V tolerance=±10% availability=40200
+[2026-08-19T09:35:16] SELECT name=220nF_0402 mpn=CC0402KRX7R8BB224 lcsc=C723566 capacitance=220nF package=0402 voltage=25V tolerance=±10% availability=60040
+[2026-08-19T09:35:16] SELECT name=470nF_0402 mpn=CC0402KRX7R6BB474 lcsc=C723358 capacitance=470nF package=0402 voltage=10V tolerance=±10% availability=26600
+[2026-08-19T09:35:16] SELECT name=1uF_0402 mpn=CC0402KRX7R6BB105 lcsc=C7500381 capacitance=1uF package=0402 voltage=10V tolerance=±10% availability=42160
+[2026-08-19T09:35:16] SELECT name=100pF_0603 mpn=CC0603KRX7R0BB101 lcsc=C576846 capacitance=100pF package=0603 voltage=100V tolerance=±10% availability=5050
+[2026-08-19T09:35:16] SELECT name=150pF_0603 mpn=CC0603KRX7R9BB151 lcsc=C107075 capacitance=150pF package=0603 voltage=50V tolerance=±10% availability=101200
+[2026-08-19T09:35:16] SELECT name=220pF_0603 mpn=CC0603KRX7RYBB221 lcsc=C107101 capacitance=220pF package=0603 voltage=250V tolerance=±10% availability=4600
+[2026-08-19T09:35:16] SELECT name=330pF_0603 mpn=CC0603JRX7R9BB331 lcsc=C309473 capacitance=330pF package=0603 voltage=50V tolerance=±5% availability=7400
+[2026-08-19T09:35:16] SELECT name=470pF_0603 mpn=CC0603KRX7RABB471 lcsc=C2936583 capacitance=470pF package=0603 voltage=200V tolerance=±10% availability=22200
+[2026-08-19T09:35:16] SELECT name=680pF_0603 mpn=CC0603KRX7R0BB681 lcsc=C113806 capacitance=680pF package=0603 voltage=100V tolerance=±10% availability=3200
+[2026-08-19T09:35:16] SELECT name=1nF_0603 mpn=CC0603KRX7RYBB102 lcsc=C277510 capacitance=1nF package=0603 voltage=250V tolerance=±10% availability=171200
+[2026-08-19T09:35:16] SELECT name=1.5nF_0603 mpn=CC0603KRX7R0BB152 lcsc=C107060 capacitance=1.5nF package=0603 voltage=100V tolerance=±10% availability=23850
+[2026-08-19T09:35:16] SELECT name=2.2nF_0603 mpn=CC0603KRX7RYBB222 lcsc=C576857 capacitance=2.2nF package=0603 voltage=250V tolerance=±10% availability=4400
+[2026-08-19T09:35:16] SELECT name=3.3nF_0603 mpn=CC0603JRX7R9BB332 lcsc=C519530 capacitance=3.3nF package=0603 voltage=50V tolerance=±5% availability=21400
+[2026-08-19T09:35:16] SELECT name=4.7nF_0603 mpn=CC0603KRX7RABB472 lcsc=C596328 capacitance=4.7nF package=0603 voltage=200V tolerance=±10% availability=4600
+[2026-08-19T09:35:16] SELECT name=6.8nF_0603 mpn=CC0603KRX7R0BB682 lcsc=C576854 capacitance=6.8nF package=0603 voltage=100V tolerance=±10% availability=12550
+[2026-08-19T09:35:16] SELECT name=10nF_0603 mpn=CC0603KRX7R0BB103 lcsc=C107059 capacitance=10nF package=0603 voltage=100V tolerance=±10% availability=881450
+[2026-08-19T09:35:16] SELECT name=15nF_0603 mpn=CC0603KRX7R0BB153 lcsc=C576847 capacitance=15nF package=0603 voltage=100V tolerance=±10% availability=4100
+[2026-08-19T09:35:16] SELECT name=22nF_0603 mpn=CC0603KRX7R0BB223 lcsc=C313105 capacitance=22nF package=0603 voltage=100V tolerance=±10% availability=95100
+[2026-08-19T09:35:16] SELECT name=33nF_0603 mpn=CC0603KRX7R0BB333 lcsc=C576851 capacitance=33nF package=0603 voltage=100V tolerance=±10% availability=3350
+[2026-08-19T09:35:16] SELECT name=47nF_0603 mpn=CC0603KRX7R0BB473 lcsc=C576852 capacitance=47nF package=0603 voltage=100V tolerance=±10% availability=208700
+[2026-08-19T09:35:16] SELECT name=68nF_0603 mpn=CC0603KRX7R0BB683 lcsc=C3891122 capacitance=68nF package=0603 voltage=100V tolerance=±10% availability=3350
+[2026-08-19T09:35:16] SELECT name=100nF_0603 mpn=CC0603KRX7R0BB104 lcsc=C113803 capacitance=100nF package=0603 voltage=100V tolerance=±10% availability=983300
+[2026-08-19T09:35:16] SELECT name=150nF_0603 mpn=CC0603KRX7R9BB154 lcsc=C513735 capacitance=150nF package=0603 voltage=50V tolerance=±10% availability=336950
+[2026-08-19T09:35:16] SELECT name=220nF_0603 mpn=CC0603JRX7R9BB224 lcsc=C519575 capacitance=220nF package=0603 voltage=50V tolerance=±5% availability=98220
+[2026-08-19T09:35:16] SELECT name=330nF_0603 mpn=CC0603JRX7R8BB334 lcsc=C519579 capacitance=330nF package=0603 voltage=25V tolerance=±5% availability=7300
+[2026-08-19T09:35:16] SELECT name=470nF_0603 mpn=CC0603KRX7R9BB474 lcsc=C513577 capacitance=470nF package=0603 voltage=50V tolerance=±10% availability=1033880
+[2026-08-19T09:35:16] SELECT name=680nF_0603 mpn=CC0603KRX7R8BB684 lcsc=C2838708 capacitance=680nF package=0603 voltage=25V tolerance=±10% availability=70300
+[2026-08-19T09:35:16] SELECT name=1uF_0603 mpn=CC0603KRX7R9BB105 lcsc=C559769 capacitance=1uF package=0603 voltage=50V tolerance=±10% availability=219020
+[2026-08-19T09:35:16] SELECT name=2.2uF_0603 mpn=CC0603KRX7R7BB225 lcsc=C914769 capacitance=2.2uF package=0603 voltage=16V tolerance=±10% availability=104880
+[2026-08-19T09:35:16] SELECT name=100pF_0805 mpn=CC0805KRX7R9BB101 lcsc=C107140 capacitance=100pF package=0805 voltage=50V tolerance=±10% availability=229300
+[2026-08-19T09:35:16] SELECT name=150pF_0805 mpn=CC0805KRX7R9BB151 lcsc=C113855 capacitance=150pF package=0805 voltage=50V tolerance=±10% availability=2750
+[2026-08-19T09:35:16] SELECT name=220pF_0805 mpn=CC0805KRX7RYBB221 lcsc=C107165 capacitance=220pF package=0805 voltage=250V tolerance=±10% availability=1450
+[2026-08-19T09:35:16] SELECT name=330pF_0805 mpn=CC0805JRX7RABB331 lcsc=C527221 capacitance=330pF package=0805 voltage=200V tolerance=±5% availability=3850
+[2026-08-19T09:35:16] SELECT name=470pF_0805 mpn=CC0805KRX7RYBB471 lcsc=C107167 capacitance=470pF package=0805 voltage=250V tolerance=±10% availability=3800
+[2026-08-19T09:35:16] SELECT name=680pF_0805 mpn=CC0805KRX7RYBB681 lcsc=C107169 capacitance=680pF package=0805 voltage=250V tolerance=±10% availability=1600
+[2026-08-19T09:35:16] SELECT name=1nF_0805 mpn=CC0805KRX7RYBB102 lcsc=C106835 capacitance=1nF package=0805 voltage=250V tolerance=±10% availability=48350
+[2026-08-19T09:35:16] SELECT name=1.5nF_0805 mpn=CC0805JRX7RABB152 lcsc=C1854493 capacitance=1.5nF package=0805 voltage=200V tolerance=±5% availability=3950
+[2026-08-19T09:35:16] SELECT name=2.2nF_0805 mpn=CC0805KRX7RYBB222 lcsc=C107166 capacitance=2.2nF package=0805 voltage=250V tolerance=±10% availability=4650
+[2026-08-19T09:35:16] SELECT name=3.3nF_0805 mpn=CC0805KRX7RABB332 lcsc=C527232 capacitance=3.3nF package=0805 voltage=200V tolerance=±10% availability=2650
+[2026-08-19T09:35:16] SELECT name=4.7nF_0805 mpn=CC0805KRX7RYBB472 lcsc=C107168 capacitance=4.7nF package=0805 voltage=250V tolerance=±10% availability=18450
+[2026-08-19T09:35:16] SELECT name=6.8nF_0805 mpn=CC0805JRX7R9BB682 lcsc=C520015 capacitance=6.8nF package=0805 voltage=50V tolerance=±5% availability=1700
+[2026-08-19T09:35:16] SELECT name=10nF_0805 mpn=CC0805KKX7RYBB103 lcsc=C106841 capacitance=10nF package=0805 voltage=250V tolerance=±10% availability=67700
+[2026-08-19T09:35:16] SELECT name=15nF_0805 mpn=CC0805KKX7RYBB153 lcsc=C527226 capacitance=15nF package=0805 voltage=250V tolerance=±10% availability=2000
+[2026-08-19T09:35:16] SELECT name=22nF_0805 mpn=CC0805KKX7RYBB223 lcsc=C277529 capacitance=22nF package=0805 voltage=250V tolerance=±10% availability=6880
+[2026-08-19T09:35:16] SELECT name=33nF_0805 mpn=CC0805KKX7RYBB333 lcsc=C7500394 capacitance=33nF package=0805 voltage=250V tolerance=±10% availability=2820
+[2026-08-19T09:35:16] SELECT name=47nF_0805 mpn=CC0805KKX7R0BB473 lcsc=C107126 capacitance=47nF package=0805 voltage=100V tolerance=±10% availability=140800
+[2026-08-19T09:35:16] SELECT name=68nF_0805 mpn=CC0805JRX7R9BB683 lcsc=C520046 capacitance=68nF package=0805 voltage=50V tolerance=±5% availability=22300
+[2026-08-19T09:35:16] SELECT name=100nF_0805 mpn=CC0805KKX7RYBB104 lcsc=C5182461 capacitance=100nF package=0805 voltage=250V tolerance=±10% availability=11140
+[2026-08-19T09:35:16] SELECT name=150nF_0805 mpn=CC0805JRX7R9BB154 lcsc=C541525 capacitance=150nF package=0805 voltage=50V tolerance=±5% availability=7240
+[2026-08-19T09:35:16] SELECT name=220nF_0805 mpn=CC0805KKX7R0BB224 lcsc=C513710 capacitance=220nF package=0805 voltage=100V tolerance=±10% availability=109160
+[2026-08-19T09:35:16] SELECT name=330nF_0805 mpn=CC0805KKX7R0BB334 lcsc=C7500383 capacitance=330nF package=0805 voltage=100V tolerance=±10% availability=1810
+[2026-08-19T09:35:16] SELECT name=470nF_0805 mpn=CC0805KKX7R0BB474 lcsc=C596323 capacitance=470nF package=0805 voltage=100V tolerance=±10% availability=98360
+[2026-08-19T09:35:16] SELECT name=680nF_0805 mpn=CC0805KKX7R9BB684 lcsc=C107133 capacitance=680nF package=0805 voltage=50V tolerance=±10% availability=36820
+[2026-08-19T09:35:16] SELECT name=1uF_0805 mpn=CC0805KKX7R0BB105 lcsc=C5370002 capacitance=1uF package=0805 voltage=100V tolerance=±10% availability=374630
+[2026-08-19T09:35:16] SELECT name=2.2uF_0805 mpn=CC0805KKX7R9BB225 lcsc=C125847 capacitance=2.2uF package=0805 voltage=50V tolerance=±10% availability=72075
+[2026-08-19T09:35:16] SELECT name=4.7uF_0805 mpn=CC0805KKX7R8BB475 lcsc=C354262 capacitance=4.7uF package=0805 voltage=25V tolerance=±10% availability=365845
+[2026-08-19T09:35:16] SELECT name=10uF_0805 mpn=CC0805KKX7R7BB106 lcsc=C326595 capacitance=10uF package=0805 voltage=16V tolerance=±10% availability=145365
+[2026-08-19T09:35:16] SELECT name=220pF_1206 mpn=CC1206KRX7RABB221 lcsc=C326677 capacitance=220pF package=1206 voltage=200V tolerance=±10% availability=2920
+[2026-08-19T09:35:16] SELECT name=470pF_1206 mpn=CC1206KRX7RABB471 lcsc=C277516 capacitance=470pF package=1206 voltage=200V tolerance=±10% availability=3850
+[2026-08-19T09:35:16] SELECT name=1nF_1206 mpn=CC1206KRX7RYBB102 lcsc=C107211 capacitance=1nF package=1206 voltage=250V tolerance=±10% availability=2250
+[2026-08-19T09:35:16] SELECT name=1.5nF_1206 mpn=CC1206KRX7R9BB152 lcsc=C113904 capacitance=1.5nF package=1206 voltage=50V tolerance=±10% availability=3280
+[2026-08-19T09:35:16] SELECT name=2.2nF_1206 mpn=CC1206KRX7RABB222 lcsc=C326676 capacitance=2.2nF package=1206 voltage=200V tolerance=±10% availability=4200
+[2026-08-19T09:35:16] SELECT name=3.3nF_1206 mpn=CC1206KRX7RYBB332 lcsc=C326675 capacitance=3.3nF package=1206 voltage=250V tolerance=±10% availability=1650
+[2026-08-19T09:35:16] SELECT name=4.7nF_1206 mpn=CC1206KRX7RYBB472 lcsc=C326763 capacitance=4.7nF package=1206 voltage=250V tolerance=±10% availability=1300
+[2026-08-19T09:35:16] SELECT name=6.8nF_1206 mpn=CC1206JRX7R9BB682 lcsc=C527325 capacitance=6.8nF package=1206 voltage=50V tolerance=±5% availability=3100
+[2026-08-19T09:35:16] SELECT name=10nF_1206 mpn=CC1206KRX7RYBB103 lcsc=C326699 capacitance=10nF package=1206 voltage=250V tolerance=±10% availability=7480
+[2026-08-19T09:35:16] SELECT name=15nF_1206 mpn=CC1206JRX7R0BB153 lcsc=C527313 capacitance=15nF package=1206 voltage=100V tolerance=±5% availability=2960
+[2026-08-19T09:35:16] SELECT name=22nF_1206 mpn=CC1206KKX7RYBB223 lcsc=C113899 capacitance=22nF package=1206 voltage=250V tolerance=±10% availability=2440
+[2026-08-19T09:35:16] SELECT name=33nF_1206 mpn=CC1206KKX7RYBB333 lcsc=C513589 capacitance=33nF package=1206 voltage=250V tolerance=±10% availability=2340
+[2026-08-19T09:35:16] SELECT name=47nF_1206 mpn=CC1206KKX7RYBB473 lcsc=C113900 capacitance=47nF package=1206 voltage=250V tolerance=±10% availability=2480
+[2026-08-19T09:35:16] SELECT name=68nF_1206 mpn=CC1206KKX7RABB683 lcsc=C527334 capacitance=68nF package=1206 voltage=200V tolerance=±10% availability=2960
+[2026-08-19T09:35:16] SELECT name=100nF_1206 mpn=CC1206KKX7RYBB104 lcsc=C106241 capacitance=100nF package=1206 voltage=250V tolerance=±10% availability=29070
+[2026-08-19T09:35:16] SELECT name=150nF_1206 mpn=CC1206KKX7R0BB154 lcsc=C3888349 capacitance=150nF package=1206 voltage=100V tolerance=±10% availability=4240
+[2026-08-19T09:35:16] SELECT name=220nF_1206 mpn=CC1206KKX7R0BB224 lcsc=C113892 capacitance=220nF package=1206 voltage=100V tolerance=±10% availability=91880
+[2026-08-19T09:35:16] SELECT name=330nF_1206 mpn=CC1206KRX7R9BB334 lcsc=C274377 capacitance=330nF package=1206 voltage=50V tolerance=±10% availability=123500
+[2026-08-19T09:35:16] SELECT name=470nF_1206 mpn=CC1206KKX7R0BB474 lcsc=C107182 capacitance=470nF package=1206 voltage=100V tolerance=±10% availability=15120
+[2026-08-19T09:35:16] SELECT name=680nF_1206 mpn=CC1206KKX7R9BB684 lcsc=C145012 capacitance=680nF package=1206 voltage=50V tolerance=±10% availability=20370
+[2026-08-19T09:35:16] SELECT name=1uF_1206 mpn=CC1206KKX7R0BB105 lcsc=C70463 capacitance=1uF package=1206 voltage=100V tolerance=±10% availability=320510
+[2026-08-19T09:35:16] SELECT name=2.2uF_1206 mpn=CC1206KKX7R0BB225 lcsc=C577211 capacitance=2.2uF package=1206 voltage=100V tolerance=±10% availability=584435
+[2026-08-19T09:35:16] SELECT name=4.7uF_1206 mpn=CC1206KKX7R9BB475 lcsc=C132170 capacitance=4.7uF package=1206 voltage=50V tolerance=±10% availability=119870
+[2026-08-19T09:35:16] SELECT name=10uF_1206 mpn=CC1206KKX7R8BB106 lcsc=C70462 capacitance=10uF package=1206 voltage=25V tolerance=±10% availability=153585
+[2026-08-19T09:35:16] SELECT name=22uF_1206 mpn=CC1206KKX7R6BB226 lcsc=C110045 capacitance=22uF package=1206 voltage=10V tolerance=±10% availability=5395
+[2026-08-19T09:35:16] SELECT name=22nF_1210 mpn=CC1210KKX7RABB223 lcsc=C527377 capacitance=22nF package=1210 voltage=200V tolerance=±10% availability=1520
+[2026-08-19T09:35:16] SELECT name=47nF_1210 mpn=CC1210KKX7R9BB473 lcsc=C2254850 capacitance=47nF package=1210 voltage=50V tolerance=±10% availability=3660
+[2026-08-19T09:35:16] SELECT name=100nF_1210 mpn=CC1210JKX7R0BB104 lcsc=C3871033 capacitance=100nF package=1210 voltage=100V tolerance=±5% availability=3315
+[2026-08-19T09:35:16] SELECT name=220nF_1210 mpn=CC1210KKX7RYBB224 lcsc=C326671 capacitance=220nF package=1210 voltage=250V tolerance=±10% availability=2125
+[2026-08-19T09:35:16] SELECT name=680nF_1210 mpn=CC1210KKX7R9BB684 lcsc=C577277 capacitance=680nF package=1210 voltage=50V tolerance=±10% availability=3005
+[2026-08-19T09:35:16] SELECT name=1uF_1210 mpn=CC1210KKX7R9BB105 lcsc=C393665 capacitance=1uF package=1210 voltage=50V tolerance=±10% availability=60770
+[2026-08-19T09:35:16] SELECT name=4.7uF_1210 mpn=CC1210KKX7R9BB475 lcsc=C596318 capacitance=4.7uF package=1210 voltage=50V tolerance=±10% availability=14210
+[2026-08-19T09:35:16] SELECT name=10uF_1210 mpn=CC1210KKX7R8BB106 lcsc=C700527 capacitance=10uF package=1210 voltage=25V tolerance=±10% availability=3540
+[2026-08-19T09:35:16] SELECT name=22uF_1210 mpn=CC1210KKX7R8BB226 lcsc=C5341638 capacitance=22uF package=1210 voltage=25V tolerance=±10% availability=49612
+[2026-08-19T09:35:16] PREFLIGHT counts existing=45 existing_keys=42 raw=1054 unique=929 eligible=434 selected=111 skips=26 additions=85
+[2026-08-19T09:35:16] SELECTED_BY_PACKAGE {'0402': 23, '0603': 26, '0805': 28, '1206': 25, '1210': 9}
+[2026-08-19T09:35:16] ADDITIONS_BY_PACKAGE {'0402': 17, '0603': 19, '0805': 22, '1206': 19, '1210': 8}
+[2026-08-19T09:35:16] SKIP name=100pF_0402 mpn=CC0402JRX7R9BB101 lcsc=C281750 existing=100pF_0402 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1nF_0402 mpn=CC0402KRX7R0BB102 lcsc=C527013 existing=1nF_0402 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=3.3nF_0402 mpn=CC0402JRX7R9BB332 lcsc=C541447 existing=3.3nF_0402 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=10nF_0402 mpn=CC0402KRX7R0BB103 lcsc=C527014 existing=10nF_0402 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=100nF_0402 mpn=CC0402JRX7R9BB104 lcsc=C5182432 existing=100nF_0402 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1uF_0402 mpn=CC0402KRX7R6BB105 lcsc=C7500381 existing=1uF_0402 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1nF_0603 mpn=CC0603KRX7RYBB102 lcsc=C277510 existing=1nF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=10nF_0603 mpn=CC0603KRX7R0BB103 lcsc=C107059 existing=10nF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=15nF_0603 mpn=CC0603KRX7R0BB153 lcsc=C576847 existing=15nF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=47nF_0603 mpn=CC0603KRX7R0BB473 lcsc=C576852 existing=47nF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=100nF_0603 mpn=CC0603KRX7R0BB104 lcsc=C113803 existing=100nF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1uF_0603 mpn=CC0603KRX7R9BB105 lcsc=C559769 existing=1uF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=2.2uF_0603 mpn=CC0603KRX7R7BB225 lcsc=C914769 existing=2.2uF_0603 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=100pF_0805 mpn=CC0805KRX7R9BB101 lcsc=C107140 existing=100pF_0805 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=100nF_0805 mpn=CC0805KKX7RYBB104 lcsc=C5182461 existing=100nF_0805 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=470nF_0805 mpn=CC0805KKX7R0BB474 lcsc=C596323 existing=470nF_0805 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1uF_0805 mpn=CC0805KKX7R0BB105 lcsc=C5370002 existing=1uF_0805  reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=2.2uF_0805 mpn=CC0805KKX7R9BB225 lcsc=C125847 existing=2.2uF_0805 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=4.7uF_0805 mpn=CC0805KKX7R8BB475 lcsc=C354262 existing=4.7uF_0805 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1nF_1206 mpn=CC1206KRX7RYBB102 lcsc=C107211 existing=1nF_1206 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=10nF_1206 mpn=CC1206KRX7RYBB103 lcsc=C326699 existing=10nF_1206 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=100nF_1206 mpn=CC1206KKX7RYBB104 lcsc=C106241 existing=100nF_1206 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=1uF_1206 mpn=CC1206KKX7R0BB105 lcsc=C70463 existing=1uF_1206 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=2.2uF_1206 mpn=CC1206KKX7R0BB225 lcsc=C577211 existing=2.2uF_1206 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=4.7uF_1206 mpn=CC1206KKX7R9BB475 lcsc=C132170 existing=4.7uF_1206 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] SKIP name=4.7uF_1210 mpn=CC1210KKX7R9BB475 lcsc=C596318 existing=4.7uF_1210 reason=same_capacitance_and_footprint
+[2026-08-19T09:35:16] ADD name=1.5nF_0402 mpn=CC0402JRX7R9BB152 lcsc=C281752 capacitance=1.5nF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=1.5nF_0603 mpn=CC0603KRX7R0BB152 lcsc=C107060 capacitance=1.5nF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=1.5nF_0805 mpn=CC0805JRX7RABB152 lcsc=C1854493 capacitance=1.5nF package=0805 voltage=200V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=1.5nF_1206 mpn=CC1206KRX7R9BB152 lcsc=C113904 capacitance=1.5nF package=1206 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=100nF_1210 mpn=CC1210JKX7R0BB104 lcsc=C3871033 capacitance=100nF package=1210 voltage=100V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=100pF_0603 mpn=CC0603KRX7R0BB101 lcsc=C576846 capacitance=100pF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=10nF_0805 mpn=CC0805KKX7RYBB103 lcsc=C106841 capacitance=10nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=10uF_0805 mpn=CC0805KKX7R7BB106 lcsc=C326595 capacitance=10uF package=0805 voltage=16V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=10uF_1206 mpn=CC1206KKX7R8BB106 lcsc=C70462 capacitance=10uF package=1206 voltage=25V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=10uF_1210 mpn=CC1210KKX7R8BB106 lcsc=C700527 capacitance=10uF package=1210 voltage=25V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=150nF_0402 mpn=CC0402KRX7R7BB154 lcsc=C505466 capacitance=150nF package=0402 voltage=16V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=150nF_0603 mpn=CC0603KRX7R9BB154 lcsc=C513735 capacitance=150nF package=0603 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=150nF_0805 mpn=CC0805JRX7R9BB154 lcsc=C541525 capacitance=150nF package=0805 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=150nF_1206 mpn=CC1206KKX7R0BB154 lcsc=C3888349 capacitance=150nF package=1206 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=150pF_0402 mpn=CC0402JRX7R9BB151 lcsc=C541446 capacitance=150pF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=150pF_0603 mpn=CC0603KRX7R9BB151 lcsc=C107075 capacitance=150pF package=0603 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=150pF_0805 mpn=CC0805KRX7R9BB151 lcsc=C113855 capacitance=150pF package=0805 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=15nF_0402 mpn=CC0402KRX7R9BB153 lcsc=C114405 capacitance=15nF package=0402 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=15nF_0805 mpn=CC0805KKX7RYBB153 lcsc=C527226 capacitance=15nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=15nF_1206 mpn=CC1206JRX7R0BB153 lcsc=C527313 capacitance=15nF package=1206 voltage=100V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=1nF_0805 mpn=CC0805KRX7RYBB102 lcsc=C106835 capacitance=1nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=1uF_1210 mpn=CC1210KKX7R9BB105 lcsc=C393665 capacitance=1uF package=1210 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=2.2nF_0402 mpn=CC0402KRX7R0BB222 lcsc=C576731 capacitance=2.2nF package=0402 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=2.2nF_0603 mpn=CC0603KRX7RYBB222 lcsc=C576857 capacitance=2.2nF package=0603 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=2.2nF_0805 mpn=CC0805KRX7RYBB222 lcsc=C107166 capacitance=2.2nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=2.2nF_1206 mpn=CC1206KRX7RABB222 lcsc=C326676 capacitance=2.2nF package=1206 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220nF_0402 mpn=CC0402KRX7R8BB224 lcsc=C723566 capacitance=220nF package=0402 voltage=25V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220nF_0603 mpn=CC0603JRX7R9BB224 lcsc=C519575 capacitance=220nF package=0603 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=220nF_0805 mpn=CC0805KKX7R0BB224 lcsc=C513710 capacitance=220nF package=0805 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220nF_1206 mpn=CC1206KKX7R0BB224 lcsc=C113892 capacitance=220nF package=1206 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220nF_1210 mpn=CC1210KKX7RYBB224 lcsc=C326671 capacitance=220nF package=1210 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220pF_0402 mpn=CC0402JRX7R9BB221 lcsc=C114401 capacitance=220pF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=220pF_0603 mpn=CC0603KRX7RYBB221 lcsc=C107101 capacitance=220pF package=0603 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220pF_0805 mpn=CC0805KRX7RYBB221 lcsc=C107165 capacitance=220pF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=220pF_1206 mpn=CC1206KRX7RABB221 lcsc=C326677 capacitance=220pF package=1206 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=22nF_0402 mpn=CC0402JRX7R9BB223 lcsc=C541460 capacitance=22nF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=22nF_0603 mpn=CC0603KRX7R0BB223 lcsc=C313105 capacitance=22nF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=22nF_0805 mpn=CC0805KKX7RYBB223 lcsc=C277529 capacitance=22nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=22nF_1206 mpn=CC1206KKX7RYBB223 lcsc=C113899 capacitance=22nF package=1206 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=22nF_1210 mpn=CC1210KKX7RABB223 lcsc=C527377 capacitance=22nF package=1210 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=22uF_1206 mpn=CC1206KKX7R6BB226 lcsc=C110045 capacitance=22uF package=1206 voltage=10V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=22uF_1210 mpn=CC1210KKX7R8BB226 lcsc=C5341638 capacitance=22uF package=1210 voltage=25V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=3.3nF_0603 mpn=CC0603JRX7R9BB332 lcsc=C519530 capacitance=3.3nF package=0603 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=3.3nF_0805 mpn=CC0805KRX7RABB332 lcsc=C527232 capacitance=3.3nF package=0805 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=3.3nF_1206 mpn=CC1206KRX7RYBB332 lcsc=C326675 capacitance=3.3nF package=1206 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=330nF_0603 mpn=CC0603JRX7R8BB334 lcsc=C519579 capacitance=330nF package=0603 voltage=25V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=330nF_0805 mpn=CC0805KKX7R0BB334 lcsc=C7500383 capacitance=330nF package=0805 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=330nF_1206 mpn=CC1206KRX7R9BB334 lcsc=C274377 capacitance=330nF package=1206 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=330pF_0402 mpn=CC0402JRX7R9BB331 lcsc=C325463 capacitance=330pF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=330pF_0603 mpn=CC0603JRX7R9BB331 lcsc=C309473 capacitance=330pF package=0603 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=330pF_0805 mpn=CC0805JRX7RABB331 lcsc=C527221 capacitance=330pF package=0805 voltage=200V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=33nF_0402 mpn=CC0402JRX7R9BB333 lcsc=C541463 capacitance=33nF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=33nF_0603 mpn=CC0603KRX7R0BB333 lcsc=C576851 capacitance=33nF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=33nF_0805 mpn=CC0805KKX7RYBB333 lcsc=C7500394 capacitance=33nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=33nF_1206 mpn=CC1206KKX7RYBB333 lcsc=C513589 capacitance=33nF package=1206 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=4.7nF_0402 mpn=CC0402KRX7R0BB472 lcsc=C576733 capacitance=4.7nF package=0402 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=4.7nF_0603 mpn=CC0603KRX7RABB472 lcsc=C596328 capacitance=4.7nF package=0603 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=4.7nF_0805 mpn=CC0805KRX7RYBB472 lcsc=C107168 capacitance=4.7nF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=4.7nF_1206 mpn=CC1206KRX7RYBB472 lcsc=C326763 capacitance=4.7nF package=1206 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=470nF_0402 mpn=CC0402KRX7R6BB474 lcsc=C723358 capacitance=470nF package=0402 voltage=10V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=470nF_0603 mpn=CC0603KRX7R9BB474 lcsc=C513577 capacitance=470nF package=0603 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=470nF_1206 mpn=CC1206KKX7R0BB474 lcsc=C107182 capacitance=470nF package=1206 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=470pF_0402 mpn=CC0402JRX7R9BB471 lcsc=C272887 capacitance=470pF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=470pF_0603 mpn=CC0603KRX7RABB471 lcsc=C2936583 capacitance=470pF package=0603 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=470pF_0805 mpn=CC0805KRX7RYBB471 lcsc=C107167 capacitance=470pF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=470pF_1206 mpn=CC1206KRX7RABB471 lcsc=C277516 capacitance=470pF package=1206 voltage=200V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=47nF_0402 mpn=CC0402JRX7R9BB473 lcsc=C576715 capacitance=47nF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=47nF_0805 mpn=CC0805KKX7R0BB473 lcsc=C107126 capacitance=47nF package=0805 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=47nF_1206 mpn=CC1206KKX7RYBB473 lcsc=C113900 capacitance=47nF package=1206 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=47nF_1210 mpn=CC1210KKX7R9BB473 lcsc=C2254850 capacitance=47nF package=1210 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=6.8nF_0402 mpn=CC0402KRX7R9BB682 lcsc=C93654 capacitance=6.8nF package=0402 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=6.8nF_0603 mpn=CC0603KRX7R0BB682 lcsc=C576854 capacitance=6.8nF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=6.8nF_0805 mpn=CC0805JRX7R9BB682 lcsc=C520015 capacitance=6.8nF package=0805 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=6.8nF_1206 mpn=CC1206JRX7R9BB682 lcsc=C527325 capacitance=6.8nF package=1206 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=680nF_0603 mpn=CC0603KRX7R8BB684 lcsc=C2838708 capacitance=680nF package=0603 voltage=25V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=680nF_0805 mpn=CC0805KKX7R9BB684 lcsc=C107133 capacitance=680nF package=0805 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=680nF_1206 mpn=CC1206KKX7R9BB684 lcsc=C145012 capacitance=680nF package=1206 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=680nF_1210 mpn=CC1210KKX7R9BB684 lcsc=C577277 capacitance=680nF package=1210 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=680pF_0402 mpn=CC0402JRX7R9BB681 lcsc=C513560 capacitance=680pF package=0402 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=680pF_0603 mpn=CC0603KRX7R0BB681 lcsc=C113806 capacitance=680pF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=680pF_0805 mpn=CC0805KRX7RYBB681 lcsc=C107169 capacitance=680pF package=0805 voltage=250V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=68nF_0402 mpn=CC0402KRX7R9BB683 lcsc=C354977 capacitance=68nF package=0402 voltage=50V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=68nF_0603 mpn=CC0603KRX7R0BB683 lcsc=C3891122 capacitance=68nF package=0603 voltage=100V tolerance=±10%
+[2026-08-19T09:35:16] ADD name=68nF_0805 mpn=CC0805JRX7R9BB683 lcsc=C520046 capacitance=68nF package=0805 voltage=50V tolerance=±5%
+[2026-08-19T09:35:16] ADD name=68nF_1206 mpn=CC1206KKX7RABB683 lcsc=C527334 capacitance=68nF package=1206 voltage=200V tolerance=±10%
+[2026-08-19T09:35:17] STAGED library=C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym bytes=488720 sha256=a7f8e2a43a0c656f1ec26d5d780e5b469a4c7476fbc23e6db34394ad68858ab1
+[2026-08-19T09:35:17] STAGED merged=C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\LCSCSearchDownload_Yageo_CC_X7R_merged.csv rows=929 sha256=4325e26affc1aae8560d47c0b277126136fd7771c30b389669375cbac6aeb906
+[2026-08-19T09:35:17] STAGED filtered=C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\LCSCSearchDownload_Yageo_CC_X7R_E6_filtered.csv rows=111 sha256=63e863c4918c3f956e336485c39c8b5e60e89f55a6ed2009c9a54077fe34f6cd
+[2026-08-19T09:35:17] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_0_100nF_0402 --symbol 100nF_0402 "C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:17] CLI exit=0
+[2026-08-19T09:35:17] CLI stdout: Plotting symbol '100nF_0402' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_0_100nF_0402\100nF_0402_unit1.svg'
+[2026-08-19T09:35:18] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_1_1_5nF_0402 --symbol 1.5nF_0402 "C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:18] CLI exit=0
+[2026-08-19T09:35:18] CLI stdout: Plotting symbol '1.5nF_0402' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_1_1_5nF_0402\1.5nF_0402_unit1.svg'
+[2026-08-19T09:35:18] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_2_1_5nF_0603 --symbol 1.5nF_0603 "C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:18] CLI exit=0
+[2026-08-19T09:35:18] CLI stdout: Plotting symbol '1.5nF_0603' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_2_1_5nF_0603\1.5nF_0603_unit1.svg'
+[2026-08-19T09:35:19] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_3_1_5nF_0805 --symbol 1.5nF_0805 "C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:19] CLI exit=0
+[2026-08-19T09:35:19] CLI stdout: Plotting symbol '1.5nF_0805' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_3_1_5nF_0805\1.5nF_0805_unit1.svg'
+[2026-08-19T09:35:19] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_4_1_5nF_1206 --symbol 1.5nF_1206 "C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:19] CLI exit=0
+[2026-08-19T09:35:19] CLI stdout: Plotting symbol '1.5nF_1206' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_4_1_5nF_1206\1.5nF_1206_unit1.svg'
+[2026-08-19T09:35:20] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_5_100nF_1210 --symbol 100nF_1210 "C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:20] CLI exit=0
+[2026-08-19T09:35:20] CLI stdout: Plotting symbol '100nF_1210' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\preinstall_cli\svg_5_100nF_1210\100nF_1210_unit1.svg'
+[2026-08-19T09:35:20] PREINSTALL CLI validation passed: 100nF_0402, 1.5nF_0402, 1.5nF_0603, 1.5nF_0805, 1.5nF_1206, 100nF_1210
+[2026-08-19T09:35:20] BACKUP verified directory=C:\KiCad\9.0\symbols\PL Capacitor MLCC\Backups\20260819-093516
+[2026-08-19T09:35:20] MOVE datasheet C:\KiCad\9.0\symbols\PL Capacitor MLCC\Yageo_Capacitor.pdf -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Datasheets\Yageo_X7R_General_Purpose_High_Capacitance_MLCC.pdf sha256=61a606825ab314ea318cfb5362848a62fdffb851efa9818d642e9a541c56a648
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(22).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(22).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(23).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(23).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(24).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(24).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(25).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(25).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(26).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(26).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(27).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(27).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(28).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(28).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(29).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(29).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(30).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(30).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(31).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(31).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(32).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(32).csv
+[2026-08-19T09:35:20] MOVE capacitor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(33).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Source\LCSCSearchDownload(33).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload.csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload.csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(1).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(1).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(2).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(2).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(3).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(3).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(4).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(4).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(5).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(5).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(6).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(6).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(7).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(7).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(8).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(8).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(9).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(9).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(10).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(10).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(11).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(11).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(12).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(12).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(13).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(13).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(14).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(14).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(15).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(15).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(16).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(16).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(17).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(17).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(18).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(18).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(19).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(19).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(20).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(20).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_source C:\KiCad\9.0\symbols\PL Capacitor MLCC\LCSCSearchDownload(21).csv -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\LCSCSearchDownload(21).csv
+[2026-08-19T09:35:20] MOVE excluded_resistor_pdf C:\KiCad\9.0\symbols\PL Capacitor MLCC\Yageo_Resistor_RC_Series.pdf -> C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\Excluded\Resistor\Yageo_Resistor_RC_Series.pdf
+[2026-08-19T09:35:20] INSTALL processed_csv C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Processed\LCSCSearchDownload_Yageo_CC_X7R_merged.csv sha256=4325e26affc1aae8560d47c0b277126136fd7771c30b389669375cbac6aeb906
+[2026-08-19T09:35:20] INSTALL processed_csv C:\KiCad\9.0\symbols\PL Capacitor MLCC\Data\LCSC\Processed\LCSCSearchDownload_Yageo_CC_X7R_E6_filtered.csv sha256=63e863c4918c3f956e336485c39c8b5e60e89f55a6ed2009c9a54077fe34f6cd
+[2026-08-19T09:35:20] INSTALL atomic_library_replace C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym
+[2026-08-19T09:35:20] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_0_100nF_0402 --symbol 100nF_0402 "C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:20] CLI exit=0
+[2026-08-19T09:35:20] CLI stdout: Plotting symbol '100nF_0402' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_0_100nF_0402\100nF_0402_unit1.svg'
+[2026-08-19T09:35:21] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_1_1_5nF_0402 --symbol 1.5nF_0402 "C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:21] CLI exit=0
+[2026-08-19T09:35:21] CLI stdout: Plotting symbol '1.5nF_0402' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_1_1_5nF_0402\1.5nF_0402_unit1.svg'
+[2026-08-19T09:35:21] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_2_1_5nF_0603 --symbol 1.5nF_0603 "C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:21] CLI exit=0
+[2026-08-19T09:35:21] CLI stdout: Plotting symbol '1.5nF_0603' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_2_1_5nF_0603\1.5nF_0603_unit1.svg'
+[2026-08-19T09:35:22] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_3_1_5nF_0805 --symbol 1.5nF_0805 "C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:22] CLI exit=0
+[2026-08-19T09:35:22] CLI stdout: Plotting symbol '1.5nF_0805' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_3_1_5nF_0805\1.5nF_0805_unit1.svg'
+[2026-08-19T09:35:22] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_4_1_5nF_1206 --symbol 1.5nF_1206 "C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:22] CLI exit=0
+[2026-08-19T09:35:22] CLI stdout: Plotting symbol '1.5nF_1206' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_4_1_5nF_1206\1.5nF_1206_unit1.svg'
+[2026-08-19T09:35:23] CLI command: "C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sym export svg --output C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_5_100nF_1210 --symbol 100nF_1210 "C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym"
+[2026-08-19T09:35:23] CLI exit=0
+[2026-08-19T09:35:23] CLI stdout: Plotting symbol '100nF_1210' unit 1 to 'C:\Users\larsk\AppData\Local\Temp\pl_capacitor_stage_apdjeqza\postinstall_cli\svg_5_100nF_1210\100nF_1210_unit1.svg'
+[2026-08-19T09:35:23] FINAL library=C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym bytes=488720 sha256=a7f8e2a43a0c656f1ec26d5d780e5b469a4c7476fbc23e6db34394ad68858ab1
+[2026-08-19T09:35:23] FINAL datasheet=C:\KiCad\9.0\symbols\PL Capacitor MLCC\Datasheets\Yageo_X7R_General_Purpose_High_Capacitance_MLCC.pdf bytes=1131214 sha256=61a606825ab314ea318cfb5362848a62fdffb851efa9818d642e9a541c56a648
+[2026-08-19T09:35:23] FINAL counts existing=45 additions=85 skips=26 symbols=130
+[2026-08-19T09:35:23] SUCCESS update completed; rollback not required

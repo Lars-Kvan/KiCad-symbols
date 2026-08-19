@@ -1,0 +1,4 @@
+2026-08-19: Datasheet b874d35f7abc7b180bba0ec4e4dcec20.pdf was checked for XRCGB24M000F3A00R0. It explicitly identifies the part family as automotive/AEC-Q200 qualified.
+2026-08-19: Updated only the newly added 24MHz_XRCGB24M000F3A00R0 derived symbol property: Automotive Grade = Yes.
+2026-08-19: KiCad 10 SVG export of that symbol succeeded after the metadata correction.
+2026-08-19: Library SHA-256 after correction: 221AB42DFCAD9A9629FE462C05DE8C4F90F71B0E594B56C75878BDE55C6C479D

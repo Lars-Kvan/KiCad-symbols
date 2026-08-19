@@ -105,6 +105,18 @@
 				(hide yes)
 			)
 		)
+		(property "Output Voltage" "Adjustable"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Output Current" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "LM5085MYX/NOPB_0_0"
 			(rectangle
 				(start -6.35 12.7)
@@ -360,6 +372,18 @@
 				(hide yes)
 			)
 		)
+		(property "Output Voltage" "Adjustable"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Output Current" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "LMR51610XDBVR_0_1"
 			(rectangle
 				(start -7.62 5.08)
@@ -565,6 +589,18 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Output Voltage" "Adjustable"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Efficiency" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "LTC7890_1_1"
 			(rectangle

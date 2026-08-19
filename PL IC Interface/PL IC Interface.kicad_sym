@@ -78,6 +78,21 @@
 				(hide yes)
 			)
 		)
+		(property "Protocol Type" "I2C/SMBus"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Supply Voltage" "1.65 V to 5.5 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Baud Rate" "Up to 400 kHz (Fast-mode I2C clock speed)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "TCA9548APWR_0_1"
 			(rectangle
 				(start -7.62 20.32)

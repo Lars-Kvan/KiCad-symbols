@@ -97,6 +97,18 @@
 				)
 			)
 		)
+		(property "Number of Channels" "6"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Data Rate" "100Mbps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "ISO7762FDBQR_0_1"
 			(rectangle
 				(start -8.89 13.97)
@@ -665,6 +677,18 @@
 				)
 			)
 		)
+		(property "Number of Channels" "6"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Data Rate" "100Mbps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "ISO7762QDBQRQ1_0_1"
 			(rectangle
 				(start -8.89 13.97)
@@ -1221,6 +1245,18 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "MPN" "NSI8262W1-DSWR"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Number of Channels" "6"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "NSI8262W1-DSWR_0_1"
 			(rectangle
@@ -1789,6 +1825,18 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Number of Channels" "4"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Data Rate" "150kbps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "π140U31_0_1"
 			(rectangle

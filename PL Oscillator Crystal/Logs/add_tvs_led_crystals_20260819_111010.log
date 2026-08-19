@@ -1,0 +1,28 @@
+FOOTPRINT C:\KiCad\9.0\footprints\PL Diode TVS\PL Diode TVS.pretty\D_SMA.kicad_mod sha256=EB2ABA541688F979023EE28CC924E0F5C87A8755A79A7EF33286257B01440536
+tvs source_sha256=CBF26BD6179FEA57D68259C64531D08DF819AFFF41D002958E3D6304EB75FC60 symbols_before=4 symbols_after=67 stage=C:\KiCad\9.0\symbols\PL Diode TVS\Data\staged_20260819_111010.kicad_sym
+FOOTPRINT C:\KiCad\9.0\footprints\PL Diode LED\PL Diode LED.pretty\LED0603.kicad_mod sha256=56CD52664588C6E5E67FCCBACF6DF285DECA939A24D031994D6BB9ECC67237BC
+FOOTPRINT C:\KiCad\9.0\footprints\PL Diode LED\PL Diode LED.pretty\LED_1.6x0.8mm.kicad_mod sha256=4AA41EECBC6EED9ED578AFBBCC250CF10B08B37A6F7D74D10FCF3123AC0DD895
+led source_sha256=9DC0D7B5FA70D7709033BD1F64F101369580AF0571C44CD224F64FEB4DCC7B63 symbols_before=4 symbols_after=8 stage=C:\KiCad\9.0\symbols\PL Diode LED\Data\staged_20260819_111010.kicad_sym
+FOOTPRINT C:\KiCad\9.0\footprints\PL Oscillator Crystal\PL Oscillator Crystal.pretty\Crystal_SMD_2016-4Pin_2.0x1.6mm.kicad_mod sha256=1BB14D8103B3FEFCDAAE97F46F38CB76533CDC88BF3B92E0ACF941773C974A85
+FOOTPRINT C:\KiCad\9.0\footprints\PL Oscillator Crystal\PL Oscillator Crystal.pretty\Crystal_SMD_3215-2Pin_3.2x1.5mm.kicad_mod sha256=F561039A6CDEE85D3E4DC21263C7FF1C19302031715230FC328A8C09F3BFFCA8
+crystal source_sha256=D15979F666F42B997F83906ED26B5735A0F926AA19B1ECEFC66F34F3BC5C7852 symbols_before=6 symbols_after=52 stage=C:\KiCad\9.0\symbols\PL Oscillator Crystal\Data\staged_20260819_111010.kicad_sym
+COPY C:\Users\larsk\Downloads\bf298e2c0542e0172af23908598fa548.pdf -> C:\KiCad\9.0\symbols\PL Diode TVS\Datasheets\Littelfuse_SMAJ_SMA_TVS_Diodes_bf298e2c.pdf
+COPY C:\KiCad\9.0\symbols\PL Diode TVS\Data\Source PDFs\4c7230dc8b40ab9b6a9a19d17f6f6c23.pdf -> C:\KiCad\9.0\symbols\PL Diode TVS\Datasheets\Littelfuse_SMAJ_SMA_TVS_Diodes_4c7230dc.pdf
+COPY C:\Users\larsk\Downloads\f0053fb73501b9b191307b41af4746b6.pdf -> C:\KiCad\9.0\symbols\PL Diode LED\Datasheets\XINGLIGHT_XL-1608PGC-06_Emerald_Green_LED.pdf
+COPY C:\Users\larsk\Downloads\c433292f3095b794c3f1e74e65e936e0.pdf -> C:\KiCad\9.0\symbols\PL Diode LED\Datasheets\XINGLIGHT_XL-1608UGGC_Green_LED.pdf
+COPY C:\Users\larsk\Downloads\d79da0963ce13e3bbcd2c1f63fbb419d.pdf -> C:\KiCad\9.0\symbols\PL Diode LED\Datasheets\XINGLIGHT_XL-1608SURUGC_Red_Green_LED.pdf
+COPY C:\Users\larsk\Downloads\f76eff92c5095c6d71361cb9182d5dca.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\HCI_SMD3215-2P_Crystal_f76eff92.pdf
+COPY C:\Users\larsk\Downloads\b336a5b52993e15e0134a8f3d7decec7.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\YXC Crystal Oscillators_SMD2016-4P_Crystal_b336a5b5.pdf
+COPY C:\Users\larsk\Downloads\65d84f7113624d6ada0fc61b3c006cce.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\TKD_SMD2016-4P_Crystal_65d84f71.pdf
+COPY C:\Users\larsk\Downloads\6199645382d2df86617a59ca9f9751d2.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\Yajingxin_SMD2016-4P_Crystal_61996453.pdf
+COPY C:\Users\larsk\Downloads\f1d90cc13e7201aff534101782b1a785.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\Yajingxin_SMD2016-4P_Crystal_f1d90cc1.pdf
+COPY C:\Users\larsk\Downloads\30211ab2d3de8d44977ccd7dace81645.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\Yajingxin_SMD2016-4P_Crystal_30211ab2.pdf
+COPY C:\Users\larsk\Downloads\03f32cc3dfdcdfc9fffa8449db791193.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\YXC Crystal Oscillators_SMD2016-4P_Crystal_03f32cc3.pdf
+COPY C:\Users\larsk\Downloads\816678a814b266af727e313205c8e9b5.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\YXC Crystal Oscillators_SMD3215-2P_Crystal_816678a8.pdf
+COPY C:\Users\larsk\Downloads\3ea8783906a28bd40e907e6ec433a21f.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\YXC Crystal Oscillators_SMD3215-2P_Crystal_3ea87839.pdf
+COPY C:\Users\larsk\Downloads\b874d35f7abc7b180bba0ec4e4dcec20.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\muRata_SMD2016-4P_Crystal_b874d35f.pdf
+COPY C:\Users\larsk\Downloads\1efcbade6e58e1fd7462ccab6a0dc7ba.pdf -> C:\KiCad\9.0\symbols\PL Oscillator Crystal\Datasheets\muRata_SMD2016-4P_Crystal_1efcbade.pdf
+REPLACE C:\KiCad\9.0\symbols\PL Diode TVS\PL Diode TVS.kicad_sym sha256=88D418104A37DC771DFCEA1E2E5F8F90590177B894097A790FD95A7F87239E44
+REPLACE C:\KiCad\9.0\symbols\PL Diode LED\PL Diode LED.kicad_sym sha256=6ADBF6FD1770792DE16FDC60A21012AAB2935264F3D7F8E71B42041FF70660E1
+REPLACE C:\KiCad\9.0\symbols\PL Oscillator Crystal\PL Oscillator Crystal.kicad_sym sha256=77B85A055B5A002EDD0FA469AC61E21F0218FB4BEE0E1D58D18E94B5E9975877
+COMMIT successful

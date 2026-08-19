@@ -76,6 +76,30 @@
 				(hide yes)
 			)
 		)
+		(property "Core Architecture" "Dual-core 32-bit Xtensa LX7"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Flash Size" "8 MB (SPI Flash)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "RAM Size" "512 KB SRAM"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Clock Speed" "Up to 240 MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "ESP32-S3-WROOM-1-N8_0_0"
 			(rectangle
 				(start -12.7 25.4)
@@ -931,6 +955,30 @@
 				(hide yes)
 			)
 		)
+		(property "RAM Size" "8MB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Clock Speed" "240MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Core Architecture" "Xtensa 32-bit LX7"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Flash Size" "8MB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "ESP32-S3-WROOM-1-N8R8_0_0"
 			(rectangle
 				(start -12.7 25.4)
@@ -1785,6 +1833,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Clock Speed" "133MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "RAM Size" "264kB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Core Architecture" "Dual ARM Cortex-M0+"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "RP2040_0_1"
 			(rectangle
@@ -2893,6 +2959,30 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Flash Size" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Core Architecture" "Dual ARM Cortex-M33 / Dual Hazard3 RISC-V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "RAM Size" "520kB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Clock Speed" "150MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "RP2350B_1_0"
 			(pin passive line

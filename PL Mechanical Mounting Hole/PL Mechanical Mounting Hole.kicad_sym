@@ -74,6 +74,12 @@
 				(hide yes)
 			)
 		)
+		(property "Hole Diameter" "2.2mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "M2_Via_1_1"
 			(circle
 				(center -1.27 0)

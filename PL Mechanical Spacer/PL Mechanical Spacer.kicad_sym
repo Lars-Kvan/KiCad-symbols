@@ -58,6 +58,12 @@
 				(hide yes)
 			)
 		)
+		(property "Thread Size" "M2"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "M2_1mm_0_1"
 			(polyline
 				(pts

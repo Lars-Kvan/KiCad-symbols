@@ -69,6 +69,18 @@
 				(hide yes)
 			)
 		)
+		(property "Switching Frequency Range" "3.81Hz–1MHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "MPN" "LTC6992HS6-1#WTRMPBF"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "LTC6992HS6-1#WTRMPBF_0_1"
 			(rectangle
 				(start -5.08 7.62)

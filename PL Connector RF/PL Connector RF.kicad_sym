@@ -92,6 +92,16 @@
 				(hide yes)
 			)
 		)
+		(property "Impedance" "50Ω"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Connector Type" "MMCX"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "Conn_Coaxial_Small_0_1"
 			(polyline
 				(pts
@@ -285,6 +295,11 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Connector Type" "SMA Edge Mount"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "SMA_BWSMA-KE-P001_0_1"
 			(polyline
@@ -491,6 +506,11 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Connector Type" "SMA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "SMA_HYCW21-SMAW0865-1350B_0_1"
 			(polyline

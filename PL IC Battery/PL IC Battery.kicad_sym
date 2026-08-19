@@ -83,6 +83,21 @@
 				(hide yes)
 			)
 		)
+		(property "Charge Voltage" "4.8V'"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Max Charge Current" "3A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Operating Temperature" "-40°C to 85°C"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "BQ25622ERYKR_0_1"
 			(rectangle
 				(start 0 43.18)

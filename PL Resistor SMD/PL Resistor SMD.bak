@@ -2553,6 +2553,39 @@
 				)
 			)
 		)
+		(property "MPN" "PE0603FRF070R01Z"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Temperature Coefficient" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor 10 mOhms ±1% 0.5W, 1/2W Chip Resistor 0603 (1608 Metric) Current Sense Metal Foil"
 			(at 0 0 0)
 			(show_name no)
@@ -3031,7 +3064,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Resistor_Template"
+		(property "Value" "10mΩ"
 			(at -2.794 2.032 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -3053,7 +3086,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C782077.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=E1VZBFwFRlBfUlFUTgRaX1BfFFZbBgdWFANbBVVXFgMxVlNeRlRcVFRSRlZWVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3064,7 +3097,73 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10mΩ ±1% 5W 2817"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "YLR17-5-10F"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Power" "5W"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Operating Temperature" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Temperature Coefficient" "±50ppm/℃"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4762,7 +4861,7 @@
 				)
 			)
 		)
-		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film"
+		(property "Description" "RES 1kΩ ±1% 100mW 0603"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4795,7 +4894,40 @@
 				)
 			)
 		)
-		(property "Operating Temperature" "-55°C ~ 155°C"
+		(property "Operating Temperature" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-071KL"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Temperature Coefficient" "100ppm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5214,6 +5346,28 @@
 			)
 		)
 		(property "Operating Temperature" "-55°C ~ 155°C"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Power" "0.25W"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8106,6 +8260,28 @@
 				)
 			)
 		)
+		(property "Rated Power" "0.1W"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor 24 kOhms ±0.05% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 0 0 0)
 			(show_name no)
@@ -9226,6 +9402,28 @@
 			)
 		)
 		(property "Temperature Coefficient" "10PPM"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RG2012N-3003-W-T5"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

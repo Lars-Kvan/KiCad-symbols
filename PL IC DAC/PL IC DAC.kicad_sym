@@ -78,6 +78,30 @@
 				(hide yes)
 			)
 		)
+		(property "Sample Rate" "25MSPS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Resolution" "28-bit"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Conversion Rate" "25MSPS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Interface" "SPI"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "AD9833xRM_0_1"
 			(rectangle
 				(start -12.7 10.16)
@@ -348,6 +372,30 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Resolution" "16 Bit"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Interface" "SPI"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Conversion Rate" "30kSPS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Sample Rate" "30kSPS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "DAC8560IxDGK_0_0"
 			(text "DAC"

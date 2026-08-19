@@ -1,0 +1,14 @@
+FOOTPRINT C:\KiCad\9.0\footprints\PL Diode TVS\PL Diode TVS.pretty\D_SMA.kicad_mod sha256=EB2ABA541688F979023EE28CC924E0F5C87A8755A79A7EF33286257B01440536
+tvs source_sha256=CBF26BD6179FEA57D68259C64531D08DF819AFFF41D002958E3D6304EB75FC60 symbols_before=4 symbols_after=67 stage=C:\KiCad\9.0\symbols\PL Diode TVS\Data\staged_20260819_110903.kicad_sym
+FOOTPRINT C:\KiCad\9.0\footprints\PL Diode LED\PL Diode LED.pretty\LED0603.kicad_mod sha256=56CD52664588C6E5E67FCCBACF6DF285DECA939A24D031994D6BB9ECC67237BC
+FOOTPRINT C:\KiCad\9.0\footprints\PL Diode LED\PL Diode LED.pretty\LED_1.6x0.8mm.kicad_mod sha256=4AA41EECBC6EED9ED578AFBBCC250CF10B08B37A6F7D74D10FCF3123AC0DD895
+led source_sha256=9DC0D7B5FA70D7709033BD1F64F101369580AF0571C44CD224F64FEB4DCC7B63 symbols_before=4 symbols_after=8 stage=C:\KiCad\9.0\symbols\PL Diode LED\Data\staged_20260819_110904.kicad_sym
+FOOTPRINT C:\KiCad\9.0\footprints\PL Oscillator Crystal\PL Oscillator Crystal.pretty\Crystal_SMD_2016-4Pin_2.0x1.6mm.kicad_mod sha256=1BB14D8103B3FEFCDAAE97F46F38CB76533CDC88BF3B92E0ACF941773C974A85
+FOOTPRINT C:\KiCad\9.0\footprints\PL Oscillator Crystal\PL Oscillator Crystal.pretty\Crystal_SMD_3215-2Pin_3.2x1.5mm.kicad_mod sha256=F561039A6CDEE85D3E4DC21263C7FF1C19302031715230FC328A8C09F3BFFCA8
+crystal source_sha256=D15979F666F42B997F83906ED26B5735A0F926AA19B1ECEFC66F34F3BC5C7852 symbols_before=6 symbols_after=52 stage=C:\KiCad\9.0\symbols\PL Oscillator Crystal\Data\staged_20260819_110904.kicad_sym
+COPY C:\Users\larsk\Downloads\bf298e2c0542e0172af23908598fa548.pdf -> C:\KiCad\9.0\symbols\PL Diode TVS\Datasheets\Littelfuse_SMAJ_SMA_TVS_Diodes.pdf
+ERROR HTTPError: HTTP Error 403: Forbidden
+ROLLBACK library C:\KiCad\9.0\symbols\PL Diode TVS\PL Diode TVS.kicad_sym
+ROLLBACK library C:\KiCad\9.0\symbols\PL Diode LED\PL Diode LED.kicad_sym
+ROLLBACK library C:\KiCad\9.0\symbols\PL Oscillator Crystal\PL Oscillator Crystal.kicad_sym
+ROLLBACK complete

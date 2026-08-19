@@ -82,6 +82,36 @@
 				(hide yes)
 			)
 		)
+		(property "Number of Positions/Directions" "5"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Actuation Force" "1.6±0.5N"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Contact Rating" "50mA 12VDC"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rated Current" "50mA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rated Voltage" "12VDC"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "TSX101G100-250_0_1"
 			(rectangle
 				(start -5.08 4.953)

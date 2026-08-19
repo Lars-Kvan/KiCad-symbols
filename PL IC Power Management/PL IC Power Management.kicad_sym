@@ -67,6 +67,30 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "AP74700Q"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Input Voltage Range" "3.2V-65V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Output Voltage" "3.2V-65V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Quiescent Current" "80µA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "AP74700Q_0_1"
 			(rectangle
 				(start -10.16 7.62)

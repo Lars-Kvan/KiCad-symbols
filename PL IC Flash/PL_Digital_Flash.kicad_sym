@@ -76,6 +76,24 @@
 				(hide yes)
 			)
 		)
+		(property "Memory Capacity" "128Mb"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Interface Type" "SPI"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Page Size" "256B"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "W25Q128JVS_0_1"
 			(rectangle
 				(start -7.62 8.89)

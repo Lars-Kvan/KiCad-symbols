@@ -1,0 +1,686 @@
+[2026-08-19T10:19:25] BEGIN combined ferrite and Zener symbol update
+[2026-08-19T10:19:25] INPUT kind=ferrite library=C:\KiCad\9.0\symbols\PL Magnetics Ferrite\PL Magnetics Ferrite.kicad_sym bytes=7077 sha256=0932ad16713fdbfd7def886d56669b60962d45e12c10272c3c3eff2bf96f0487 symbols=2
+[2026-08-19T10:19:25] INPUT kind=zener library=C:\KiCad\9.0\symbols\PL Diode Zener\PL Diode Zener.kicad_sym bytes=28043 sha256=750d719609d7960bd74c9cc3539e95d920f49347a63825104fc87645d311291e symbols=11
+[2026-08-19T10:19:25] FOOTPRINT kind=ferrite package=0402 path=C:\KiCad\9.0\footprints\PL Magnetics Ferrite\PL Magnetics Ferrite.pretty\FL0402.kicad_mod sha256=c8beca4f0a4510fda1c37907b31ac50829ef2825dbc10978412133c03eef33ff
+[2026-08-19T10:19:25] FOOTPRINT kind=ferrite package=0603 path=C:\KiCad\9.0\footprints\PL Magnetics Ferrite\PL Magnetics Ferrite.pretty\FL0603.kicad_mod sha256=141b45d62dd04599214d12ff6b626168e94f2e667b40642c8cbb09b02fb3f958
+[2026-08-19T10:19:25] FOOTPRINT kind=ferrite package=0805 path=C:\KiCad\9.0\footprints\PL Magnetics Ferrite\PL Magnetics Ferrite.pretty\FL0805.kicad_mod sha256=413f11259c7ad2cac41467f9829ee781d62e3d5a886f2e8b9e180ea7ed41cde1
+[2026-08-19T10:19:25] FOOTPRINT kind=zener package=SOT-23 path=C:\KiCad\9.0\footprints\PL Diode Zener\PL Diode Zener.pretty\SOT-23-3.kicad_mod sha256=453b51bf77ea13f8de3198ace28e476dd3dc6be59ddac2bf76d2da46787e919d
+[2026-08-19T10:19:25] FOOTPRINT kind=zener package=SOD-123 path=C:\KiCad\9.0\footprints\PL Diode Zener\PL Diode Zener.pretty\D_SOD-123.kicad_mod sha256=21a4ce7e31b1771a00ec4456488e7d973447246d238bbf5147071c46851bab81
+[2026-08-19T10:19:25] FOOTPRINT kind=zener package=SOD-323 path=C:\KiCad\9.0\footprints\PL Diode Zener\PL Diode Zener.pretty\SOD-323.kicad_mod sha256=da1f563b10549a91731791b4d121d34f15dff7d2acf25c8a12c6a8739650d261
+[2026-08-19T10:19:25] PDF kind=zener source=C:\Users\larsk\Downloads\f099154a6640c0e8db3f25979c3cb868.pdf destination=RplusO_BZX84C_SOT23_Zener_Diodes.pdf pages=4 bytes=211257 sha256=a65683624fb8339f543bc425912e7a72a24a98329b1abe997248f4bab1b3f28f
+[2026-08-19T10:19:25] PDF kind=zener source=C:\Users\larsk\Downloads\26ade382493570f6ac7aa9df8c9e3d26.pdf destination=RplusO_MMSZ5221B_to_MMSZ5267B_SOD123_Zener_Diodes.pdf pages=5 bytes=427751 sha256=8894d63b414fbe8314e4e18e317b682da3265f03cc92ac8f6b0c39290733bcd2
+[2026-08-19T10:19:25] PDF kind=zener source=C:\Users\larsk\Downloads\fd38dbf7891eeab523fe4c8bd002891d.pdf destination=RplusO_MMSZ5221BS_to_MMSZ5259BS_SOD323_Zener_Diodes.pdf pages=4 bytes=217894 sha256=e7454164572e2898569fd468a48bce5e987711981cc1baadea5eae99ef9ceb64
+[2026-08-19T10:19:26] PDF kind=ferrite source=C:\Users\larsk\Downloads\fa365b03943947af82e802e86ce28761.pdf destination=Murata_BLM18PG121SN1D_Third_Party_Copy.pdf pages=18 bytes=302296 sha256=a27b3aa8822c9df2f05298b36226bf8d76e1a7a5eb1af0b0a5476a37a51d6196
+[2026-08-19T10:19:26] PDF kind=ferrite source=C:\Users\larsk\Downloads\2d503a4b167da9bb5d0eb4a3fa711314.pdf destination=Murata_BLM18_0603_Chip_Ferrite_Beads.pdf pages=12 bytes=234104 sha256=f2b3b23d6ae4da86504c9a7e7893101bb1edb7bca93ec37ce86eff580ff8c099
+[2026-08-19T10:19:26] PDF kind=ferrite source=C:\Users\larsk\Downloads\f85b01b3a1a015a5ec4a9f03876e0063.pdf destination=Murata_BLM15_0402_Chip_Ferrite_Beads.pdf pages=11 bytes=213790 sha256=72584e2b0fad42b4fd0fc45b175151fa42acab38f373431d3f726f55317918aa
+[2026-08-19T10:19:27] PDF kind=ferrite source=C:\Users\larsk\Downloads\1addff62e5484bf39ea4690b7cc5dd21.pdf destination=Murata_BLM21_0805_Chip_Ferrite_Beads.pdf pages=11 bytes=251555 sha256=651645d072b5710a8594bf47864946d4432144ef3c6437a404b0de3349ef308e
+[2026-08-19T10:19:27] PDF kind=ferrite source=C:\Users\larsk\Downloads\5525eadde63874e80c8e8f485485d5a6.pdf destination=TDK_MPZ1608_0603_Commercial_Power_Line_Chip_Beads.pdf pages=7 bytes=252210 sha256=248facf5bc65c85e0c5a74ce83ebf316bbf69a8de9ff04bc2422db49afdc680a
+[2026-08-19T10:19:27] PDF kind=ferrite source=C:\Users\larsk\Downloads\97b8fd8f95d483658715dd96ac1acb6d.pdf destination=TDK_MPZ2012_0805_Automotive_Power_Line_Chip_Beads.pdf pages=4 bytes=239096 sha256=143ae0aef04553d143fec94e5bc5d2fe6f513bbfed074774858fa6630f3cdfb4
+[2026-08-19T10:19:27] PDF kind=ferrite source=C:\Users\larsk\Downloads\faf431921010bd6151d84a7da591b5d1.pdf destination=TDK_MPZ2012_0805_Commercial_Power_Line_Chip_Beads.pdf pages=4 bytes=182044 sha256=c8b428baaacfffa1b685848153d1cfef1fb8702157b173093cd19f32d25a68bc
+[2026-08-19T10:19:28] PDF kind=ferrite source=C:\Users\larsk\Downloads\b2aaeaa75f1b834be2cb67f1d33879f9.pdf destination=TDK_MMZ2012_0805_Automotive_Signal_Line_Chip_Beads.pdf pages=7 bytes=366873 sha256=5547e95740b599050736dd47180dd2758781a17a798dccedb618cd4c019b8170
+[2026-08-19T10:19:28] PDF kind=ferrite source=C:\Users\larsk\Downloads\8be8f6f5db2d5d7d12a82d918651c4e9.pdf destination=TDK_MAF1005GW_0402_Audio_Noise_Suppression_Filter.pdf pages=4 bytes=201278 sha256=87c0b8331a838025024af130c51567bb0fb629955d283c19bc7c31406193be82
+[2026-08-19T10:19:28] PDF kind=ferrite source=C:\Users\larsk\Downloads\7f0426ef046fbb06a31cef2ca0797607.pdf destination=Bourns_MH_High_Current_Chip_Ferrite_Beads.pdf pages=6 bytes=486993 sha256=f3f3d6673d40c3d41ec0370d82a9d06c9844c941c2aa22bc4ac644db6aa5c9d9
+[2026-08-19T10:19:28] PDF kind=ferrite source=C:\Users\larsk\Downloads\c5eb2ab63e31dac1cfd52cdbf8919cc7.pdf destination=Murata_NFZ15SG_0402_Chip_Noise_Filter.pdf pages=9 bytes=221093 sha256=c977885ee2d0c6a814a9e8f343c3d515cbfb9346d1ee9f86b791352bd3af1fee
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(73).csv rows=100 bytes=26565 sha256=c3d4793d6456d67038623690b8d5e96631407da7ce4dbe3d49465d24e7462438
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(74).csv rows=100 bytes=26737 sha256=5ef98a215e445931106b8b5d7c9daaf3cbf1ba7067ad57b16e325a5b31105e42
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(75).csv rows=100 bytes=26691 sha256=e8ff53eb8dee09aed1f64b3be1369c996f8b4b279807929bc3abd683941e4faa
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(76).csv rows=100 bytes=26691 sha256=e8ff53eb8dee09aed1f64b3be1369c996f8b4b279807929bc3abd683941e4faa
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(77).csv rows=100 bytes=26762 sha256=a62172eb8e8a7f2a6338837c4474f6d28439187726c121cf553303ce276422d5
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(78).csv rows=100 bytes=26700 sha256=7b9261bb5d9a6ad8b02847d16c29e975388a97889ac9b56ee7855f054318f59e
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(79).csv rows=100 bytes=26592 sha256=b44c4350762690324f72a156c2eff0d9301e56bec7a40ab962a3f71145405ef6
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(57).csv rows=100 bytes=28964 sha256=4aaa59d14d345a385c794a565d6654f1349ddf89161b93ae0753467b68d3615e
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(58).csv rows=100 bytes=28728 sha256=3326d2f7fbde5d39be3f40cd86a34d44da7ed9e2022336de02d4f5b1fe890323
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(59).csv rows=100 bytes=28538 sha256=21e4175f282c9ada980c4ea1414d770b9aa146c956be8df59310a3a7dfada158
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(60).csv rows=100 bytes=28596 sha256=0b32bcb2de2969bc61b23b08b439cb438171ca8ae116810ad7af29158747b9d2
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(61).csv rows=100 bytes=29258 sha256=fd1f4f787e1ebca1ea56f142cd86064de92a3819b5817bd094e8f56f44473a93
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(62).csv rows=100 bytes=28891 sha256=e6e7b4b4ec34bc9bfbc98da7868a58099dbd7faba8081c29bccf3c9d2545114d
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(63).csv rows=100 bytes=28794 sha256=cb0a458632fa3fa4619c184544a45dc2d97bc6f39aaf7591a72692398c8cad4d
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(64).csv rows=73 bytes=21346 sha256=7f23563d2acc1bc47b43181aec5abd0017eb438f51a1664ac06d77660b8b7dca
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(65).csv rows=25 bytes=7514 sha256=9496c3f0deabacf92e79e0e71a66b26f66333b52d098bca323034d1cb30901ab
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(66).csv rows=25 bytes=7514 sha256=9496c3f0deabacf92e79e0e71a66b26f66333b52d098bca323034d1cb30901ab
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(67).csv rows=100 bytes=29362 sha256=d2b3f0cb5b02c7819ecc4f26b5e5b6a3cfafdf721aebf5fa5e2f03e34607c97d
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(68).csv rows=100 bytes=29518 sha256=f17df641b46aa2c33b9f0388b39c2b9e626301c49dbd186b451f72371ed25c67
+[2026-08-19T10:19:28] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(69).csv rows=100 bytes=29264 sha256=5d78d10a89a722a23aa83bba7a0aaebf77bea91cd32db216a98d9cbee6f1ea80
+[2026-08-19T10:19:29] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(70).csv rows=100 bytes=29270 sha256=090a122668e9f77b4825a7ef4da8f4d47015f238955708c5142350faa45aabdc
+[2026-08-19T10:19:29] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(71).csv rows=100 bytes=29462 sha256=ffb005da89b0c13009fafbc576bc3a9c673b44adff533ad5aad80249653a1141
+[2026-08-19T10:19:29] SOURCE file=C:\Users\larsk\Downloads\LCSCSearchDownload(72).csv rows=100 bytes=29176 sha256=4ac1ce46cbbc3ac91f8ce2adb23efeec29849d72b241e88c65013ca79d76cab2
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C501996 mpn=MPZ1608Y101BTA00 source=LCSCSearchDownload(75).csv availability=10920 kept_source=LCSCSearchDownload(76).csv kept_availability=10920
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C193412 mpn=MMZ1005S102HT000 source=LCSCSearchDownload(75).csv availability=10780 kept_source=LCSCSearchDownload(76).csv kept_availability=10780
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C840592 mpn=MH2029-601Y source=LCSCSearchDownload(75).csv availability=10580 kept_source=LCSCSearchDownload(76).csv kept_availability=10580
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C596497 mpn=BLM15BB220SN1D source=LCSCSearchDownload(75).csv availability=10550 kept_source=LCSCSearchDownload(76).csv kept_availability=10550
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C442498 mpn=ILHB0805ER121V source=LCSCSearchDownload(75).csv availability=10310 kept_source=LCSCSearchDownload(76).csv kept_availability=10310
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C337883 mpn=BLM21PG600SH1D source=LCSCSearchDownload(75).csv availability=10170 kept_source=LCSCSearchDownload(76).csv kept_availability=10170
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C7509833 mpn=BLM15PX601SH1D source=LCSCSearchDownload(75).csv availability=10095 kept_source=LCSCSearchDownload(76).csv kept_availability=10095
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C88964 mpn=BLM15GG471SN1D source=LCSCSearchDownload(75).csv availability=10040 kept_source=LCSCSearchDownload(76).csv kept_availability=10040
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2833000 mpn=MAF1005GWZ102AT000 source=LCSCSearchDownload(75).csv availability=10030 kept_source=LCSCSearchDownload(76).csv kept_availability=10030
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C6131963 mpn=BLM15PE331SH1D source=LCSCSearchDownload(75).csv availability=9980 kept_source=LCSCSearchDownload(76).csv kept_availability=9980
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C3716558 mpn=BLM15HB221SZ1D source=LCSCSearchDownload(75).csv availability=9980 kept_source=LCSCSearchDownload(76).csv kept_availability=9980
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C840593 mpn=MH2029-300Y source=LCSCSearchDownload(75).csv availability=9960 kept_source=LCSCSearchDownload(76).csv kept_availability=9960
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C710347 mpn=BLM15PX601SZ1D source=LCSCSearchDownload(75).csv availability=9960 kept_source=LCSCSearchDownload(76).csv kept_availability=9960
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C432169 mpn=BLM18KG471SH1D source=LCSCSearchDownload(75).csv availability=9960 kept_source=LCSCSearchDownload(76).csv kept_availability=9960
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661897 mpn=BLM18SG221TZ1D source=LCSCSearchDownload(75).csv availability=9915 kept_source=LCSCSearchDownload(76).csv kept_availability=9915
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C3716829 mpn=BLM15HD601BH1D source=LCSCSearchDownload(75).csv availability=9900 kept_source=LCSCSearchDownload(76).csv kept_availability=9900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C710331 mpn=BLM15BB100SZ1D source=LCSCSearchDownload(75).csv availability=9900 kept_source=LCSCSearchDownload(76).csv kept_availability=9900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C560050 mpn=BLM15PX221SZ1D source=LCSCSearchDownload(75).csv availability=9880 kept_source=LCSCSearchDownload(76).csv kept_availability=9880
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C6673658 mpn=MMZ1005F181ET000 source=LCSCSearchDownload(75).csv availability=9820 kept_source=LCSCSearchDownload(76).csv kept_availability=9820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C560060 mpn=BLM15AG601SN1D11 source=LCSCSearchDownload(75).csv availability=9800 kept_source=LCSCSearchDownload(76).csv kept_availability=9800
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C531393 mpn=MAF1005GAD701DT000 source=LCSCSearchDownload(75).csv availability=9795 kept_source=LCSCSearchDownload(76).csv kept_availability=9795
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2986272 mpn=NFZ15SG331SN11D source=LCSCSearchDownload(75).csv availability=9710 kept_source=LCSCSearchDownload(76).csv kept_availability=9710
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C710340 mpn=BLM15HD601SZ1D source=LCSCSearchDownload(75).csv availability=9400 kept_source=LCSCSearchDownload(76).csv kept_availability=9400
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C7509800 mpn=BLM15PX221BH1D source=LCSCSearchDownload(75).csv availability=9365 kept_source=LCSCSearchDownload(76).csv kept_availability=9365
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C193388 mpn=MMZ1005S601CTD25 source=LCSCSearchDownload(75).csv availability=9350 kept_source=LCSCSearchDownload(76).csv kept_availability=9350
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C17141 mpn=BLM18BB121SN1D source=LCSCSearchDownload(75).csv availability=9260 kept_source=LCSCSearchDownload(76).csv kept_availability=9260
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C560053 mpn=BLM18KG221BH1D source=LCSCSearchDownload(75).csv availability=9170 kept_source=LCSCSearchDownload(76).csv kept_availability=9170
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C396652 mpn=BLM18KG121TZ1D source=LCSCSearchDownload(75).csv availability=9140 kept_source=LCSCSearchDownload(76).csv kept_availability=9140
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C527619 mpn=BLM15EX221SN1D source=LCSCSearchDownload(75).csv availability=9120 kept_source=LCSCSearchDownload(76).csv kept_availability=9120
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C7303942 mpn=MMZ1005D121ET000 source=LCSCSearchDownload(75).csv availability=9100 kept_source=LCSCSearchDownload(76).csv kept_availability=9100
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C880687 mpn=MPZ1005F470ETD25 source=LCSCSearchDownload(75).csv availability=9060 kept_source=LCSCSearchDownload(76).csv kept_availability=9060
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C76805 mpn=MMZ1005S800CT000 source=LCSCSearchDownload(75).csv availability=9025 kept_source=LCSCSearchDownload(76).csv kept_availability=9025
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C165810 mpn=MPZ1005S221ETD25 source=LCSCSearchDownload(75).csv availability=9000 kept_source=LCSCSearchDownload(76).csv kept_availability=9000
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C87552 mpn=MMZ1005Y601CT000 source=LCSCSearchDownload(75).csv availability=9000 kept_source=LCSCSearchDownload(76).csv kept_availability=9000
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C668299 mpn=BLM15AX100SN1D source=LCSCSearchDownload(75).csv availability=8900 kept_source=LCSCSearchDownload(76).csv kept_availability=8900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C94131 mpn=BLM15BD221SN1D source=LCSCSearchDownload(75).csv availability=8800 kept_source=LCSCSearchDownload(76).csv kept_availability=8800
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C560058 mpn=BLM18KG102BH1D source=LCSCSearchDownload(75).csv availability=8500 kept_source=LCSCSearchDownload(76).csv kept_availability=8500
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C501997 mpn=MPZ1608D300BTA00 source=LCSCSearchDownload(75).csv availability=8500 kept_source=LCSCSearchDownload(76).csv kept_availability=8500
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C404687 mpn=MPZ1005S121CTD25 source=LCSCSearchDownload(75).csv availability=8460 kept_source=LCSCSearchDownload(76).csv kept_availability=8460
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C113025 mpn=BLM18EG221TN1D source=LCSCSearchDownload(75).csv availability=8430 kept_source=LCSCSearchDownload(76).csv kept_availability=8430
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C160968 mpn=BLM15AX700SN1D source=LCSCSearchDownload(75).csv availability=8400 kept_source=LCSCSearchDownload(76).csv kept_availability=8400
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C89458 mpn=MMZ1005F121ET000 source=LCSCSearchDownload(75).csv availability=8310 kept_source=LCSCSearchDownload(76).csv kept_availability=8310
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C107326 mpn=MMZ1608R601ATA00 source=LCSCSearchDownload(75).csv availability=8200 kept_source=LCSCSearchDownload(76).csv kept_availability=8200
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C1512132 mpn=BLM18SP102SH1D source=LCSCSearchDownload(75).csv availability=8160 kept_source=LCSCSearchDownload(76).csv kept_availability=8160
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C307763 mpn=MMZ1608S102ATD25 source=LCSCSearchDownload(75).csv availability=8160 kept_source=LCSCSearchDownload(76).csv kept_availability=8160
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C97851 mpn=BLM18BD121SN1D source=LCSCSearchDownload(75).csv availability=8160 kept_source=LCSCSearchDownload(76).csv kept_availability=8160
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C165811 mpn=MPZ1005S221ET000 source=LCSCSearchDownload(75).csv availability=8150 kept_source=LCSCSearchDownload(76).csv kept_availability=8150
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275415 mpn=MMZ1005D221ET000 source=LCSCSearchDownload(75).csv availability=8063 kept_source=LCSCSearchDownload(76).csv kept_availability=8063
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275442 mpn=MMZ1608D800CTAH0 source=LCSCSearchDownload(75).csv availability=8040 kept_source=LCSCSearchDownload(76).csv kept_availability=8040
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C1870222 mpn=MPZ1005S221HT000 source=LCSCSearchDownload(75).csv availability=8020 kept_source=LCSCSearchDownload(76).csv kept_availability=8020
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C404684 mpn=MPZ1608D101BTD25 source=LCSCSearchDownload(75).csv availability=8000 kept_source=LCSCSearchDownload(76).csv kept_availability=8000
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661668 mpn=BLM18BD222SH1D source=LCSCSearchDownload(75).csv availability=7940 kept_source=LCSCSearchDownload(76).csv kept_availability=7940
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275449 mpn=MMZ1608S202ATA00 source=LCSCSearchDownload(75).csv availability=7910 kept_source=LCSCSearchDownload(76).csv kept_availability=7910
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661472 mpn=PE-0603PFB121ST source=LCSCSearchDownload(75).csv availability=7870 kept_source=LCSCSearchDownload(76).csv kept_availability=7870
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661478 mpn=BLM18KG471SZ1D source=LCSCSearchDownload(75).csv availability=7850 kept_source=LCSCSearchDownload(76).csv kept_availability=7850
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275421 mpn=MMZ1005F560CT000 source=LCSCSearchDownload(75).csv availability=7850 kept_source=LCSCSearchDownload(76).csv kept_availability=7850
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2680657 mpn=MAF1005GAD262AT000 source=LCSCSearchDownload(75).csv availability=7840 kept_source=LCSCSearchDownload(76).csv kept_availability=7840
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C113016 mpn=BLM18BB100SN1D source=LCSCSearchDownload(75).csv availability=7820 kept_source=LCSCSearchDownload(76).csv kept_availability=7820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661459 mpn=PE-0603FB601ST source=LCSCSearchDownload(75).csv availability=7700 kept_source=LCSCSearchDownload(76).csv kept_availability=7700
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C527966 mpn=BLM21RK601SN1D source=LCSCSearchDownload(75).csv availability=7650 kept_source=LCSCSearchDownload(76).csv kept_availability=7650
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C527991 mpn=BLM18KG221SH1D source=LCSCSearchDownload(75).csv availability=7580 kept_source=LCSCSearchDownload(76).csv kept_availability=7580
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C3764529 mpn=BLM15BD102SZ1D source=LCSCSearchDownload(75).csv availability=7550 kept_source=LCSCSearchDownload(76).csv kept_availability=7550
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C882963 mpn=BLM15BB121SH1D source=LCSCSearchDownload(75).csv availability=7550 kept_source=LCSCSearchDownload(76).csv kept_availability=7550
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C160967 mpn=BLM15AG102SH1D source=LCSCSearchDownload(75).csv availability=7550 kept_source=LCSCSearchDownload(76).csv kept_availability=7550
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C913447 mpn=BLM18SG260TZ1D source=LCSCSearchDownload(75).csv availability=7540 kept_source=LCSCSearchDownload(76).csv kept_availability=7540
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C437406 mpn=BLM21AG601SH1D source=LCSCSearchDownload(75).csv availability=7480 kept_source=LCSCSearchDownload(76).csv kept_availability=7480
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C76807 mpn=MMZ1005Y400CT000 source=LCSCSearchDownload(75).csv availability=7470 kept_source=LCSCSearchDownload(76).csv kept_availability=7470
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C710370 mpn=BLM18KG101TH1D source=LCSCSearchDownload(75).csv availability=7440 kept_source=LCSCSearchDownload(76).csv kept_availability=7440
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C87554 mpn=MPZ1608D101BTA00 source=LCSCSearchDownload(75).csv availability=7390 kept_source=LCSCSearchDownload(76).csv kept_availability=7390
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C882961 mpn=BLM15AX121SN1D11 source=LCSCSearchDownload(75).csv availability=7250 kept_source=LCSCSearchDownload(76).csv kept_availability=7250
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C3716467 mpn=BLM15BD121SZ1D source=LCSCSearchDownload(75).csv availability=7100 kept_source=LCSCSearchDownload(76).csv kept_availability=7100
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C437410 mpn=BLM21PG121SH1D source=LCSCSearchDownload(75).csv availability=7100 kept_source=LCSCSearchDownload(76).csv kept_availability=7100
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C136225 mpn=MMZ1608R301ATA00 source=LCSCSearchDownload(75).csv availability=7030 kept_source=LCSCSearchDownload(76).csv kept_availability=7030
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275422 mpn=MMZ1005F750ET000 source=LCSCSearchDownload(75).csv availability=6952 kept_source=LCSCSearchDownload(76).csv kept_availability=6952
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C307756 mpn=MMZ1005AFZ151VT000 source=LCSCSearchDownload(75).csv availability=6900 kept_source=LCSCSearchDownload(76).csv kept_availability=6900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C531293 mpn=MMZ1608Y102BTD25 source=LCSCSearchDownload(75).csv availability=6780 kept_source=LCSCSearchDownload(76).csv kept_availability=6780
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C596494 mpn=BLM18HE152SH1D source=LCSCSearchDownload(75).csv availability=6760 kept_source=LCSCSearchDownload(76).csv kept_availability=6760
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C72904 mpn=BLM21PG331SH1D source=LCSCSearchDownload(75).csv availability=6760 kept_source=LCSCSearchDownload(76).csv kept_availability=6760
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275478 mpn=MPZ1005S121HT000 source=LCSCSearchDownload(75).csv availability=6750 kept_source=LCSCSearchDownload(76).csv kept_availability=6750
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C710334 mpn=BLM15BD601SH1D source=LCSCSearchDownload(75).csv availability=6650 kept_source=LCSCSearchDownload(76).csv kept_availability=6650
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C845116 mpn=ILHB0603ER121V source=LCSCSearchDownload(75).csv availability=6580 kept_source=LCSCSearchDownload(76).csv kept_availability=6580
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C413959 mpn=BLM21BD152SN1D source=LCSCSearchDownload(75).csv availability=6450 kept_source=LCSCSearchDownload(76).csv kept_availability=6450
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C307774 mpn=MPZ1608S471ATD25 source=LCSCSearchDownload(75).csv availability=6380 kept_source=LCSCSearchDownload(76).csv kept_availability=6380
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661959 mpn=BLM15HG601SH1D source=LCSCSearchDownload(75).csv availability=6360 kept_source=LCSCSearchDownload(76).csv kept_availability=6360
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C23568 mpn=BLM21BB121SN1D source=LCSCSearchDownload(75).csv availability=6340 kept_source=LCSCSearchDownload(76).csv kept_availability=6340
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C160971 mpn=BLM15EX471SN1D source=LCSCSearchDownload(75).csv availability=6320 kept_source=LCSCSearchDownload(76).csv kept_availability=6320
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661893 mpn=BLM21PG220SZ1D source=LCSCSearchDownload(75).csv availability=6300 kept_source=LCSCSearchDownload(76).csv kept_availability=6300
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C265028 mpn=BLM18RK221SN1D source=LCSCSearchDownload(75).csv availability=6300 kept_source=LCSCSearchDownload(76).csv kept_availability=6300
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C85836 mpn=BLM21AG151SN1D source=LCSCSearchDownload(75).csv availability=6260 kept_source=LCSCSearchDownload(76).csv kept_availability=6260
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661475 mpn=BLM18AG471SH1D source=LCSCSearchDownload(75).csv availability=6240 kept_source=LCSCSearchDownload(76).csv kept_availability=6240
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C160983 mpn=BLM18PG121SZ1D source=LCSCSearchDownload(75).csv availability=6220 kept_source=LCSCSearchDownload(76).csv kept_availability=6220
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C710389 mpn=BLM18SD220SN1D source=LCSCSearchDownload(75).csv availability=6180 kept_source=LCSCSearchDownload(76).csv kept_availability=6180
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2661743 mpn=MMZ1005S182ETD25 source=LCSCSearchDownload(75).csv availability=6160 kept_source=LCSCSearchDownload(76).csv kept_availability=6160
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C780187 mpn=MH1608-221Y source=LCSCSearchDownload(75).csv availability=6160 kept_source=LCSCSearchDownload(76).csv kept_availability=6160
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C404680 mpn=MPZ1608Y101BTD25 source=LCSCSearchDownload(75).csv availability=6140 kept_source=LCSCSearchDownload(76).csv kept_availability=6140
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C139473 mpn=MU1608-600Y source=LCSCSearchDownload(75).csv availability=6010 kept_source=LCSCSearchDownload(76).csv kept_availability=6010
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C437409 mpn=BLM21BD272SH1L source=LCSCSearchDownload(75).csv availability=5970 kept_source=LCSCSearchDownload(76).csv kept_availability=5970
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C275448 mpn=MMZ1608S102ATA00 source=LCSCSearchDownload(75).csv availability=5900 kept_source=LCSCSearchDownload(76).csv kept_availability=5900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C1533922 mpn=BLM21SP181BH1D source=LCSCSearchDownload(75).csv availability=5895 kept_source=LCSCSearchDownload(76).csv kept_availability=5895
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C107331 mpn=MPZ1005S121CT000 source=LCSCSearchDownload(75).csv availability=5860 kept_source=LCSCSearchDownload(76).csv kept_availability=5860
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22395565 mpn=MMSZ5246BS source=LCSCSearchDownload(65).csv availability=339140 kept_source=LCSCSearchDownload(67).csv kept_availability=339140
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22395565 mpn=MMSZ5246BS source=LCSCSearchDownload(66).csv availability=339140 kept_source=LCSCSearchDownload(67).csv kept_availability=339140
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077424 mpn=MMSZ5235B source=LCSCSearchDownload(65).csv availability=175900 kept_source=LCSCSearchDownload(67).csv kept_availability=175900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077424 mpn=MMSZ5235B source=LCSCSearchDownload(66).csv availability=175900 kept_source=LCSCSearchDownload(67).csv kept_availability=175900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C66198 mpn=MMSZ5231BT1G source=LCSCSearchDownload(65).csv availability=124440 kept_source=LCSCSearchDownload(67).csv kept_availability=124440
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C66198 mpn=MMSZ5231BT1G source=LCSCSearchDownload(66).csv availability=124440 kept_source=LCSCSearchDownload(67).csv kept_availability=124440
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C500776 mpn=MMSZ5242B-7-F source=LCSCSearchDownload(65).csv availability=117020 kept_source=LCSCSearchDownload(67).csv kept_availability=117020
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C500776 mpn=MMSZ5242B-7-F source=LCSCSearchDownload(66).csv availability=117020 kept_source=LCSCSearchDownload(67).csv kept_availability=117020
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2126 mpn=MMSZ5245B source=LCSCSearchDownload(65).csv availability=112840 kept_source=LCSCSearchDownload(67).csv kept_availability=112840
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2126 mpn=MMSZ5245B source=LCSCSearchDownload(66).csv availability=112840 kept_source=LCSCSearchDownload(67).csv kept_availability=112840
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077428 mpn=MMSZ5245B source=LCSCSearchDownload(65).csv availability=96740 kept_source=LCSCSearchDownload(67).csv kept_availability=96740
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077428 mpn=MMSZ5245B source=LCSCSearchDownload(66).csv availability=96740 kept_source=LCSCSearchDownload(67).csv kept_availability=96740
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C150760 mpn=MMSZ5236B-7-F source=LCSCSearchDownload(65).csv availability=83760 kept_source=LCSCSearchDownload(67).csv kept_availability=83760
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C150760 mpn=MMSZ5236B-7-F source=LCSCSearchDownload(66).csv availability=83760 kept_source=LCSCSearchDownload(67).csv kept_availability=83760
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077426 mpn=MMSZ5242B source=LCSCSearchDownload(65).csv availability=82800 kept_source=LCSCSearchDownload(67).csv kept_availability=82800
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077426 mpn=MMSZ5242B source=LCSCSearchDownload(66).csv availability=82800 kept_source=LCSCSearchDownload(67).csv kept_availability=82800
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C85181 mpn=MMSZ5231B-7-F source=LCSCSearchDownload(65).csv availability=64560 kept_source=LCSCSearchDownload(67).csv kept_availability=64560
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C85181 mpn=MMSZ5231B-7-F source=LCSCSearchDownload(66).csv availability=64560 kept_source=LCSCSearchDownload(67).csv kept_availability=64560
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C236103 mpn=MMSZ5237BT1G source=LCSCSearchDownload(65).csv availability=63350 kept_source=LCSCSearchDownload(67).csv kept_availability=63350
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C236103 mpn=MMSZ5237BT1G source=LCSCSearchDownload(66).csv availability=63350 kept_source=LCSCSearchDownload(67).csv kept_availability=63350
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077433 mpn=MMSZ5256B source=LCSCSearchDownload(65).csv availability=60200 kept_source=LCSCSearchDownload(67).csv kept_availability=60200
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077433 mpn=MMSZ5256B source=LCSCSearchDownload(66).csv availability=60200 kept_source=LCSCSearchDownload(67).csv kept_availability=60200
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077423 mpn=MMSZ5232B source=LCSCSearchDownload(65).csv availability=57150 kept_source=LCSCSearchDownload(67).csv kept_availability=57150
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077423 mpn=MMSZ5232B source=LCSCSearchDownload(66).csv availability=57150 kept_source=LCSCSearchDownload(67).csv kept_availability=57150
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C21554 mpn=MMSZ5232B source=LCSCSearchDownload(65).csv availability=49820 kept_source=LCSCSearchDownload(67).csv kept_availability=49820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C21554 mpn=MMSZ5232B source=LCSCSearchDownload(66).csv availability=49820 kept_source=LCSCSearchDownload(67).csv kept_availability=49820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22395558 mpn=MMSZ5239B source=LCSCSearchDownload(65).csv availability=49000 kept_source=LCSCSearchDownload(67).csv kept_availability=49000
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22395558 mpn=MMSZ5239B source=LCSCSearchDownload(66).csv availability=49000 kept_source=LCSCSearchDownload(67).csv kept_availability=49000
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077431 mpn=MMSZ5250B source=LCSCSearchDownload(65).csv availability=47840 kept_source=LCSCSearchDownload(67).csv kept_availability=47840
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077431 mpn=MMSZ5250B source=LCSCSearchDownload(66).csv availability=47840 kept_source=LCSCSearchDownload(67).csv kept_availability=47840
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C129730 mpn=MMSZ5245BT1G source=LCSCSearchDownload(65).csv availability=44500 kept_source=LCSCSearchDownload(67).csv kept_availability=44500
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C129730 mpn=MMSZ5245BT1G source=LCSCSearchDownload(66).csv availability=44500 kept_source=LCSCSearchDownload(67).csv kept_availability=44500
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C235771 mpn=MMSZ5226BT1G source=LCSCSearchDownload(65).csv availability=41820 kept_source=LCSCSearchDownload(67).csv kept_availability=41820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C235771 mpn=MMSZ5226BT1G source=LCSCSearchDownload(66).csv availability=41820 kept_source=LCSCSearchDownload(67).csv kept_availability=41820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C151060 mpn=MMSZ5240B-7-F source=LCSCSearchDownload(65).csv availability=40900 kept_source=LCSCSearchDownload(67).csv kept_availability=40900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C151060 mpn=MMSZ5240B-7-F source=LCSCSearchDownload(66).csv availability=40900 kept_source=LCSCSearchDownload(67).csv kept_availability=40900
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C21567 mpn=MMSZ5242B source=LCSCSearchDownload(65).csv availability=37400 kept_source=LCSCSearchDownload(67).csv kept_availability=37400
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C21567 mpn=MMSZ5242B source=LCSCSearchDownload(66).csv availability=37400 kept_source=LCSCSearchDownload(67).csv kept_availability=37400
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2127 mpn=MMSZ5248B source=LCSCSearchDownload(65).csv availability=36880 kept_source=LCSCSearchDownload(67).csv kept_availability=36880
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C2127 mpn=MMSZ5248B source=LCSCSearchDownload(66).csv availability=36880 kept_source=LCSCSearchDownload(67).csv kept_availability=36880
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C3031842 mpn=MMSZ5240BS source=LCSCSearchDownload(65).csv availability=36820 kept_source=LCSCSearchDownload(67).csv kept_availability=36820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C3031842 mpn=MMSZ5240BS source=LCSCSearchDownload(66).csv availability=36820 kept_source=LCSCSearchDownload(67).csv kept_availability=36820
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C891728 mpn=MMSZ5239BT1G source=LCSCSearchDownload(65).csv availability=36150 kept_source=LCSCSearchDownload(67).csv kept_availability=36150
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C891728 mpn=MMSZ5239BT1G source=LCSCSearchDownload(66).csv availability=36150 kept_source=LCSCSearchDownload(67).csv kept_availability=36150
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077422 mpn=MMSZ5231B source=LCSCSearchDownload(65).csv availability=35450 kept_source=LCSCSearchDownload(67).csv kept_availability=35450
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C19077422 mpn=MMSZ5231B source=LCSCSearchDownload(66).csv availability=35450 kept_source=LCSCSearchDownload(67).csv kept_availability=35450
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22399896 mpn=MMSZ5229B source=LCSCSearchDownload(65).csv availability=32520 kept_source=LCSCSearchDownload(67).csv kept_availability=32520
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22399896 mpn=MMSZ5229B source=LCSCSearchDownload(66).csv availability=32520 kept_source=LCSCSearchDownload(67).csv kept_availability=32520
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22395560 mpn=MMSZ5251B source=LCSCSearchDownload(65).csv availability=31550 kept_source=LCSCSearchDownload(67).csv kept_availability=31550
+[2026-08-19T10:19:29] DEDUP_DROP lcsc=C22395560 mpn=MMSZ5251B source=LCSCSearchDownload(66).csv availability=31550 kept_source=LCSCSearchDownload(67).csv kept_availability=31550
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C14709 mpn=BLM18PG121SN1D reasons=mpn_not_in_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C15014 mpn=MMZ2012S601AT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C17305 mpn=BLM18PG300SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C18305 mpn=BLM21PG600SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C20345 mpn=BLM18EG601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C21516 mpn=BLM15HD102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C23568 mpn=BLM21BB121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C37751 mpn=BLM21BD102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C72904 mpn=BLM21PG331SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C73225 mpn=BLM18AG601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76802 mpn=MMZ1005A152ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76804 mpn=MMZ1005S601CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76805 mpn=MMZ1005S800CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76807 mpn=MMZ1005Y400CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76808 mpn=MMZ1608D500CTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76813 mpn=MPZ1005S600CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76882 mpn=BLM15AG100SN1D reasons=unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76888 mpn=BLM15HD182SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76889 mpn=BLM15HG102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76890 mpn=BLM15HG601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C76893 mpn=BLM18EG101TN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C77668 mpn=BLM18BD252SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C78748 mpn=BLM18BD102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C80165 mpn=BLM18PG221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C82155 mpn=BLM18HE152SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C82848 mpn=BLM18HG102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C82861 mpn=BLM15EG121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C85821 mpn=BLM15EG221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C85827 mpn=BLM18EG221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C85828 mpn=BLM18HE102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C85829 mpn=BLM18HG471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C85830 mpn=BLM18HG601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C87063 mpn=BLM18SG260TN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C87549 mpn=MMZ1005S241CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C87550 mpn=MMZ1005S601ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C87552 mpn=MMZ1005Y601CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C87553 mpn=MMZ1608Y600BTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88964 mpn=BLM15GG471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88965 mpn=BLM15HB121SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88966 mpn=BLM15HB221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88967 mpn=BLM15HD601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88977 mpn=BLM18GG471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88978 mpn=BLM18HD601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88979 mpn=BLM18HE601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88983 mpn=BLM18PG330SH1D reasons=mpn_not_in_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88985 mpn=BLM18PG600SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88992 mpn=BLM21AG331SN1D reasons=stock
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C88994 mpn=BLM21PG221SH1D reasons=mpn_not_in_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C89445 mpn=MMZ1608R102ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C89458 mpn=MMZ1005F121ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C91573 mpn=BLM15AG121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C92036 mpn=MMZ1005S121CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C94265 mpn=MMZ1608S181ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C97120 mpn=MMZ1608B601CTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C97852 mpn=BLM18HK102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C107324 mpn=MMZ1005Y121CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C107326 mpn=MMZ1608R601ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C107328 mpn=MMZ1608S800ATA00 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C107331 mpn=MPZ1005S121CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113008 mpn=BLM15BB100SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113009 mpn=BLM15GA750SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113010 mpn=BLM18AG331SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113016 mpn=BLM18BB100SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113018 mpn=BLM18BB470SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113020 mpn=BLM18BD182SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113022 mpn=BLM18BD222SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113023 mpn=BLM18BD421SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113024 mpn=BLM18BD471SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113025 mpn=BLM18EG221TN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113026 mpn=BLM18HD102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113029 mpn=BLM18KG700TN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113030 mpn=BLM18SG121TN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113031 mpn=BLM18SG700TN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C113034 mpn=BLM21AJ601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C114767 mpn=MMZ1608B301CTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C114771 mpn=MMZ1608Y102BTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C118443 mpn=BLM21BB600SN1D reasons=stock
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C136223 mpn=MMZ1608S121ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C136225 mpn=MMZ1608R301ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C136263 mpn=MMZ1608R300ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C136490 mpn=MMZ1608R121ATA00 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C136491 mpn=MMZ1608Y601BTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139459 mpn=MG1608-101Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139462 mpn=MG2029-101Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139463 mpn=MG2029-121Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139468 mpn=MU1005-600Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139469 mpn=MU1005-601Y reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139470 mpn=MU1608-151Y reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139471 mpn=MU1608-221Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139473 mpn=MU1608-600Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139474 mpn=MU2029-151Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C139476 mpn=MZ1608-601Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160967 mpn=BLM15AG102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160968 mpn=BLM15AX700SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160969 mpn=BLM15BA050SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160971 mpn=BLM15EX471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160972 mpn=BLM15PD800SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160973 mpn=BLM15PX221SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160974 mpn=BLM15PX330SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160978 mpn=BLM15PX800SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160980 mpn=BLM18HK601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160982 mpn=BLM18KG102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160983 mpn=BLM18PG121SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160985 mpn=BLM18PG471SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C160987 mpn=BLM21PG121SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C165809 mpn=MPZ1005S600CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C165810 mpn=MPZ1005S221ETD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C165811 mpn=MPZ1005S221ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C167448 mpn=BLM15GG221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C180490 mpn=BLM18EG601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C193388 mpn=MMZ1005S601CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C193411 mpn=MPZ1608S102ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C193412 mpn=MMZ1005S102HT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C193536 mpn=MPZ1608S601ATD25 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C237300 mpn=BLM21PG600SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C237533 mpn=BLM18RK121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C237604 mpn=BLM21BB201SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C265028 mpn=BLM18RK221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C269768 mpn=BLM15AG221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C269769 mpn=BLM15BX102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275408 mpn=MMZ1005A102ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275412 mpn=MMZ1005A601ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275413 mpn=MMZ1005B601CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275415 mpn=MMZ1005D221ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275418 mpn=MMZ1005F330CT000 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275419 mpn=MMZ1005F470CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275420 mpn=MMZ1005F470ET000 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275421 mpn=MMZ1005F560CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275422 mpn=MMZ1005F750ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275423 mpn=MMZ1005S102ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275428 mpn=MMZ1005Y102CT000 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275430 mpn=MMZ1005Y152CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275434 mpn=MMZ1608A252BTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275435 mpn=MMZ1608B102CTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275436 mpn=MMZ1608B121CTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275437 mpn=MMZ1608B601CTDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275439 mpn=MMZ1608D121CTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275442 mpn=MMZ1608D800CTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275445 mpn=MMZ1608R150ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275447 mpn=MMZ1608R600ATA00 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275448 mpn=MMZ1608S102ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275449 mpn=MMZ1608S202ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275451 mpn=MMZ1608S601ATA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275454 mpn=MMZ1608Y152BTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275473 mpn=MMZ2012Y301BT000 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275476 mpn=MPZ1005S100CT000 reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275477 mpn=MPZ1005S121ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275478 mpn=MPZ1005S121HT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275480 mpn=MPZ1005S300CT000 reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275481 mpn=MPZ1005S331ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C275486 mpn=MPZ1608S300ATAH0 reasons=unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307687 mpn=MAF1608GAD471CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307756 mpn=MMZ1005AFZ151VT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307758 mpn=MMZ1608B102CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307759 mpn=MMZ1608D050CTA00 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307761 mpn=MMZ1608R102ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307762 mpn=MMZ1608R600ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307763 mpn=MMZ1608S102ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307764 mpn=MMZ1608S202ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307767 mpn=MPZ1608D300BTD25 reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307768 mpn=MPZ1608R391ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307769 mpn=MPZ1608S101ATDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307770 mpn=MPZ1608S121ATDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307771 mpn=MPZ1608S221ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307772 mpn=MPZ1608S300ATDH5 reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307773 mpn=MPZ1608S331ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307774 mpn=MPZ1608S471ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307775 mpn=MPZ1608S600ATDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C307777 mpn=MPZ2012S102JTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C333843 mpn=BLM18BD470SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C335604 mpn=ILBB0603ER102V reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C335605 mpn=ILBB0805ER110V reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337873 mpn=BLM15AX121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337874 mpn=BLM15BD121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337875 mpn=BLM15BD601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337876 mpn=BLM15HD182SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337877 mpn=BLM18AG102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337878 mpn=BLM18AG151SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337880 mpn=BLM18EG471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337882 mpn=BLM21AG102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C337883 mpn=BLM21PG600SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C338243 mpn=NFZ15SG262SN10D reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C338244 mpn=NFZ18SM121SN10D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C341514 mpn=BLM18HK331SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C341661 mpn=BLM18HE601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C341662 mpn=BLM21BB221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C341663 mpn=BLM21BD601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C341664 mpn=BLM21PG220SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C354394 mpn=BLM18PG121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C360716 mpn=MMZ1005S102CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C396652 mpn=BLM18KG121TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C397297 mpn=BLM15BA470SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C397304 mpn=BLM21AG471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404396 mpn=KPZ1608SHR601ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404679 mpn=MPZ1608Y600BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404680 mpn=MPZ1608Y101BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404681 mpn=MPZ1608Y151BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404684 mpn=MPZ1608D101BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404687 mpn=MPZ1005S121CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404693 mpn=MMZ1005S121CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404697 mpn=MMZ1005Y121CTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C404717 mpn=MMZ1005S601HTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C413911 mpn=MAF1005GAD152AT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C413959 mpn=BLM21BD152SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C413961 mpn=BLM18KG471SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C426325 mpn=BLM15EX121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C426644 mpn=BLM21AG331SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C432169 mpn=BLM18KG471SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C432982 mpn=KMZ1608YHR601BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C433027 mpn=MMZ1608B301CTDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C433032 mpn=MMZ1608Y300BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C434836 mpn=MPZ1005S330HT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437400 mpn=BLM18BD102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437401 mpn=BLM18HB221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437402 mpn=BLM18HD601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437403 mpn=BLM18HE152SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437405 mpn=BLM18PG300SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437406 mpn=BLM21AG601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437407 mpn=BLM21BB201SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437408 mpn=BLM21BD102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437409 mpn=BLM21BD272SH1L reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437410 mpn=BLM21PG121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C437411 mpn=BLM21PG221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C440129 mpn=BLM18AG121SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C440134 mpn=BLM21BD222SN1L reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C441741 mpn=BLM21BD601SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C442498 mpn=ILHB0805ER121V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C445756 mpn=MPZ1005S331ETD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C476007 mpn=BLM18BB750SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C524456 mpn=MMZ1005D241CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C524528 mpn=BLM18AG102BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C524529 mpn=BLM18HE102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C524531 mpn=BLM21AG601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C525480 mpn=BLM15AG601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C527614 mpn=BLM21BD182SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C527619 mpn=BLM15EX221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C527966 mpn=BLM21RK601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C527979 mpn=BLM18HG102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C527985 mpn=BLM15AG700SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C527991 mpn=BLM18KG221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C531292 mpn=MMZ1005D100CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C531293 mpn=MMZ1608Y102BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C531393 mpn=MAF1005GAD701DT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560047 mpn=BLM18KG121JH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560050 mpn=BLM15PX221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560053 mpn=BLM18KG221BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560054 mpn=BLM18AG601BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560058 mpn=BLM18KG102BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560060 mpn=BLM15AG601SN1D11 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C560062 mpn=BLM15KD200SN1D11 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C576399 mpn=BLM18SG330SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C596493 mpn=BLM18KG300TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C596494 mpn=BLM18HE152SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C596495 mpn=BLM18BD102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C596496 mpn=BLM21SN300SN1D reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C596497 mpn=BLM15BB220SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C596498 mpn=BLM15EX331SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C668299 mpn=BLM15AX100SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C668302 mpn=BLM18KG601BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C694571 mpn=MMZ1005S182ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C695168 mpn=MMZ1608Q121BTA00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701156 mpn=BLM18EG221TH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701257 mpn=BLM21PG300SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701260 mpn=BLM15KD200SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701265 mpn=BLM21PG331SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701266 mpn=BLM15PX121SZ1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701292 mpn=BLM15BX182SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C701307 mpn=BLM15BB050SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C703137 mpn=BLM21SN300SH1D reasons=no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710326 mpn=BLM15AG102SZ1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710329 mpn=BLM15AX102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710330 mpn=BLM15AX601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710331 mpn=BLM15BB100SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710334 mpn=BLM15BD601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710336 mpn=BLM15BX601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710337 mpn=BLM15EG121SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710338 mpn=BLM15EG221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710339 mpn=BLM15GG471SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710340 mpn=BLM15HD601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710341 mpn=BLM15HG102BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710343 mpn=BLM15KD121SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710347 mpn=BLM15PX601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710349 mpn=BLM18AG121BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710353 mpn=BLM18AG601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710356 mpn=BLM18BD252BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710361 mpn=BLM18EG101TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710362 mpn=BLM18EG121SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710364 mpn=BLM18EG221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710365 mpn=BLM18EG221TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710366 mpn=BLM18EG471SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710369 mpn=BLM18HG471SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710370 mpn=BLM18KG101TH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710373 mpn=BLM18KG300JH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710374 mpn=BLM18KG300TH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710377 mpn=BLM18KG331SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710379 mpn=BLM18KG601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710382 mpn=BLM18KG700TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710383 mpn=BLM18PG181SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710384 mpn=BLM18PG221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710385 mpn=BLM18PG300SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710386 mpn=BLM18PG331SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710387 mpn=BLM18PG471SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710388 mpn=BLM18PG600SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710389 mpn=BLM18SD220SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710390 mpn=BLM18SG121TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710392 mpn=BLM18SN220TH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710397 mpn=BLM21AG121BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710503 mpn=BLM21BB750SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710504 mpn=BLM21BD151SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710506 mpn=BLM21BD331SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710507 mpn=BLM21BD471SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710508 mpn=BLM21PG121BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710509 mpn=BLM21PG220BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710510 mpn=BLM21PG300SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C710511 mpn=BLM21RK221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C711569 mpn=BLM18PG221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C711570 mpn=BLM21BB331SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C723884 mpn=BLM15HG601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C783274 mpn=BLM15HD102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C845115 mpn=ILBB0805ER601V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C845116 mpn=ILHB0603ER121V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C845117 mpn=ILHB0805ER600V reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C845118 mpn=ILHB0805ER601V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C880687 mpn=MPZ1005F470ETD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882614 mpn=BLM21SP111SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882954 mpn=BLM18EG121SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882959 mpn=BLM15AG102SN1D11 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882960 mpn=BLM15PD300SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882961 mpn=BLM15AX121SN1D11 reasons=line_count,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882963 mpn=BLM15BB121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882965 mpn=BLM15PX601SN1D11 reasons=line_count,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882970 mpn=BLM15PX330SN1D11 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882971 mpn=BLM15KD121SN1D11 reasons=line_count,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C882978 mpn=BLM18HE601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C883597 mpn=BLM18KG102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C907937 mpn=BLM18EG331TH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C907941 mpn=BLM18BD152SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C913240 mpn=MH2029-100Y reasons=line_count
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C913447 mpn=BLM18SG260TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C913680 mpn=BLM18BA470SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1235311 mpn=BLM18BD421SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1235320 mpn=BLM18BB220SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1235333 mpn=BLM21BD121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1512132 mpn=BLM18SP102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1512133 mpn=BLM18SP601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1513036 mpn=MDF1005GAD102ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533843 mpn=ILBB0603ER300V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533863 mpn=BLM18BD222BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533880 mpn=BLM15HB221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533884 mpn=MMZ1005S121HT000 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533898 mpn=NFZ15SG152SN10D reasons=unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533901 mpn=BLM18DN221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533913 mpn=BLM18DN601SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533916 mpn=BLM21SP331SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533918 mpn=BLM21SP181SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533919 mpn=BLM21SP102SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533922 mpn=BLM21SP181BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533970 mpn=MZ2029-601T reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1533986 mpn=ILBB0603ER400V reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C1870222 mpn=MPZ1005S221HT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2162867 mpn=MAF1608GAD121LTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661450 mpn=PE-0805PFB600ST reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661459 mpn=PE-0603FB601ST reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661467 mpn=MMZ1608S121ATD25 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661472 mpn=PE-0603PFB121ST reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661475 mpn=BLM18AG471SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661478 mpn=BLM18KG471SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661522 mpn=KMZ1608AHR252BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661532 mpn=MPZ1005S121ETD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661536 mpn=BLM18BB221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661547 mpn=MMZ1608Q102BTD25 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661555 mpn=MMZ1608Y121BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661556 mpn=MMZ1005A222ETD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661564 mpn=MMZ1608D121BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661569 mpn=BLM21SP102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661571 mpn=MAF1608GAD601CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661573 mpn=MAF1608GAD471LTAH0 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661578 mpn=BLM18BB100SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661601 mpn=BLM18DN381SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661621 mpn=ILBB0603ER601V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661637 mpn=MH1608-471Y reasons=stock
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661638 mpn=MMZ1608B121CTDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661642 mpn=BLM18KG101JH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661649 mpn=MMZ1608D100CTDH5 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661668 mpn=BLM18BD222SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661673 mpn=BLM15PX330SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661695 mpn=BLM18DN221SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661717 mpn=BLM21AG471SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661743 mpn=MMZ1005S182ETD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661775 mpn=MMZ2012Y301BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661776 mpn=BLM21SP331SZ1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661781 mpn=BLM21SP601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661784 mpn=BLM21SP331SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661785 mpn=BLM21SP700BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661786 mpn=BLM21SP181SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661789 mpn=BLM21SP102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661790 mpn=BLM21SP700SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661817 mpn=BLM15EG121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661831 mpn=MMZ1608Y471BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661836 mpn=BLM21SP601SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661844 mpn=MMZ1608A222BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661863 mpn=ILHB0805ER300V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661880 mpn=MMZ1608D301BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661893 mpn=BLM21PG220SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661897 mpn=BLM18SG221TZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661926 mpn=BLM15AG121SZ1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661933 mpn=MU2029-221Y reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661947 mpn=BLM15GG221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2661959 mpn=BLM15HG601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2662025 mpn=BLM15EG221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2662026 mpn=MAF1005GAD352AT000 reasons=stock,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2680657 mpn=MAF1005GAD262AT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2683169 mpn=KPZ1608SHR221ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2683172 mpn=MMZ1005Y182CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2833000 mpn=MAF1005GWZ102AT000 reasons=line_count,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2833717 mpn=MMZ1005D330CT000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C2986272 mpn=NFZ15SG331SN11D reasons=unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3011650 mpn=BLM18KG102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716400 mpn=BLM18SP102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716467 mpn=BLM15BD121SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716513 mpn=BLM18DN601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716538 mpn=MMZ1608SHE601ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716550 mpn=BLE18PS080BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716558 mpn=BLM15HB221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716583 mpn=BLM18SP601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716631 mpn=BLM21SP111SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716637 mpn=ILBB0603ER600V reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716677 mpn=BLM21SP601SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716689 mpn=BLM18AG221BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716705 mpn=BLM18PG330SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716723 mpn=BLM18KN101EH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716747 mpn=BLM18SP300SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716757 mpn=BLM21PG331BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716766 mpn=BLM21BD222TH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716810 mpn=BLM15PE221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716829 mpn=BLM15HD601BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3716913 mpn=BLE18PK160SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3717002 mpn=BLM18SP101SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3717088 mpn=BLM18DN601SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764392 mpn=BLM21SP471SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764403 mpn=BLM15AX221SZ1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764407 mpn=BLE18PS080SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764418 mpn=BLM15PE601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764460 mpn=BLM21AG471BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764469 mpn=BLM18SP221SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764477 mpn=BLM18SP221SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C3764529 mpn=BLM15BD102SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5119332 mpn=MMZ1608R471ATD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5143540 mpn=BLM21SP700SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5331015 mpn=MPZ1005A151ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5374769 mpn=BLM18HE102SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5374773 mpn=BLM21SP181SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5558001 mpn=BMC1JY0052AN reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5558745 mpn=BLM21SP331BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5578407 mpn=BLM21SP601BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5598068 mpn=BLM15HD601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5598104 mpn=BLM21SP700SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5657097 mpn=ILHB0603ER600V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C5954453 mpn=BMC1EY0070AN reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6131963 mpn=BLM15PE331SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6131972 mpn=BLM21HE472SN1L reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6131973 mpn=BLM21HE802SN1L reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6294426 mpn=MAF1005PAD120CT000 reasons=stock,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6491643 mpn=ABPY00201209601Y00 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6673658 mpn=MMZ1005F181ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6750922 mpn=BBPY00201209221Y00 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6752654 mpn=BLM21AG121SZ1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6752658 mpn=BLM21HE122BH1L reasons=stock,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6868431 mpn=BBPY00160808600Y00 reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6869200 mpn=BLM18BD152BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6869202 mpn=BLM21HE601SH1L reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6869204 mpn=BLM21SP111BH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C6968654 mpn=ILBB0805ER320V reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7212526 mpn=KMZ1608YHR152BTD25 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7303942 mpn=MMZ1005D121ET000 reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7509786 mpn=BLM15PX121BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7509791 mpn=BLM15PX121SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7509800 mpn=BLM15PX221BH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7509803 mpn=BLM15PX221SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7509827 mpn=BLM15PX600SH1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C7509833 mpn=BLM15PX601SH1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C23478986 mpn=BMC2AY0220AN reasons=packaging,stock,line_count,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C24089940 mpn=BMC2AY0300AG reasons=packaging,stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C24500226 mpn=MH2029-300T reasons=stock,line_count,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C26836726 mpn=BBPY00100505121Y00 reasons=line_count,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C41519026 mpn=BLM21PG102SH1D reasons=stock,line_count,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C41556732 mpn=BLM21PG601SN1D reasons=stock,no_local_datasheet
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C41747050 mpn=BLM21PG601SH1D reasons=stock,line_count,no_local_datasheet,unparseable_electrical_data
+[2026-08-19T10:19:29] EXCLUDE kind=ferrite lcsc=C42271794 mpn=BLM21PG102SN1D reasons=no_local_datasheet
+[2026-08-19T10:19:29] ERROR ValueError: Eligible ferrite count changed: 111

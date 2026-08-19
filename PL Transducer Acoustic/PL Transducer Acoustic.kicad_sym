@@ -123,6 +123,18 @@
 				)
 			)
 		)
+		(property "SPL" "-42dB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rated Impedance" "2.2kΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "CMC-2742PBJ-A_0_1"
 			(polyline
 				(pts
@@ -357,6 +369,24 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "SPL" "-62dB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Frequency Range" "40kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Resonant Frequency" "40kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "HY40A16T12-1_0_0"
 			(rectangle

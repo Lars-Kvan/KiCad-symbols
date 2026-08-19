@@ -77,6 +77,39 @@
 				)
 			)
 		)
+		(property "Gain" "External resistor set"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "2.7 V to 36 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "~300 kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "current sense shunt monitor"
 			(at 0 0 0)
 			(show_name no)
@@ -238,7 +271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "PL IC Current Amplifier:SOT-23-5"
 			(at 1.27 1.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -249,7 +282,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina180.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C122228.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.1.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaVFxQQVBbUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -260,7 +293,18 @@
 				)
 			)
 		)
-		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 20 V/V, SOT-23-5"
+		(property "Description" "25uV -200mV~26V 100nA 2V/us 100dB 197uA 350kHz 20V/V 1 SOT-23-5 Amplifiers RoHS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "INA180A1IDBVR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

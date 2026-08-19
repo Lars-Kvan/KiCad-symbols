@@ -1,0 +1,10 @@
+[2026-08-19T09:52:41] BEGIN multi-family non-E6 capacitor update
+[2026-08-19T09:52:41] INPUT library=C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.kicad_sym bytes=488720 sha256=a7f8e2a43a0c656f1ec26d5d780e5b469a4c7476fbc23e6db34394ad68858ab1
+[2026-08-19T09:52:41] INPUT bak=C:\KiCad\9.0\symbols\PL Capacitor MLCC\PL Capacitor MLCC.bak bytes=105843 sha256=732a9a6c73efd00a220b64d67e8525aab16780443eab3893f132a2e65273fd34
+[2026-08-19T09:52:41] UPDATER C:\KiCad\9.0\symbols\PL Capacitor MLCC\Tools\bulk_add_multifamily_capacitors_non_e6.py sha256=74500115b5305bf1e6289607ab6a2202b98b703623d300dc00948bc72e2bff5b
+[2026-08-19T09:52:41] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C0402.kicad_mod bytes=3740 sha256=cd54ff3453785cc53f11be352cd41b98b6807f168481c26010e4fb0d62929a3a
+[2026-08-19T09:52:41] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C0603.kicad_mod bytes=3726 sha256=2fda19f3320e3dc50a13e6799e767eb71ed983fdd337714b9f128156e5eaa010
+[2026-08-19T09:52:41] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C0805.kicad_mod bytes=3818 sha256=a9c3c6e92f2f468c0eb8e45dee0e2383df92ea42ca6cdd580046b4b2ba2245db
+[2026-08-19T09:52:41] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C1206.kicad_mod bytes=3726 sha256=5db981a1451a38796fd1e5078386c1746a258c68ceb64be2c34ae2dd3d2498b9
+[2026-08-19T09:52:41] FOOTPRINT C:\KiCad\9.0\footprints\PL Capacitor MLCC\PL Capacitor MLCC.pretty\C1210.kicad_mod bytes=3728 sha256=84a2c86616df733d9641b8eed666e5693031d71c747f69cd0b4a76fc2aac5c18
+[2026-08-19T09:52:41] ERROR ValueError: PDF Capacitor datasheet.pdf is missing expected text: ['General purpose Class 1, NP0']

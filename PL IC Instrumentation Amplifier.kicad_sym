@@ -102,6 +102,21 @@
 				)
 			)
 		)
+		(property "Gain" "External resistor set"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Common Mode Rejection Ratio" "114 dB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Bandwidth" "~1kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "INA326_0_1"
 			(polyline
 				(pts

@@ -77,6 +77,39 @@
 				)
 			)
 		)
+		(property "Gain" "External resistor set"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "2.7 V to 36 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "~300 kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "current sense shunt monitor"
 			(at 0 0 0)
 			(show_name no)
@@ -272,6 +305,39 @@
 			)
 		)
 		(property "MPN" "INA180A1IDBVR"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gain" "20V/V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "-0.3 V to +26 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "~350 kHz"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -520,6 +586,18 @@
 				)
 			)
 		)
+		(property "Common Mode Voltage" "-0.3V–26V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Bandwidth" "14kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "INA199A1DCKR_0_1"
 			(polyline
 				(pts
@@ -742,6 +820,24 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Bandwidth" "7kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Common Mode Voltage" "26V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Gain" "200V/V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "INA199A3DCKR_0_1"
 			(polyline
@@ -976,6 +1072,18 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Common Mode Voltage" "-0.1V–70V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Bandwidth" "150kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "MAX49921F_0_1"
 			(polyline

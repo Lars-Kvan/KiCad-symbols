@@ -1,0 +1,3 @@
+2026-08-19: Created Data\Raw\LCSC CSV and copied LCSCSearchDownload(80).csv through LCSCSearchDownload(86).csv from Downloads without removing the originals.
+2026-08-19: Created Data\Raw\Datasheets and placed the two source TVS PDFs there; renamed Datasheets copies remain in place for symbol links.
+2026-08-19: Moved SVG validation output directories under Data\Validation\SVG. No .bak or .kicad_sym file was moved.

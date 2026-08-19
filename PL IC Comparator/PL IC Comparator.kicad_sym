@@ -75,6 +75,39 @@
 				)
 			)
 		)
+		(property "GBW" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Offset Voltage" "±1 mV (typ) / ±5 mV (max)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Slew Rate" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "single comparator"
 			(at 0 0 0)
 			(show_name no)
@@ -270,6 +303,39 @@
 			)
 		)
 		(property "MPN" "TLV3602DGKR"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "GBW" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Offset Voltage" "±1 mV (typ) / ±5 mV (max)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Slew Rate" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -563,6 +629,28 @@
 				)
 			)
 		)
+		(property "Offset Voltage" "±1 mV (typ) / ±3 mV (max)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Slew Rate" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_locked" ""
 			(at 0 0 0)
 			(show_name no)
@@ -594,6 +682,12 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "GBW" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "TLV7022DDFR_1_1"
 			(polyline

@@ -96,6 +96,21 @@
 				)
 			)
 		)
+		(property "Supply Voltage" "1.65 V to 5.5 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Number of Gates/Channels" "1 (2-input AND gate)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Propagation Delay" "4ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "SN74LVC1G08DCKR_0_1"
 			(arc
 				(start 0 5.08)
@@ -309,6 +324,21 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Supply Voltage" "1.65 V to 5.5 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Number of Gates/Channels" "1 (D-type positive-edge-triggered flip-flop)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Propagation Delay" "5ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "SN74LVC1G74DCTR_1_1"
 			(rectangle

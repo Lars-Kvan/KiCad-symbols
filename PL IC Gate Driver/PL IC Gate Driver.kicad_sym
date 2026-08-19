@@ -78,6 +78,31 @@
 				(hide yes)
 			)
 		)
+		(property "Supply Voltage Range" "5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "7A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "5A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "400ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "400ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "LMG1020_0_1"
 			(rectangle
 				(start -7.62 10.16)
@@ -481,6 +506,31 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "4.75 V to 5.25 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "7A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "5A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "650ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "850ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "LMG1025_0_1"
 			(rectangle
@@ -895,6 +945,36 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Sink Current" "3A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Fall Time" "1ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Supply Voltage Range" "3V–5.5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Source Current" "3A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rise Time" "1ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "LMG1210RVRR_0_1"
 			(polyline
@@ -2151,6 +2231,31 @@
 				(hide yes)
 			)
 		)
+		(property "Supply Voltage Range" "3.5 V to 15 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "~0.68 A (via 2.2 Ω pull-up)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "~1.5 A (via 1.0 Ω pull-down)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "13ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "8ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "LTC7001_0_1"
 			(rectangle
 				(start -10.16 10.16)
@@ -2443,6 +2548,31 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "8 V to 17 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "4A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "4A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "7ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "6ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "UCC27211DR_0_1"
 			(rectangle
@@ -2911,6 +3041,36 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "4.5V–18V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rise Time" "8ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Fall Time" "7 ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Source Current" "4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Sink Current" "4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "UCC27517DBVR_0_1"
 			(rectangle

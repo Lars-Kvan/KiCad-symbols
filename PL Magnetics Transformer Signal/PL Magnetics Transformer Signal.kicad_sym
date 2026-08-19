@@ -80,6 +80,18 @@
 				(hide yes)
 			)
 		)
+		(property "Turns Ratio" "1:1:1"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Primary Inductance" "264µH"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "B82804A0264A210_0_1"
 			(circle
 				(center -2.032 4.572)

@@ -81,6 +81,24 @@
 				(hide yes)
 			)
 		)
+		(property "USB Compliance Version" "USB 2.0"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Supply Voltage" "3V-5.5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Data Rate" "12Mbps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "ADUM3160BRWZ-RL_0_0"
 			(text "Logic"
 				(at 8.89 -12.065 900)

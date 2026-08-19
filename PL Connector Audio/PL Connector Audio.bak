@@ -34,6 +34,7 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj1-353xng.pdf"
@@ -142,6 +143,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Number of Poles/Pins" "3 Conductors (Stereo / 5 pins including switches)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Contact Current Rating" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Connector Type" "3.5 mm Audio Jack"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "SJ1-3535NG_0_0"
 			(rectangle

@@ -85,6 +85,21 @@
 				(hide yes)
 			)
 		)
+		(property "Drain-Source Voltage" "30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "20A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "25mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "20N03_0_1"
 			(polyline
 				(pts
@@ -382,6 +397,21 @@
 				(hide yes)
 			)
 		)
+		(property "Drain-Source Voltage" "30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "5.7A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "28 mΩ (@ 10V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "AO3400A_0_1"
 			(polyline
 				(pts
@@ -677,6 +707,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "-30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "-4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "46 mΩ (@ 10V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "AO3401A_0_1"
 			(polyline
@@ -981,6 +1026,21 @@
 				(hide yes)
 			)
 		)
+		(property "Drain-Source Voltage" "20V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "6.5A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "20 mΩ (@ 4.5V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "AS2324_0_1"
 			(polyline
 				(pts
@@ -1283,6 +1343,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "0.17A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "6Ω"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "BSS123IXTSA1_0_1"
 			(polyline
@@ -1587,6 +1662,21 @@
 				(hide yes)
 			)
 		)
+		(property "Drain-Source Voltage" "50V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "0.22A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "3.5Ω"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "BSS138_0_1"
 			(polyline
 				(pts
@@ -1871,6 +1961,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "300A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "1.5mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "GSGTL1R510_0_1"
 			(polyline
@@ -2157,6 +2262,21 @@
 				(hide yes)
 			)
 		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "40A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "13mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "IAUZ40N10S5N130ATMA1_0_1"
 			(polyline
 				(pts
@@ -2441,6 +2561,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "60V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "300A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "0.7 mΩ (@ 10V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "IPT007N06N_0_1"
 			(polyline
@@ -2738,6 +2873,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "55V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "14A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "65mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "IRLR024NTR_0_1"
 			(polyline
@@ -3041,6 +3191,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Continuous Drain Current" "85A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "40V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "On-Resistance" "3.1mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "NTTFS5C454NLTAG_0_1"
 			(polyline
@@ -3440,6 +3608,24 @@
 				(hide yes)
 			)
 		)
+		(property "On-Resistance" "1.7mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "40V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Continuous Drain Current" "200A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "PSMN1R7-40YLDX_0_1"
 			(polyline
 				(pts
@@ -3775,6 +3961,18 @@
 				(hide yes)
 			)
 		)
+		(property "Continuous Drain Current" "70A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "PSMN4R4-30MLC,115_0_1"
 			(polyline
 				(pts
@@ -4101,6 +4299,24 @@
 				(hide yes)
 			)
 		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Continuous Drain Current" "20A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "On-Resistance" "180mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "XR20P10D_0_1"
 			(polyline
 				(pts
@@ -4388,6 +4604,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "On-Resistance" "36mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Continuous Drain Current" "18A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "YJD18GP10AQ_0_1"
 			(polyline

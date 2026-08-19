@@ -98,6 +98,21 @@
 				)
 			)
 		)
+		(property "Output Voltage" "2.495 V to 37 V (Adjustable)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Initial Accuracy" "±1% or ±2%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Temperature Coefficient" "50 PPM/°C"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "LM431AIM3X/NOPB_1_1"
 			(polyline
 				(pts

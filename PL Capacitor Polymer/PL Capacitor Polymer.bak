@@ -192,7 +192,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470uF"
+		(property "Value" "220uF"
 			(at 0.635 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -203,7 +203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PL Capacitor Polymer:CP_Radial_D10.0mm_P5.00mm_SH477M063G1700"
+		(property "Footprint" "PL Capacitor Polymer:CP_Radial_D8mm_P3.5mm_SH227M063F1700"
 			(at 0.9652 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -214,7 +214,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C44606499.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1JdVVNfQlJeUTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C44606496.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1haU1VWQ1NWVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -225,7 +225,7 @@
 				)
 			)
 		)
-		(property "Description" "470uF ±20% 63V Through Hole,D10xL17mm 2000hrs@105℃"
+		(property "Description" "220uF ±20% 63V Through Hole,D8xL17mm 2000hrs@105℃"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -236,7 +236,7 @@
 				)
 			)
 		)
-		(property "MPN" "SH477M063G1700"
+		(property "MPN" "SH227M063F1700"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -258,7 +258,7 @@
 				)
 			)
 		)
-		(property "Ripple Current" "4.1A@100kHz"
+		(property "Ripple Current" "3.8A@100kHz"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -281,6 +281,17 @@
 			)
 		)
 		(property "Rated Voltage" "63V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ESR" "14mΩ@100kHz"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -427,6 +438,16 @@
 				)
 			)
 		)
+		(property "ESR" "20mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -541,6 +562,28 @@
 				)
 			)
 		)
+		(property "ESR" "120mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ripple Current" "1250mA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "cap capacitor 63V 47uF ±20% SMD,D8xL10.5mm Polymer Aluminum Capacitors ROHS"
 			(at 0 0 0)
 			(show_name no)
@@ -645,6 +688,28 @@
 			)
 		)
 		(property "MPN" "SV470M101F11R7R1Z00ZZ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ESR" "30mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ripple Current" "1500mA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

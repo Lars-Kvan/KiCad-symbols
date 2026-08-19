@@ -78,6 +78,24 @@
 				(hide yes)
 			)
 		)
+		(property "Supply Voltage" "3.3V–5.5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Logic Family" "CMOS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Propagation Delay" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "AP33772SDKZ-13-FA01_1_1"
 			(rectangle
 				(start 0 0)

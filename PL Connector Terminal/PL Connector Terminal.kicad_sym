@@ -107,6 +107,16 @@
 				(hide yes)
 			)
 		)
+		(property "Wire Gauge Range" "12 to 30AWG"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Pitch" "5.08mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 		(symbol "01x02_5.08mm_691313510002_1_1"
 			(rectangle
 				(start -1.27 1.27)
@@ -284,6 +294,16 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Wire Gauge Range" "14 to 30AWG"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Pitch" "5.08mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "01x02_5.08mm_691351500002_1_1"
 			(rectangle
@@ -735,6 +755,16 @@
 				(hide yes)
 			)
 		)
+		(property "Wire Gauge Range" "12 to 30 AWG"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Pitch" "5.08mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
 	)
 	(symbol "01x02_5.08mm_691311500102"
 		(extends "Template_Screw_Terminal_01x02")
@@ -843,6 +873,16 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Wire Gauge Range" "14 to 30AWG"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Pitch" "5.08mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 	)
 )

@@ -124,6 +124,12 @@
 				(hide yes)
 			)
 		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "1.0uH_FTC201610S1R0MBCA_0_1"
 			(polyline
 				(pts
@@ -380,6 +386,12 @@
 				(hide yes)
 			)
 		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "1.0uH_SRN6045-1R0Y_0_1"
 			(polyline
 				(pts
@@ -635,6 +647,12 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "1.0uH_TYS40301R0N-10_0_1"
 			(polyline
@@ -1000,6 +1018,30 @@
 				(hide yes)
 			)
 		)
+		(property "Rated Current" "85.7A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "156.9A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "0.21mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "1.2uH_74437625200122_0_1"
 			(polyline
 				(pts
@@ -1256,6 +1298,12 @@
 				(hide yes)
 			)
 		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "1.2uH_744393665012_0_1"
 			(polyline
 				(pts
@@ -1509,6 +1557,18 @@
 				(hide yes)
 			)
 		)
+		(property "Rated Current" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "100uH_SRN8040-101M_0_1"
 			(arc
 				(start -2.54 0)
@@ -1726,6 +1786,18 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Rated Current" "4.1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "18uH_SRR1280-180M_0_1"
 			(arc
@@ -1947,6 +2019,12 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "1uH_SER2010-102MLD_0_1"
 			(polyline
@@ -2285,6 +2363,30 @@
 				(hide yes)
 			)
 		)
+		(property "Rated Current" "65A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "115A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "0.35mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "2.2uH_74437625200222_0_1"
 			(polyline
 				(pts
@@ -2523,6 +2625,30 @@
 				(hide yes)
 			)
 		)
+		(property "Rated Current" "96.6A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "62.5A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "0.5mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "220nH_7443936050022_0_1"
 			(polyline
 				(pts
@@ -2760,6 +2886,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "140A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "0.2mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "220nH_IHSR6767GZERR22M5A_0_1"
 			(polyline
@@ -3008,6 +3152,30 @@
 				(hide yes)
 			)
 		)
+		(property "Rated Current" "1.4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "1.2A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "220mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "2uH_7443763521022_0_1"
 			(polyline
 				(pts
@@ -3216,6 +3384,30 @@
 				(hide yes)
 			)
 		)
+		(property "Rated Current" "1.4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "1.2A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "229mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "3.3uH_MGFL2012F3R3MT-LF_0_1"
 			(arc
 				(start -2.54 0)
@@ -3388,6 +3580,30 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Rated Current" "120A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Saturation Current" "126A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "0.3mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "4.7uH_ CPEX3635L-4R7MC_0_1"
 			(arc
@@ -3728,6 +3944,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Rated Current" "45A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Shielding" "Shielded"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "DCR" "1.25mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "6.8uH_74437625200682_0_1"
 			(polyline
