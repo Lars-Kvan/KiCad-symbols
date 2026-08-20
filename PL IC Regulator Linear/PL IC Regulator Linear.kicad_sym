@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Regulator Linear/Datasheets/AMS1117-3.3.pdf"
 			(at 2.54 -6.35 0)
 			(effects
 				(font
@@ -227,7 +227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP7383.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Regulator Linear/Datasheets/AP7383-33FDC-7.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -491,7 +491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/l78l.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Regulator Linear/Datasheets/L78L33ABUTR.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -661,7 +661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ncp1117lp-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Regulator Linear/Datasheets/NCP1117LPST33T3G.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -858,7 +858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXTR2012K.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Regulator Linear/Datasheets/ZXTR2012K-13.pdf"
 			(at 0 0 0)
 			(effects
 				(font

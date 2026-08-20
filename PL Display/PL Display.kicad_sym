@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5248080.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Display/Datasheets/HS96L03W2C03.pdf"
 			(at 72.644 29.464 0)
 			(effects
 				(font

@@ -367,7 +367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C77131.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor Thermistor/Datasheets/NCP15XH103F03RC.pdf"
 			(at 0 1.27 0)
 			(effects
 				(font
@@ -530,7 +530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.murata.com/en-us/api/pdfdownloadapi?cate=luNTCforTempeSenso&partno=NCU15XH103F6SRC"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor Thermistor/Datasheets/NCU15XH103F6SRC.pdf"
 			(at 0 1.27 0)
 			(effects
 				(font

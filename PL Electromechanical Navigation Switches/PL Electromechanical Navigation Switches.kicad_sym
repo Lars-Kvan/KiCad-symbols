@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C722957.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Electromechanical Navigation Switches/Datasheets/TSX101G100-250.pdf"
 			(at -15.875 4.445 0)
 			(effects
 				(font

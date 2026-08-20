@@ -47,7 +47,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/BCP56_BCX56_BC56PA.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor BJT/Datasheets/BCP56-16.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -327,7 +327,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor BJT/Datasheets/MMBT3904TT1G.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -805,7 +805,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/BCP53T1-D.PDF"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor BJT/Datasheets/BCP53.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1085,7 +1085,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/request/datasheet/mmbt5401.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor BJT/Datasheets/MMBT5401.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1318,7 +1318,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/MMBTA92LT1-D.PDF"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor BJT/Datasheets/MMBTA92-7-F.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1584,7 +1584,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor BJT/Datasheets/datasheet.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

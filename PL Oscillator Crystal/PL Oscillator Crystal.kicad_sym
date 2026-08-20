@@ -36,7 +36,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/831019082.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Oscillator Crystal/Datasheets/831019082.pdf"
 			(at -2.54 0 0)
 			(effects
 				(font
@@ -244,7 +244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C49207892.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Oscillator Crystal/Datasheets/Y32258.192MNCCZ.pdf"
 			(at -2.54 0 0)
 			(effects
 				(font
@@ -931,7 +931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6536/ABM8_Datasheet.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Oscillator Crystal/Datasheets/ABM8-272-T3.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1039,7 +1039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ecsxtal.com/store/pdf/hc-49usx.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Oscillator Crystal/Datasheets/ECS-245.7-18-4XEN.pdf"
 			(at 0 0 0)
 			(effects
 				(font

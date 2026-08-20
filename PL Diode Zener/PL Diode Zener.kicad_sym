@@ -46,7 +46,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BZX384_SER.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/BZX384-C5V1,115.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -256,7 +256,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C19077463.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/R+O BZX584C5V1.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -644,7 +644,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mm3z9v1b-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/MM3Z12VB.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -773,7 +773,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C173428.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=E1RYX1VeRlEKAlZfFlMLX1ICE1UIVlBeRFYPUVEHRVgxVlNeRldWUVJTR1FbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/BZT52C13.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -902,7 +902,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mmsz5221bt1-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/MMSZ5243BT1G.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1031,7 +1031,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/SMAJ4733A-SMAJ4764A(SMA).pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/SMAJ4743A-TP.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1160,7 +1160,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mmsz4678t1-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/MMSZ4682T1G.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1300,7 +1300,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C19077437.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/BZT52C3V3S.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1423,7 +1423,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BZX38450_SER.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/BZX38450-C3V0X.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1557,7 +1557,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5244901.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Zener/Datasheets/DZ9F3V0S92-7.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

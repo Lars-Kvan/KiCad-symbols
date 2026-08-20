@@ -214,7 +214,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C10744.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor Electrolytic/Datasheets/KM108M063K25RR0VH2FP0.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -362,7 +362,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C338233.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor Electrolytic/Datasheets/63USC10000MEFCSN30X50.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

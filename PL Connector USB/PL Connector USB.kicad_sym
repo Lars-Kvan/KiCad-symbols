@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c46x1dshr.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector USB/Datasheets/GSB1C4621DSHR.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -716,7 +716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cuidevices.com/product/resource/uj2-bh-th.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector USB/Datasheets/UJ2-BH-BL1-TH.pdf"
 			(at 3.81 -1.27 0)
 			(effects
 				(font

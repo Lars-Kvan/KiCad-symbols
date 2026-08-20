@@ -42,7 +42,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads131m04.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC ADC/Datasheets/ADS131M02IPWR.pdf"
 			(at 7.62 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -711,7 +711,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads131m04.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC ADC/Datasheets/ADS131M02IPWR.pdf"
 			(at 7.62 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1684,7 +1684,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fpcm1861"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC ADC/Datasheets/PCM1863DBTR.pdf"
 			(at 5.334 -34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2372,7 +2372,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fpcm1861"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC ADC/Datasheets/PCM1863DBTR.pdf"
 			(at -4.826 -62.23 0)
 			(show_name no)
 			(do_not_autoplace no)

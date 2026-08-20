@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/173950375.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Power Module/Datasheets/173950375.pdf"
 			(at 68.072 1.778 0)
 			(effects
 				(font
@@ -247,7 +247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C7465190.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Power Module/Datasheets/B1212S-1WR3.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -458,7 +458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://recom-power.com/pdf/Econoline/RFM.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Power Module/Datasheets/RFM-0505S.pdf"
 			(at 0 0 0)
 			(effects
 				(font

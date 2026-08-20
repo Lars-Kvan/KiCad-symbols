@@ -35,7 +35,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/691313510002.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Terminal/Datasheets/691313510002.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -223,7 +223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/691351500002.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Terminal/Datasheets/691351500002.pdf"
 			(at -0.254 5.588 0)
 			(effects
 				(font
@@ -674,7 +674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/691213510002.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Terminal/Datasheets/691213510002.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -793,7 +793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/691311500102.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Terminal/Datasheets/691311500102.pdf"
 			(at 0 0 0)
 			(effects
 				(font

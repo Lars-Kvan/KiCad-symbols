@@ -47,7 +47,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina326"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/Datasheets/INA326EA_2K5.pdf"
 			(at 2.54 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -819,7 +819,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C965555.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode LED/Datasheets/WS2812B-2020.pdf"
 			(at 2.54 -9.525 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1145,7 +1145,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C965799.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode LED/Datasheets/XL-1608SURC-06.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

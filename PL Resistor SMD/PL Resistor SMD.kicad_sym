@@ -245,7 +245,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C106227.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0201FR-070RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -392,7 +392,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C106231.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0402FR-070RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -517,7 +517,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0603JR-070RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -664,7 +664,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861198.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD071K37L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -811,7 +811,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C47115996.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PTFR0603B1K43N9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -958,7 +958,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852614.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD071K62L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1105,7 +1105,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852472.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD07100KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1252,7 +1252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C122538.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07100KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1366,7 +1366,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705627.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD07100RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1513,7 +1513,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C122970.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07100RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1638,7 +1638,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C326946.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RL0603FR-070R1L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1785,7 +1785,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C7419997.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/FPM253WFR100TM.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1932,7 +1932,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C190095.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0710KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2079,7 +2079,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C95204.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0710KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2226,7 +2226,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_11.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AC0603FR-0710RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2351,7 +2351,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C49010150.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/FRH2512B10R0TS.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2498,7 +2498,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5343/PE_Series_DS.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PE0603FRF070R01Z.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2792,7 +2792,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2903468.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/HoJLR2512-3W-10mR-1%.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2939,7 +2939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/SEI-CSSU.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/CSSU2512FT10L0.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3086,7 +3086,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C782077.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=E1VZBFwFRlBfUlFUTgRaX1BfFFZbBgdWFANbBVVXFgMxVlNeRlRcVFRSRlZWVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/YLR17-5-10F.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3233,7 +3233,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852524.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQlFdV11QQ1JcUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0713KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3380,7 +3380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/20065/rcse3.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RCS120613K0FKEA.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3527,7 +3527,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C326733.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0715KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3674,7 +3674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861689.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRE07165KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3821,7 +3821,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C723581.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0718K7L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3968,7 +3968,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C326731.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07180KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4115,7 +4115,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861170.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07182KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4262,7 +4262,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852579.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0718KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4409,7 +4409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C309650.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0718KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4556,7 +4556,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2930177.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/FRC0805F1902TS.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4703,7 +4703,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852624.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQlZfVVVWRVFbVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD071KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4850,7 +4850,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0603FR-071KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4997,7 +4997,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C869709.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaVFZWQFBeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT1206BRB071KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5144,7 +5144,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1883577.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RE0402BRE071ML.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5291,7 +5291,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1162/RG_RM_RGH_Oct2012.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RG3216N-1004-W-T1.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5437,7 +5437,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C513714.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT1206BRD071RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5584,7 +5584,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://s.resistor.today/shop/products/epdf/EBWM2512.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/EBWM2512J1L00S9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5731,7 +5731,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://s.resistor.today/shop/products/epdf/SEWF5930.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/SEWF5930F1L00P9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5878,7 +5878,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C114662.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0603FR-072K2L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6025,7 +6025,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705760.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD072K7L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6172,7 +6172,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861306.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD072K8L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6319,7 +6319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861216.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07200RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6466,7 +6466,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "200mΩ 3W Surface Mount ±50ppm/℃ Current Sense Resistor ±1% 2512 Chip Resistor - Surface Mount ROHS"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/HoJLR2512-3W-200mR-1%.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6613,7 +6613,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705630.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaU1xXT1BbXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0720KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6760,7 +6760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C723637.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0720KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6907,7 +6907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C408766.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AR03BTB2002.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7053,7 +7053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C326601.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0722KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7200,7 +7200,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C155743.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0201FR-0722RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7347,7 +7347,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C114765.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0402FR-0722RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7494,7 +7494,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RMCF0603FT22R0.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7608,7 +7608,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C864211.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0805BRB0723K7L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7754,7 +7754,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2902851.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/ARG03BTC2323.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7901,7 +7901,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C7294197.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.3.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaU1xXT1BbXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RP0402BRD0724K9L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8048,7 +8048,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705831.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRE07240KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8195,7 +8195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1162/RG_RM_RGH_Oct2012.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RG3216N-1004-W-T1.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8341,7 +8341,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5440049.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RP0603BRD0725RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8477,7 +8477,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition01_en.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RG1608N-273-W-T5.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8612,7 +8612,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852711.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD072KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8759,7 +8759,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C723541.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AT0603BRD073K32L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8906,7 +8906,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C855843.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AT0603BRD073K6L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9053,7 +9053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C728592.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD073K9L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9200,7 +9200,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5842805.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0402BR-0730K1L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9347,7 +9347,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition01_en.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RG1608N-273-W-T5.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9493,7 +9493,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C723585.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0730KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9640,7 +9640,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2692695.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PTFR0603B30K0N9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9786,7 +9786,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3955355.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0402DR-07330KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9933,7 +9933,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852725.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD07330RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10080,7 +10080,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C853222.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRE0733KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10227,7 +10227,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705707.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRB0733KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10373,7 +10373,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852729.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD0733RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10520,7 +10520,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5455502.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaU1xXT1BbXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AT0402BRD0736KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10667,7 +10667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://s.resistor.today/shop/products/pdf/PEWF2512.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PEWF2512F3L00Q9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10814,7 +10814,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C281778.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QVQKXlFXQlQKUlYHQwIIBAZVRwVeBl1RElUMAQVUQFcxVlNRQVdYUlNeRFJXUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD074K7L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10961,7 +10961,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/28952/mcr0201at-mca1206at.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/MCU0805MD4704BP500.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11086,7 +11086,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C42460607.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/MFCR2512F4R70Q9R.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11233,7 +11233,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C860392.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRB0743KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11380,7 +11380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705778.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07470KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11527,7 +11527,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C326725.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0747KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11674,7 +11674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C860407.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRB0747KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11820,7 +11820,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0603JR-070RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11934,7 +11934,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C477746.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0402FR-075K23L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12081,7 +12081,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C852861.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRD075K6L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12228,7 +12228,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2902631.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AR03BTCX5003N.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12353,7 +12353,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6207671.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD07500RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12500,7 +12500,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C20160523.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PE0201FRF7W0R5L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12647,7 +12647,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C853312.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0402BRE0750RL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12794,7 +12794,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/CRCW060350R0FKTA.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12919,7 +12919,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ohmite.com/assets/images/res-fcsl.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/FCSL110R050DER.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13066,7 +13066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "RC0603FR-07510KL"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0603FR-07510KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13213,7 +13213,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C705784.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0756K2L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13360,7 +13360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861476.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0757K6L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13507,7 +13507,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C114632.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RC0603FR-076K8L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13654,7 +13654,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C855936.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/AT0603BRD0768KL.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13801,7 +13801,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2692793.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PTFR0603B68K0N9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13947,7 +13947,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861562.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD077K15L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14094,7 +14094,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861592.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD078K76L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14241,7 +14241,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C861580.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRD0786K6L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14388,7 +14388,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C862330.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/RT0603BRE079K76L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14535,7 +14535,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5382596.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor SMD/Datasheets/PTFR0805B910KN9.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

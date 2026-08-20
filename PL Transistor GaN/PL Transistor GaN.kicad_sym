@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2305_datasheet.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor GaN/Datasheets/EPC2305.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -573,7 +573,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor GaN/Datasheets/EPC2306.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

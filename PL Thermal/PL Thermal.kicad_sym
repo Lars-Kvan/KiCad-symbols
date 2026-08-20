@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.qats.com/DataSheet/Heat-Pipes"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Thermal/Datasheets/ATS-HP-F6L250S50W-023.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1260,7 +1260,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/60157/thjp.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Thermal/Datasheets/THJP0612AST1.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

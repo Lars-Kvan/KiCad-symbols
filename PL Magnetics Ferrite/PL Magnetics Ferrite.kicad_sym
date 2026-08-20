@@ -45,7 +45,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2880047.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1JdUlFWRlhYXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteRVVADxALGw%3D%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Ferrite/Datasheets/BPH403025R5-530T.pdf"
 			(at -27.432 -1.27 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -249,7 +249,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2880046.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Ferrite/Datasheets/BPH853025R5-101T.pdf"
 			(at -27.432 -1.27 90)
 			(show_name no)
 			(do_not_autoplace no)

@@ -45,7 +45,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/1N4001 M1.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -252,7 +252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3034809.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQlZfVVBURVVYVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFFdU1xWTk8GEwkK"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAV199DW.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -614,7 +614,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C212291.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAV199WQ-7.pdf"
 			(at -1.27 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -879,7 +879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.smc-diodes.com/propdf/BAV19WS%20THRU%20BAV21WS%20N0590%20REV.B.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAV21WS.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1091,7 +1091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C151574.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAW156T-7-F.pdf"
 			(at -1.27 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1356,7 +1356,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/US1B-13-F.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

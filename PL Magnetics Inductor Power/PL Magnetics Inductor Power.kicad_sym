@@ -34,7 +34,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5832342.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/FTC201610S1R0MBCA.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -287,7 +287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRN6045.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/SRN6045-1R0Y.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -549,7 +549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.laird.com/document/datasheet/tys4030-series-datasheet"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/TYS40301R0N-10.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -811,7 +811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/7443782012068.pdf?ki"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/74437625200122.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -1199,7 +1199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/744393665012.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/744393665012.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -1467,7 +1467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/SRN8040-101M.pdf"
 			(at 0 0 90)
 			(effects
 				(font
@@ -1697,7 +1697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRR1280.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/SRR1280-180M.pdf"
 			(at 0 0 90)
 			(effects
 				(font
@@ -1921,7 +1921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.coilcraft.com/getmedia/56db8f04-6d7a-4e93-ad3f-acf7c2a14b74/ser2000.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/SER2010-102MLD.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -2183,7 +2183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/7443782012068.pdf?ki"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/74437625200122.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -2544,7 +2544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7443936050022.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/7443936050022.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -2806,7 +2806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/34584/ihsr-6767gz-5a.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/IHSR6767GZERR22M5A.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -3062,7 +3062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7443763521022.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/7443763521022.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -3339,7 +3339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C486331.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/MGFL2012F3R3MT-LF.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3536,7 +3536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.codaca.com/Private/pdf/CPEX3635L.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/CPEX3635L-4R7MC.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3729,7 +3729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/7443782012068.pdf?ki"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/74437625200122.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font

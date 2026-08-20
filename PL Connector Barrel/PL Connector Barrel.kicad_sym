@@ -42,7 +42,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.cuidevices.com/product/resource/pj-002ah.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Barrel/Datasheets/PJ-002AH.pdf"
 			(at 1.27 -1.016 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -42,7 +42,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv3601.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Comparator/Datasheets/TLV3601DBVR.pdf"
 			(at 0 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -280,7 +280,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv3602.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Comparator/Datasheets/TLV3602DGKR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -596,7 +596,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv7012.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Comparator/Datasheets/TLV7022DDFR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

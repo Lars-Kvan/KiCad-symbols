@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C477940.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power/Datasheets/LM5085MYX_NOPB.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -326,7 +326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C20539658.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power/Datasheets/LMR51610XDBVR.pdf"
 			(at 1.27 -11.43 0)
 			(effects
 				(font
@@ -544,7 +544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7890.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power/Datasheets/LTC7890RUJM#PBF.pdf"
 			(at -33.02 -19.05 0)
 			(effects
 				(font

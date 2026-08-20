@@ -46,7 +46,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SMCJ.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode TVS/Datasheets/SMCJ58A.pdf"
 			(at -1.27 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -261,7 +261,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4e05u06"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode TVS/Datasheets/TPD4E05U06DQAR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

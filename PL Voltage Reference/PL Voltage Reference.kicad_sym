@@ -43,7 +43,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm431"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Voltage Reference/Datasheets/LM431AIM3X_NOPB.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

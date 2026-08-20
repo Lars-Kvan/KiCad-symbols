@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lmg1020.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LMG1020YFFR.pdf"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -462,7 +462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1858371.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LMG1025QDEERQ1.pdf"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -910,7 +910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmg1210"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LMG1210RVRR.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2186,7 +2186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7001.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LTC7001JMSE#TRPBF.pdf"
 			(at 0.762 0 0)
 			(effects
 				(font
@@ -2504,7 +2504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fucc27210"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/UCC27211DR.pdf"
 			(at 0 21.59 0)
 			(effects
 				(font
@@ -2997,7 +2997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C99395.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/UCC27517DBVR.pdf"
 			(at 0 19.05 0)
 			(effects
 				(font

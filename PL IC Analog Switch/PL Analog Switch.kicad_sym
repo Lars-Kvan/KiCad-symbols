@@ -34,7 +34,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd74hc4067"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Analog Switch/Datasheets/CD74HC4067SM96.pdf"
 			(at -8.89 21.59 0)
 			(effects
 				(font
@@ -569,7 +569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/tmux1112"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Analog Switch/Datasheets/TMUX1112PWR.pdf"
 			(at 0 0 0)
 			(effects
 				(font

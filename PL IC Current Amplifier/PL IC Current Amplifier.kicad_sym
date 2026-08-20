@@ -44,7 +44,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina138.pdfhttps://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina138"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA138NA_3K.pdf"
 			(at 0 0.127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -282,7 +282,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C122228.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.1.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaVFxQQVBbUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA180A1IDBVR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -520,7 +520,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina199"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA199A1DCKR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -766,7 +766,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina199.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA199A3DCKR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1007,7 +1007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX49921.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/MAX49921FATA_VY+T.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)

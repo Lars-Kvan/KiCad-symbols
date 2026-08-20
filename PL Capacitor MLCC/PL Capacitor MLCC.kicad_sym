@@ -487,7 +487,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C162178.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GRM155R62A104KE14D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -623,7 +623,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C113803.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603KRX7R0BB104.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -759,7 +759,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C85866.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GCM21BR72A104KA37L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -895,7 +895,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C405303.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GRM31C5C2A104JA01L.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1020,7 +1020,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2941926.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=E1RYX1VeRlEKAlZfFlMLX1ICE1UIVlBeRFYPUVEHRVgxVlNeRldZX1RWQFdfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1dYVVdVWQkaCgg%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GCM1555C1H101FA16D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1156,7 +1156,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C37456.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/0805CG101J101NT.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1281,7 +1281,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C527014.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0402KRX7R0BB103.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1417,7 +1417,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C100042.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603KRX7R9BB103.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1542,7 +1542,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C784087.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/FM31N103J101ECG.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1667,7 +1667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C179756.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/0805CG100J101NT.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1792,7 +1792,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1231/LMK107BBJ106MALT_SS.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/LMK107BBJ106MALT.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1917,7 +1917,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2833636.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/TCC0603X7R153K101CT.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2053,7 +2053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10C150JB81PNC.jsp"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL10C150JB81PNC.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2189,7 +2189,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C76947.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GRM1555C1H102JA01D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2325,7 +2325,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/download/datasheet/C0603C102K5RAC7867"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/C0603C102K5RACTU.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2461,7 +2461,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C513661.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC1206JRNPO0BN102.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2586,7 +2586,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C237471.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GQM2195C2E1R0BB12D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2711,7 +2711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C52923.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL05A105KA5NQNC.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2847,7 +2847,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3584/CL10B105KP8NNNC_Spec.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL10B105KP8NNNC.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2983,7 +2983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL21B105KBFNNNE_Spec.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL21B105KBFNNNE.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3119,7 +3119,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13832.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL31B105KCHNNNE.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3244,7 +3244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C914769.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603KRX7R7BB225.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3380,7 +3380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C19110.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL21B225KAFNNNE.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3516,7 +3516,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C33546019.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/HHV1206R7225K101NSPJ.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3641,7 +3641,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2168116.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/C1210C225K1RACTU.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3777,7 +3777,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0402KRX7R7BB104.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3913,7 +3913,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C710895.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GRM1885C1H242JA01D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4049,7 +4049,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3011672.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GCM1555C1H201FA16D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4185,7 +4185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C113796.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603JRNPO9BN201.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4321,7 +4321,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105620.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603JRNPO9BN220.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4457,7 +4457,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C107028.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=E1RYX1VeRlEKAlZfFlMLX1ICE1UIVlBeRFYPUVEHRVgxVlNeRldWV1ZXQldXVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0402KRX7R9BB332.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4593,7 +4593,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C282792.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/TCC1206COG331J102DT.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4729,7 +4729,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1705.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL10A475KP8NNNC.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4865,7 +4865,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98192.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL21A475KBQNNNE.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5001,7 +5001,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C33546021.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/HHV1210R7475K101NSVK.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5137,7 +5137,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C33546021.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/HHV1210R7475K101NSVK.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5273,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C309472.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603JRNPO9BN431.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5409,7 +5409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2661378.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/YFF18PW0J474MT0H0N.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5545,7 +5545,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C596323.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0805KKX7R0BB474.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5681,7 +5681,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1622.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CL10B473KB8NNNC.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5817,7 +5817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C161172.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=E1RYX1VeRlEKAlZfFlMLX1ICE1UIVlBeRFYPUVEHRVgxVlNeRldWVlJVT1FdVTtW"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/GCM155R71H822KA55D.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5953,7 +5953,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1685.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/0603CG8R2C500NT.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6089,7 +6089,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C107057.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Capacitor MLCC/Datasheets/CC0603JRNPO9BN821.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

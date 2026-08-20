@@ -45,7 +45,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7461383.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Power/Datasheets/7461383.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -572,7 +572,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "https://www.anytek.com.cn/Upload/AMT45017DB-ecbd14453f5a4800987652845e01ac8b.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Power/Datasheets/AMT0450017DB0000G.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1050,7 +1050,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://tools.molex.com/pdm_docs/ps/PS-43045.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Power/Datasheets/0430450200.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1257,7 +1257,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98732.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Power/Datasheets/XT60PW-M.pdf"
 			(at -0.508 3.556 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1529,7 +1529,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3040690.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Power/Datasheets/XT90PW-F30.G.Y.pdf"
 			(at 0.254 11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1827,7 +1827,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3040689.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Power/Datasheets/XT90PW-M.G.Y.pdf"
 			(at -0.508 3.556 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/967/LTV-816_826_846.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Optocoupler/Datasheets/LTV-846S.pdf"
 			(at 0 0 0)
 			(effects
 				(font

@@ -39,7 +39,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C19271469.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/20N03.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -351,7 +351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/AO3400A.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -662,7 +662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/AO3401A.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -972,7 +972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2699/AS2324.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/AS2324.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1290,7 +1290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSS123I-DataSheet-v02_00-EN.pdf?fileId=5546d46277921c320177a421ae8a1d46"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/BSS123IXTSA1.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1608,7 +1608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.jp/pdf/datasheet/bss138-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/BSS138.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1926,7 +1926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://goodarksemi.com/docs/datasheets/mosfets/GSGTL1R510.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/GSGTL1R510.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2226,7 +2226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IAUZ40N10S5N130-DataSheet-v01_00-EN.pdf?fileId=5546d4626c1f3dc3016c8a62b6cf0ddb"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/IAUZ40N10S5N130ATMA1.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2526,7 +2526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C122552.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/IPT007N06N.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2828,7 +2828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C20624234.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/IRLR024NTR.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -3138,7 +3138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/nttfs5c454nl-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/NTTFS5C454NLTAG.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3554,7 +3554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN1R7-40YLD.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/PSMN1R7-40YLDX.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3915,7 +3915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN4R4-30MLC.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/PSMN4R4-30MLC,115.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -4569,7 +4569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2942676.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/YJD18GP10AQ.pdf"
 			(at 0 0 0)
 			(effects
 				(font

@@ -193,7 +193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/3224.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Resistor Variable/Datasheets/3224X-1-105E.pdf"
 			(at 0 0 0)
 			(effects
 				(font

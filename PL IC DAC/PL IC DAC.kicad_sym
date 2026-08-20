@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/AD9833.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC DAC/Datasheets/AD9833BRMZ.pdf"
 			(at -1.27 7.62 0)
 			(effects
 				(font
@@ -328,7 +328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdac8560"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC DAC/Datasheets/DAC8560ICDGKR.pdf"
 			(at 0 -14.605 0)
 			(effects
 				(font

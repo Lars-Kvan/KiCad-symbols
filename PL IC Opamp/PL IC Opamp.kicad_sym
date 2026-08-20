@@ -44,7 +44,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ncs2372-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/NCS2372DWR2G.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1065,7 +1065,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa2328.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/OPA2328DGKR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1348,7 +1348,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa2376.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/OPA2376AIDGKR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1632,7 +1632,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa2376.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/OPA2376AIDGKR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1857,7 +1857,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa376.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/OPA376AIDR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2119,7 +2119,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C529552.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/OPA4376AIPWR.pdf"
 			(at 1.27 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2538,7 +2538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2FOPA991"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/OPA4991IPWR.pdf"
 			(at 1.27 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2955,7 +2955,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9001.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/TLV9001IDCKR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3160,7 +3160,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9002.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/TLV9002IDR.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3443,7 +3443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "CMOS Amplifier 4 Circuit Rail-to-Rail 14-TSSOP"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/TLV9064IPWR.pdf"
 			(at 1.27 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3863,7 +3863,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv9301"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Opamp/Datasheets/TLV9301IDBVR.pdf"
 			(at 0 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)

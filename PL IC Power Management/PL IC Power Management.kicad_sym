@@ -31,7 +31,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/LM74700-Q1"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power Management/Datasheets/AP74700Q.pdf"
 			(at -9.525 -8.89 0)
 			(effects
 				(font

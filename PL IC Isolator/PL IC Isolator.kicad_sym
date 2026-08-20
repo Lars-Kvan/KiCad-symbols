@@ -42,7 +42,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/iso7760.pdf?ts=1712058534565&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DISO7760DBQR%2526nr%253D9"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Isolator/Datasheets/ISO7762FDBQR.pdf"
 			(at 10.16 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -622,7 +622,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso7762-q1"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Isolator/Datasheets/ISO7762QDBQRQ1.pdf"
 			(at 10.16 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1202,7 +1202,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.novosns.com/files/NSi826x_Datasheet_Rev1.5_EN.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Isolator/Datasheets/NSI8262W1-DSWR.pdf"
 			(at 10.16 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1771,7 +1771,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C471601.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Isolator/Datasheets/π140U31.pdf"
 			(at 10.16 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)

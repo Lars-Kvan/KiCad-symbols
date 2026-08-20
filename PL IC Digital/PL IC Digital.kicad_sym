@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP33772S.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Digital/Datasheets/AP33772SDKZ-13-FA01.pdf"
 			(at 0 0 0)
 			(effects
 				(font

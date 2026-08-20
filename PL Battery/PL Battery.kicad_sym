@@ -40,7 +40,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.keyelco.com/userAssets/file/K75p29.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Battery/Datasheets/1042.pdf"
 			(at 0 0.254 90)
 			(effects
 				(font
@@ -226,7 +226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2988620.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Battery/Datasheets/BH-18650-B1BA002.pdf"
 			(at 0 0.254 90)
 			(effects
 				(font

@@ -46,7 +46,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.cuidevices.com/product/resource/cmc-2742pbj-a.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transducer Acoustic/Datasheets/CMC-2742PBJ-A.pdf"
 			(at 0 2.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -326,7 +326,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C17701106.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transducer Acoustic/Datasheets/HY40A16T12-1.pdf"
 			(at -0.889 -1.27 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -31,7 +31,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774010243R.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Mechanical Spacer/Datasheets/9774010243R.pdf"
 			(at -0.254 0 0)
 			(effects
 				(font

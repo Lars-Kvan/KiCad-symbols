@@ -45,7 +45,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj1-353xng.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Audio/Datasheets/SJ1-3535NG.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

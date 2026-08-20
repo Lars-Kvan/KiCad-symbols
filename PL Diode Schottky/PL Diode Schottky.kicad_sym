@@ -46,7 +46,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/rb751v40t1-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Schottky/Datasheets/RB751V40T1G.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -267,7 +267,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.smc-diodes.com/propdf/SBRD10200%20N1314%20REV.A.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Schottky/Datasheets/SBRD10200.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -673,7 +673,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C114696.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Schottky/Datasheets/BAT46WJ,115.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -807,7 +807,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/SMD15PL-SMD1200PL(SOD-123FL).pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Schottky/Datasheets/SMD110PL-TP.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

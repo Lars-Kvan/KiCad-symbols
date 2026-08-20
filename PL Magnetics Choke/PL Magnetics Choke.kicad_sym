@@ -35,7 +35,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.laird.com/document/datasheet/cm3440z171b-10-datasheet"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Choke/Datasheets/CM3440Z171B-10.pdf"
 			(at 0 -8.255 0)
 			(effects
 				(font
@@ -540,7 +540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C46055703.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Choke/Datasheets/FC-DLF2218-2R5-100A-LF.pdf"
 			(at 0 -8.255 0)
 			(effects
 				(font
@@ -1054,7 +1054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C47575014.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Choke/Datasheets/HXA0805F2SF-801-N H-CND.pdf"
 			(at 0 -8.255 0)
 			(effects
 				(font

@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tl5001.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC PWM/Datasheets/LTC6992HS6-1#WTRMPBF.pdf"
 			(at 0 0 0)
 			(effects
 				(font

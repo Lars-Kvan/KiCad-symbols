@@ -43,7 +43,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61200621621.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/61200621621.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -350,7 +350,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61204021621.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/61204021621.pdf"
 			(at -1.27 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1643,7 +1643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/470531000?display=pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/0470531000.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1939,7 +1939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/usa-en/product-440055-8.datasheet.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/440055-8.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4402,7 +4402,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/SM03B-SRSS-TB.pdf"
 			(at 2.54 6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4630,7 +4630,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "PH-01226"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/PH-01226.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4753,7 +4753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61202621621.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/61202621621.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4865,7 +4865,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61203421621.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector Header/Datasheets/61203421621.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

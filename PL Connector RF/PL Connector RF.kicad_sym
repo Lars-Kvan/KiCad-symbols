@@ -38,7 +38,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/mmcx-j-p-x-st-th1-mkt.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector RF/Datasheets/MMCX-J-P-H-ST-TH1.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -224,7 +224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C496550.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector RF/Datasheets/BWSMA-KE-P001.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -435,7 +435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5301848.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Connector RF/Datasheets/HYCW21-SMAW0865-1350B.pdf"
 			(at 0 0 0)
 			(effects
 				(font
