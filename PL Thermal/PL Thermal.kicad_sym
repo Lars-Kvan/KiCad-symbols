@@ -76,16 +76,34 @@
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Material" "Copper"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Dimensions" "3 mm × 8 mm × 250 mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(symbol "Heatpipe_3x8x250mm_ATS-HP-F6L250S50W-023_1_1"
 			(polyline
@@ -1337,6 +1355,28 @@
 				)
 			)
 		)
+		(property "Thermal Resistance" "4°C/W"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dimensions" "0612 metric / 0.06\" x 0.12\" (approx. 1.6 mm x 3.2 mm)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(show_name no)
@@ -1360,15 +1400,5 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "Thermal Resistance" "4°C/W"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Dimensions" "0612 metric / 0.06\" x 0.12\" (approx. 1.6 mm x 3.2 mm)"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
 	)
 )

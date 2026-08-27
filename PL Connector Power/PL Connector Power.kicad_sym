@@ -151,6 +151,12 @@
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(symbol "7461383_Redcube_0_0"
 			(rectangle
@@ -621,16 +627,31 @@
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Rated Voltage" "300V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Pitch" "10.0 mm / 10.16 mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(symbol "AMT0450017DB0000G_0_0"
 			(rectangle
@@ -1116,6 +1137,16 @@
 				)
 			)
 		)
+		(property "Number of Contacts" "2"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "connector"
 			(at 0 0 0)
 			(show_name no)
@@ -1137,11 +1168,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Number of Contacts" "2"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "Molex_Micro-Fit 3.0_43045-0200_1_1"
 			(rectangle
@@ -1301,6 +1327,36 @@
 				)
 			)
 		)
+		(property "Number of Contacts" "2"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" "500V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pitch" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "screw terminal"
 			(at 0 0 0)
 			(show_name no)
@@ -1322,21 +1378,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Number of Contacts" "2"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Rated Voltage" "500V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Pitch" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "XT60PW-M_0_1"
 			(polyline
@@ -1573,6 +1614,36 @@
 				)
 			)
 		)
+		(property "Number of Contacts" "2"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" "500V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pitch" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "screw terminal"
 			(at 0 0 0)
 			(show_name no)
@@ -1594,21 +1665,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Number of Contacts" "2"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Rated Voltage" "500V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Pitch" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "XT90PW-F30.G.Y_0_1"
 			(polyline
@@ -1882,6 +1938,26 @@
 				)
 			)
 		)
+		(property "Number of Contacts" "2"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pitch" "N/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "screw terminal"
 			(at 0 0 0)
 			(show_name no)
@@ -1903,16 +1979,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Number of Contacts" "2"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Pitch" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "XT90PW-M.G.Y_0_1"
 			(polyline

@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lmg1020.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LMG1020YFFR.pdf"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -77,6 +77,31 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "7A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "5A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "400ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "400ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "LMG1020_0_1"
 			(rectangle
@@ -437,7 +462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1858371.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LMG1025QDEERQ1.pdf"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -481,6 +506,31 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "4.75 V to 5.25 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "7A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "5A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "650ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "850ps"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "LMG1025_0_1"
 			(rectangle
@@ -860,7 +910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmg1210"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LMG1210RVRR.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -895,6 +945,36 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Sink Current" "3A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Fall Time" "1ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Supply Voltage Range" "3V–5.5V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Source Current" "3A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rise Time" "1ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "LMG1210RVRR_0_1"
 			(polyline
@@ -2106,7 +2186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7001.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/LTC7001JMSE#TRPBF.pdf"
 			(at 0.762 0 0)
 			(effects
 				(font
@@ -2150,6 +2230,31 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "3.5 V to 15 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "~0.68 A (via 2.2 Ω pull-up)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "~1.5 A (via 1.0 Ω pull-down)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "13ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "8ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "LTC7001_0_1"
 			(rectangle
@@ -2399,7 +2504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fucc27210"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/UCC27211DR.pdf"
 			(at 0 21.59 0)
 			(effects
 				(font
@@ -2443,6 +2548,31 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "8 V to 17 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Source Current" "4A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Sink Current" "4A (Peak)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Rise Time" "7ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Fall Time" "6ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "UCC27211DR_0_1"
 			(rectangle
@@ -2867,7 +2997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C99395.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Gate Driver/Datasheets/UCC27517DBVR.pdf"
 			(at 0 19.05 0)
 			(effects
 				(font
@@ -2911,6 +3041,36 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Supply Voltage Range" "4.5V–18V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Rise Time" "8ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Fall Time" "7 ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Source Current" "4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Sink Current" "4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "UCC27517DBVR_0_1"
 			(rectangle

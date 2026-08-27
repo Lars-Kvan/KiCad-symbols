@@ -149,6 +149,16 @@
 				)
 			)
 		)
+		(property "Rated Continuous Current" "102A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "N-Channel 150 V 102A (Tj) Surface Mount 7-QFN (3x5)"
 			(at 0 0 0)
 			(show_name no)
@@ -170,11 +180,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Rated Continuous Current" "102A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "EPC2305_1_0"
 			(polyline
@@ -683,6 +688,17 @@
 				)
 			)
 		)
+		(property "Rated Continuous Current" "63A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "N-Channel 150 V 102A (Tj) Surface Mount 7-QFN (3x5)"
 			(at 0 0 0)
 			(show_name no)
@@ -704,11 +720,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Rated Continuous Current" "63A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "EPC2306_1_0"
 			(polyline

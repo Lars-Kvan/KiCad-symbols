@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2305_datasheet.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor GaN/Datasheets/EPC2305.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -170,6 +170,11 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Rated Continuous Current" "102A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "EPC2305_1_0"
 			(polyline
@@ -568,7 +573,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor GaN/Datasheets/EPC2306.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -699,6 +704,11 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Rated Continuous Current" "63A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "EPC2306_1_0"
 			(polyline
