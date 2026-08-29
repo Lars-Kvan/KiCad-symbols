@@ -65,7 +65,7 @@
 				(hide yes)
 			)
 		)
-		(property "Max Frequency" "6GHz"
+		(property "Frequency Range" "6GHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -252,15 +252,6 @@
 			)
 		)
 		(property "Impedance" "50Ω"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Frequency" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -471,7 +462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Frequency" "0-6GHz"
+		(property "Frequency Range" "0-6GHz"
 			(at 0 0 0)
 			(effects
 				(font

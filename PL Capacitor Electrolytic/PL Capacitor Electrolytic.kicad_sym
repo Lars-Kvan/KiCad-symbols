@@ -258,17 +258,6 @@
 				)
 			)
 		)
-		(property "ESR" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Ripple Current" "1448mA@120Hz,105C"
 			(at 0 0 0)
 			(show_name no)
@@ -314,18 +303,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "approval_properties" "{}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "approval_checks" "{\"symbol\":\"56e530ddb61b1ebde943d764df6d868785e7f6d91b172a209fa0baf00c4eeb13\"}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 	(symbol "10mF_D30xL50"
 		(extends "C_Polarized_Template")
@@ -407,17 +384,6 @@
 			)
 		)
 		(property "Rated Voltage" "63C"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ESR" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

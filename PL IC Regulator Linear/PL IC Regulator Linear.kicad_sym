@@ -60,16 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "1A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Droupout" "1.3V"
+		(property "Output Current" "1A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -254,7 +245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "150mA"
+		(property "Output Current" "150mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -289,12 +280,6 @@
 				)
 				(hide yes)
 			)
-		)
-		(property "PSRR" "Unknown"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
 		)
 		(property "Max Input Voltage" "30V"
 			(at 0 0 0)
@@ -518,7 +503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "100mA"
+		(property "Output Current" "100mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -688,7 +673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Dropout" "1.4V"
+		(property "Dropout Voltage" "1.4V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -715,7 +700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "1A"
+		(property "Output Current" "1A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -885,16 +870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Dropout" "1.4V"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PSRR" ""
+		(property "Dropout Voltage" "1.4V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -912,7 +888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "60mA"
+		(property "Output Current" "60mA"
 			(at 0 0 0)
 			(effects
 				(font

@@ -68,17 +68,6 @@
 				)
 			)
 		)
-		(property "Max Reverse Voltage" "30V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Forward Voltage" "370mV"
 			(at 0 0 0)
 			(show_name no)
@@ -518,28 +507,6 @@
 				)
 			)
 		)
-		(property "Max Reverse Voltage" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Forward Voltage" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "diode Schottky"
 			(at 0 0 0)
 			(show_name no)
@@ -706,17 +673,6 @@
 				)
 			)
 		)
-		(property "Max Reverse Voltage" "100V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Forward Voltage" "0.85V@100mA, 1v@250mA"
 			(at 0 0 0)
 			(show_name no)
@@ -819,17 +775,6 @@
 			)
 		)
 		(property "Description" "DIODE SCHOTTKY 100V 1A SOD123FL"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Max Reverse Voltage" "100V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

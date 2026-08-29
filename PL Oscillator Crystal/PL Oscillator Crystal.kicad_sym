@@ -96,12 +96,6 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "Stability" "±50ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 		(property "Frequency" "24MHz"
 			(at 0 0 0)
 			(show_name no)
@@ -313,12 +307,6 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "Stability" "±30ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 		(property "Frequency" "8.192MHz"
 			(at 0 0 0)
 			(show_name no)
@@ -472,51 +460,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Frequency" ""
-			(at 7.62 0.762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Load Capacitance" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Frequency Stability" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Frequency Tolerance" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -958,7 +901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "30ppm"
+		(property "Frequency Tolerance" "30ppm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -967,7 +910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stability" "30ppm"
+		(property "Frequency Stability" "30ppm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1128,12 +1071,6 @@
 				)
 				(hide yes)
 			)
-		)
-		(property "Stability" "±50ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
 		)
 	)
 
@@ -2919,12 +2856,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "Stability" "±10ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 
 	(symbol "64MHz_OT201664MJBA4SL"
@@ -3148,12 +3079,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "Stability" "±10ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 
 	(symbol "8MHz_OT20168MJBA4SL"
@@ -3377,12 +3302,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "Stability" "±10ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 
 	(symbol "25MHz_OT7EL89CJI-111YLC-25M"
@@ -7620,12 +7539,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "Stability" "±10ppm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 
 	(symbol "20MHz_XL7EL89CMI-111YLC-20M"

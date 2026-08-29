@@ -69,61 +69,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Voltage" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -299,61 +244,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Voltage" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5913,17 +5803,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -6028,17 +5907,6 @@
 			)
 		)
 		(property "Rated Voltage" "100V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6175,17 +6043,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6704,17 +6561,6 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7501,17 +7347,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20207,17 +20042,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -27983,17 +27807,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -29151,17 +28964,6 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Dielectric" "C0G"
 			(at 0 0 0)
 			(show_name no)
@@ -29299,17 +29101,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31718,17 +31509,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -31844,17 +31624,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32115,17 +31884,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -32251,17 +32009,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -32377,17 +32124,6 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33863,17 +33599,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -33989,17 +33714,6 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40289,17 +40003,6 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48475,17 +48178,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -54765,17 +54457,6 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65095,17 +64776,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -65221,17 +64891,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65367,17 +65026,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -65493,17 +65141,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65897,17 +65534,6 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67640,28 +67266,6 @@
 				)
 			)
 		)
-		(property "Dielectric" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -67777,17 +67381,6 @@
 			)
 		)
 		(property "Rated Voltage" "100V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69789,17 +69382,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -89767,17 +89349,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -90696,28 +90267,6 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
@@ -91369,17 +90918,6 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -65,53 +65,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "4.5-75V Wide Vin, Constant On-Time Non-Synchronous PFET Buck Controller"
-			(at 29.21 -2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "HVSSOP-8 Texas Instruments"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "LM5085MYX/NOPB"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Output Voltage" "Adjustable"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "Output Current" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -591,12 +545,6 @@
 			)
 		)
 		(property "Output Voltage" "Adjustable"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "Efficiency" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

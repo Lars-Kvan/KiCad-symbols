@@ -55,87 +55,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Resistance Tolerance" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B Value Tolerance" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B0/50" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B25/50" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B25/75" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B25/85" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B25/100" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "ki_keywords" "thermistor NTC resistor sensor RTD"
 			(at 0 0 0)
 			(effects
@@ -412,25 +331,7 @@
 				(hide yes)
 			)
 		)
-		(property "B0/50" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "B25/50" "3380K"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B25/75" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -484,19 +385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±1%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 		(property "Nominal Resistance" "10kΩ"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "B-Constant/Beta" "3380K"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -566,25 +455,7 @@
 				(hide yes)
 			)
 		)
-		(property "B0/50" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "B25/50" "3380K"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "B25/75" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -638,19 +509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±1%"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 		(property "Nominal Resistance" "10kΩ"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "B-Constant/Beta" "3455K"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -923,17 +923,6 @@
 				)
 			)
 		)
-		(property "Rated Curretn" "200mA"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reverse Recovery Time" "50ns"
 			(at 0 0 0)
 			(show_name no)

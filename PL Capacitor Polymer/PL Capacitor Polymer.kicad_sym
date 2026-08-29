@@ -472,12 +472,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "approval_properties" "{\"datasheet\":\"https://www.lcsc.com/datasheet/C44606499.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1JdVVNfQlJeUTtW\"}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 	(symbol "47uF_D8xL10.5"
 		(extends "C_Polarized_Template")
@@ -614,12 +608,6 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "approval_properties" "{\"datasheet\":\"C:/KiCad/9.0/${PL_SYMBOL_DIR}/PL Capacitor Polymer/Datasheets/HV1J476M0810PZ.pdf\"}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 	(symbol "47uF_D8xL11.7"
 		(extends "C_Polarized_Template")

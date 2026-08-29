@@ -78,18 +78,6 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Voltage" "3.3V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "Interface Type" "I2C"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 		(property "Resolution" "128x64"
 			(at 0 0 0)
 			(show_name no)

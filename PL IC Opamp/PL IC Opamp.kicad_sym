@@ -77,7 +77,7 @@
 				)
 			)
 		)
-		(property "Rated Output Current" "1A"
+		(property "Output Current" "1A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -120,7 +120,7 @@
 				)
 			)
 		)
-		(property "Offset Voltage" "6mV"
+		(property "Input Offset Voltage" "6mV"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -514,17 +514,6 @@
 			)
 		)
 		(property "Description" "Power Amplifier 2 Circuit 12-UDFN (3x3)"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -83,7 +83,7 @@
 				)
 			)
 		)
-		(property "On Resistance" "2.2mΩ"
+		(property "On-Resistance" "2.2mΩ"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94,7 +94,7 @@
 				)
 			)
 		)
-		(property "Rated Voltage" "150V"
+		(property "Drain-Source Voltage" "150V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -105,7 +105,7 @@
 				)
 			)
 		)
-		(property "Rated Continous Current" "133A"
+		(property "Continuous Drain Current" "133A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116,7 +116,7 @@
 				)
 			)
 		)
-		(property "Rated Peak Current" "329A (Pulsed (25°C, TPULSE = 300 μs) "
+		(property "Peak Drain Current" "329A (Pulsed (25°C, TPULSE = 300 μs) "
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -127,7 +127,7 @@
 				)
 			)
 		)
-		(property "Coss" "852pF"
+		(property "Output Capacitance (Coss)" "852pF"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -143,16 +143,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Continuous Current" "102A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -622,7 +612,7 @@
 				)
 			)
 		)
-		(property "On Resistance" "3.1mΩ"
+		(property "On-Resistance" "3.1mΩ"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -633,7 +623,7 @@
 				)
 			)
 		)
-		(property "Rated Voltage" "100V"
+		(property "Drain-Source Voltage" "100V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -644,7 +634,7 @@
 				)
 			)
 		)
-		(property "Rated Continous Current" "63A"
+		(property "Continuous Drain Current" "63A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -655,7 +645,7 @@
 				)
 			)
 		)
-		(property "Rated Peak Current" "197A Pulsed (25°C, TPULSE = 300 μs)"
+		(property "Peak Drain Current" "197A Pulsed (25°C, TPULSE = 300 μs)"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -666,7 +656,7 @@
 				)
 			)
 		)
-		(property "Coss" "616pF"
+		(property "Output Capacitance (Coss)" "616pF"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -678,17 +668,6 @@
 			)
 		)
 		(property "Gate Resistance" "0.4Ω"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Continuous Current" "63A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -1,7 +1,7 @@
 # KiCad Symbol Property Cleanup Specification
 
-Status: planning document only. The symbol libraries have not been cleaned by
-this document.
+Status: implemented on 2026-08-29. See `SYMBOL_PROPERTY_CLEANUP_REPORT.md` for
+the migration totals and `SYMBOL_PROPERTY_CLEANUP_AUDIT.csv` for every action.
 
 ## Scope and inventory
 
@@ -17,9 +17,8 @@ The following are deliberately outside the first cleanup pass:
 - Footprints, datasheets, scripts, and source CSV files.
 
 `PL Connector Header/PL Connector Header.kicad_sym` and its `.bak` file already
-had uncommitted user changes when this specification was written. A future
-cleanup must preserve or explicitly reconcile those changes before touching that
-library.
+had uncommitted user changes when this specification was written. Those changes
+were preserved in the pre-cleanup Git checkpoint before the migration ran.
 
 ## Property rules
 
@@ -177,7 +176,7 @@ The “discard/normalize” column is in addition to the global rules above.
 | `PL IC Comparator` | Search; ID; `Input Offset Voltage`, `Propagation Delay`, `Supply Voltage` | Current `GBW = N/A` and `Slew Rate = N/A` fields are not useful comparator metadata and should be removed. Normalize `Offset Voltage`. |
 | `PL IC Current Amplifier` | Search; ID; `Gain`, `Common Mode Voltage`, `Bandwidth`, `Supply Voltage`, `Input Offset Voltage` when supported | No library-specific discard beyond empty/inapplicable fields. |
 | `PL IC DAC` | Search; ID; `Resolution`, `Conversion Rate`, `Interface`, `Number of Channels`, `Supply Voltage` when supported | Remove duplicate `Sample Rate` after confirming `Conversion Rate`; do not copy ADC terminology into DAC symbols. |
-| `PL IC Digital` | Search; ID; `Supply Voltage`, `Supply Current`, `Logic Family`, `Propagation Delay` when supported | Normalize `Current Supply` and `Voltage Supply`; discard `N/A` values and resolve conflicting supply-voltage fields from the datasheet. |
+| `PL IC Digital` | Search; ID; `Supply Voltage`, `Input Voltage Range`, `Supply Current`, `Logic Family`, `Propagation Delay` when supported | Normalize `Current Supply` to `Supply Current`. In this library's current USB-C controller, `Voltage Supply` is the VBUS/input range and becomes `Input Voltage Range`; the separate chip `Supply Voltage` remains distinct. Discard `N/A` values. |
 | `PL IC Flash` | Search; ID; `Memory Capacity`, `Page Size`, `Interface`, `Supply Voltage` when supported | Normalize `Interface Type` to `Interface`. |
 | `PL IC Gate Driver` | Search; ID; `Supply Voltage Range`, `Source Current`, `Sink Current`, `Rise Time`, `Fall Time`, `Propagation Delay` when supported | No library-specific discard beyond empty/inapplicable fields. |
 | `PL IC Interface` | Search; ID; `Interface`, `Data Rate` or `Baud Rate` as appropriate, `Supply Voltage`, `Number of Channels` when supported | Normalize `Protocol Type` to `Interface` when it is an interface name; do not conflate baud rate with raw bit rate. |
@@ -213,16 +212,19 @@ The “discard/normalize” column is in addition to the global rules above.
 | `PL Wire Pad` | Search; `Label` | No ID or electrical rating fields on generic wire pads. |
 | `PL Graphic` | Search; intentional `Sim.Enable`; `Vin` only on `VIN_Marking` while it is used as a visible editable annotation | No procurement or electrical-rating schema. Do not propagate `Vin` to the warning graphics. |
 
-## Confirmed conflict hotspots
+## Pre-cleanup conflict hotspots
 
-These are examples proving that the later cleanup cannot safely be a simple
+These are examples from the checkpoint proving that the cleanup could not safely be a simple
 “keep the first field” operation:
 
 - `PL Magnetics Inductor Power`: `100uH_SRN8040-101M` contains both `Rated
   current` and `Rated Current`; `18uH_SRR1280-180M` contains the same pair with
   conflicting values (`4.8A` versus `4.1A`). Several Wurth symbols also contain
   imported `L (µH)`, `Part Number`, current, and resistance values that visibly
-  belong to a different MPN.
+  belong to a different MPN. The local file
+  `PL Magnetics Inductor Power/Datasheets/74437625200122.pdf` is itself
+  mislabeled: its contents identify part `7443782012068`, so it was not used as
+  authority for the three `744376252...` symbols.
 - `PL Transistor FET`: several parts contain misspelled and correctly spelled
   drain-current fields with different values.
 - `PL Transistor GaN`: both continuous-current spellings occur, and EPC2305 has
@@ -241,7 +243,7 @@ These are examples proving that the later cleanup cannot safely be a simple
 - `PL Capacitor Electrolytic` and `PL Capacitor Polymer` contain approval JSON
   accidentally stored as symbol properties.
 
-## Requirements for the later cleanup pass
+## Cleanup implementation requirements
 
 1. Make a recoverable backup or a dedicated Git commit before changing any
    primary library.

@@ -999,16 +999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "2A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "3V"
+		(property "Gate Threshold Voltage" "3V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1317,16 +1308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "190mA"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th) (Max)" "1.8V"
+		(property "Gate Threshold Voltage" "1.8V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1635,16 +1617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "170mA"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "1.6V"
+		(property "Gate Threshold Voltage" "1.6V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3165,16 +3138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "20A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "2V"
+		(property "Gate Threshold Voltage" "2V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3581,16 +3545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "200A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "2.05V @ 1mA"
+		(property "Gate Threshold Voltage" "2.05V @ 1mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4273,15 +4228,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 0 0 0)
 			(effects
 				(font
