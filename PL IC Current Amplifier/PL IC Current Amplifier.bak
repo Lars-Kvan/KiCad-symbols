@@ -2,6 +2,262 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
+	(symbol "AD8417"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -7.62 10.795 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "AD8411AWBRMZ"
+			(at -7.62 8.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PL IC Current Amplifier:TSSOP-8_3x3mm_P0.65mm"
+			(at 1.27 -8.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6488/AD8410A-AD8411A%20Datasheet.pdf"
+			(at 16.51 -17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Current Sense Amplifier 1 Circuit 8-MSOP"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AD8411AWBRMZ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "highside HS current sense amplifier linear"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "AD8417_0_1"
+			(rectangle
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "AD8417_1_1"
+			(pin input line
+				(at 5.08 10.16 270)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -10.16 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 10.16 -2.54 180)
+				(length 2.54)
+				(name "REF2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 2.54 -7.62 90)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 -5.08 0)
+				(length 2.54)
+				(name "VS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "REF1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 10.16 270)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "INA138NA/3K"
 		(pin_names
 			(offset 0.127)
@@ -44,7 +300,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina138.pdfhttps://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina138"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA138NA_3K.pdf"
 			(at 0 0.127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -282,7 +538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C122228.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.1.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQVBaVFxQQVBbUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA180A1IDBVR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -305,6 +561,39 @@
 			)
 		)
 		(property "MPN" "INA180A1IDBVR"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gain" "20V/V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "-0.3 V to +26 V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "~350 kHz"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -487,7 +776,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina199"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA199A1DCKR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -521,6 +810,28 @@
 			)
 		)
 		(property "Gain" "50"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "-0.3V–26V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "14kHz"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -721,7 +1032,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina199.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/INA199A3DCKR.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -744,6 +1055,39 @@
 			)
 		)
 		(property "MPN" "INA199A3DCKR"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "7kHz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "26V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gain" "200V/V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -944,7 +1288,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX49921.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Current Amplifier/Datasheets/MAX49921FATA_VY+T.pdf"
 			(at 3.81 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -978,6 +1322,28 @@
 			)
 		)
 		(property "Gain" "20"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Common Mode Voltage" "-0.1V–70V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Bandwidth" "150kHz"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
