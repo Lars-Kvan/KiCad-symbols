@@ -1,0 +1,4 @@
+interface:
+  display_name: "KiCad Symbol Creation"
+  short_description: "Create and validate PL KiCad library symbols"
+  default_prompt: "Use $kicad-symbol-creation to create missing PL KiCad symbols from supplied BOMs and datasheets."
