@@ -15,9 +15,9 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,9 +26,20 @@
 			)
 		)
 		(property "Value" "C_Polarized_Template"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Rated Voltage" "Voltage Rating"
+			(at 2.54 -2.032 0)
+			(show_name no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -182,9 +193,9 @@
 	(symbol "1000uF_D16xL25"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,9 +204,9 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -248,14 +259,14 @@
 			)
 		)
 		(property "Rated Voltage" "63V"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Ripple Current" "1448mA@120Hz,105C"
@@ -307,9 +318,9 @@
 	(symbol "10mF_D30xL50"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -318,9 +329,9 @@
 			)
 		)
 		(property "Value" "10mF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -384,14 +395,14 @@
 			)
 		)
 		(property "Rated Voltage" "63C"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Ripple Current" "5.49A@120Hz"
@@ -432,9 +443,9 @@
 	(symbol "470uF_D35xL47"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -443,9 +454,9 @@
 			)
 		)
 		(property "Value" "470µF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -498,14 +509,14 @@
 			)
 		)
 		(property "Rated Voltage" "450V"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Tolerance" "20%"

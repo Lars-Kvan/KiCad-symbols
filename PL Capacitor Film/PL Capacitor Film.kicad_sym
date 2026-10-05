@@ -15,7 +15,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "C"
-			(at 2.54 1.016 0)
+			(at 2.54 2.032 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -26,7 +26,18 @@
 			)
 		)
 		(property "Value" "Capacitor_Template"
-			(at 2.54 -1.016 0)
+			(at 2.54 0 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Rated Voltage" "Voltage Rating"
+			(at 2.54 -2.032 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -160,7 +171,7 @@
 	(symbol "1.5uF_L26xW10xH21.5_890334026030CS"
 		(extends "Capacitor_Template")
 		(property "Reference" "C"
-			(at 2.794 2.032 0)
+			(at 2.54 2.032 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -171,7 +182,7 @@
 			)
 		)
 		(property "Value" "1.5µF"
-			(at 2.794 0 0)
+			(at 2.54 0 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -226,7 +237,7 @@
 			)
 		)
 		(property "Rated Voltage - AC" "310V"
-			(at 2.794 -2.032 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
