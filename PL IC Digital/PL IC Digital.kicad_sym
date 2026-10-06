@@ -51,7 +51,7 @@
 				(hide yes)
 			)
 		)
-		(property "Current Supply" "3.3mA"
+		(property "Supply Current" "3.3mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Supply" "3.3-31V"
+		(property "Input Voltage Range" "3.3-31V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -85,12 +85,6 @@
 			(hide yes)
 		)
 		(property "Logic Family" "CMOS"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "Propagation Delay" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

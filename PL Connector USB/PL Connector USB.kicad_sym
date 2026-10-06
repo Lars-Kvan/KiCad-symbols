@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Amphenol Canada"
+		(property "Manufacturer" "Amphenol"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65,97 +65,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "3.16mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/GSB1C4621DSHR/Amphenol/view-part/?ref=eda"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "AX2"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GSB1C4621DSHR/Amphenol/view-part/?ref=snap"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "GSB1C4621DSHR"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "USB 2.0, Type C, Mid mount, CH 0.78mm, Single Row Surface Mount"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Amphenol"
+		(property "Height" "3.16mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -174,12 +84,12 @@
 				(hide yes)
 			)
 		)
-		(property "USB Version" "USB 2.0 (Micro-B)"
+		(property "USB Version" "USB 2.0 Type-C"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 		)
-		(property "Current Rating" "1.8 A (VBUS pin) / 0.5 A (Signal pins)"
+		(property "Rated Current" "1.8 A (VBUS pin) / 0.5 A (Signal pins)"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -761,12 +671,12 @@
 				(hide yes)
 			)
 		)
-		(property "USB Version" "USB 2.0 (Micro-B)"
+		(property "USB Version" "USB 2.0 Type-B"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 		)
-		(property "Current Rating" "1A"
+		(property "Rated Current" "1A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

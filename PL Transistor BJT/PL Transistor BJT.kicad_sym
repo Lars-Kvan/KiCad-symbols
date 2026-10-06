@@ -1352,18 +1352,7 @@
 				)
 			)
 		)
-		(property "Rated Power" "0.3W"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Current" "0.5A"
+		(property "Power Dissipation" "0.3W"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

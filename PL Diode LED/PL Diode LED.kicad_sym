@@ -787,61 +787,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Forward Voltage" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Forward Current" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Viewing Angle" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Wavelength" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "LED diode"
 			(at 0 0 0)
 			(show_name no)
@@ -1043,17 +988,6 @@
 				)
 			)
 		)
-		(property "Luminous Intensity / Wavelength" "Red: 620–630 nm; Green: 515–525 nm; Blue: 465–475 nm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Forward Voltage" "Red: 2.0 V; Green/Blue: 3.2 V"
 			(at 0 0 0)
 			(show_name no)
@@ -1065,7 +999,7 @@
 				)
 			)
 		)
-		(property "Rated Current" "12–16 mA per channel"
+		(property "Forward Current" "12–16 mA per channel"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1434,7 +1368,7 @@
 				)
 			)
 		)
-		(property "Forward Current" "30mA"
+		(property "Forward Current" "20mA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1523,17 +1457,6 @@
 			)
 		)
 		(property "RoHS" "Yes"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Current" "20mA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1799,17 +1722,6 @@
 				)
 			)
 		)
-		(property "Rated Current" "20mA"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "LED diode"
 			(at 0 0 0)
 			(show_name no)
@@ -1954,18 +1866,7 @@
 				)
 			)
 		)
-		(property "Luminous Intensity / Wavelength" "100–200 mcd / 630 nm"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Current" "20mA"
+		(property "Luminous Intensity" "100–200 mcd"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

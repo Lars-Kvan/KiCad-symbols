@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C477940.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power/Datasheets/LM5085MYX_NOPB.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65,45 +65,11 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "4.5-75V Wide Vin, Constant On-Time Non-Synchronous PFET Buck Controller"
-			(at 29.21 -2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "HVSSOP-8 Texas Instruments"
+		(property "Output Voltage" "Adjustable"
 			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "LM5085MYX/NOPB"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "LM5085MYX/NOPB_0_0"
 			(rectangle
@@ -314,7 +280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C20539658.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power/Datasheets/LMR51610XDBVR.pdf"
 			(at 1.27 -11.43 0)
 			(effects
 				(font
@@ -359,6 +325,18 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Output Voltage" "Adjustable"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Output Current" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "LMR51610XDBVR_0_1"
 			(rectangle
@@ -520,7 +498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7890.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL IC Power/Datasheets/LTC7890RUJM#PBF.pdf"
 			(at -33.02 -19.05 0)
 			(effects
 				(font
@@ -565,6 +543,12 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Output Voltage" "Adjustable"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "LTC7890_1_1"
 			(rectangle
@@ -885,26 +869,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at -5.08 22.86 0)
-				(length 5.08)
-				(name "ITH1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin input line
-				(at -5.08 20.32 0)
+				(at -5.08 22.86 0)
 				(length 5.08)
 				(name "TRACK/SS1"
 					(effects
@@ -914,6 +880,24 @@
 					)
 				)
 				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -5.08 20.32 0)
+				(length 5.08)
+				(name "ITH1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
 					(effects
 						(font
 							(size 1.27 1.27)

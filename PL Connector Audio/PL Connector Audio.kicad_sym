@@ -67,91 +67,7 @@
 				)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SJ1-3535NG/Same+Sky/view-part/?ref=eda"
-			(at -2.54 11.684 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 2.794 9.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "1.03"
-			(at 0.254 8.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SJ1-3535NG/Same+Sky/view-part/?ref=snap"
-			(at -2.54 11.684 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "SJ1-3535NG"
-			(at 0.254 9.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "3.5 mm Right-Angle Stereo Jack, 5 pin PCB PCB Mount, Isolated Ground"
-			(at -2.54 11.684 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 6.35 9.398 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "CUI Devices"
+		(property "Manufacturer" "CUI Devices"
 			(at 0.254 9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -174,7 +90,7 @@
 				)
 			)
 		)
-		(property "Number of Poles/Pins" "3 Conductors (Stereo / 5 pins including switches)"
+		(property "Number of Conductors" "3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -185,7 +101,7 @@
 				)
 			)
 		)
-		(property "Contact Current Rating" "1A"
+		(property "Rated Current" "1A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -197,6 +113,17 @@
 			)
 		)
 		(property "Connector Type" "3.5 mm Audio Jack"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -77,7 +77,29 @@
 				)
 			)
 		)
-		(property "Rated Output Current" "1A"
+		(property "Output Current" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Input Offset Voltage" "6mV"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Slew Rate" "1V/µs"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -119,18 +141,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Offset Voltage" "6mV"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "Slew Rate" "1V/µs"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
 		)
 		(symbol "NCS2372_1_1"
 			(polyline
@@ -514,17 +524,6 @@
 			)
 		)
 		(property "Description" "Power Amplifier 2 Circuit 12-UDFN (3x3)"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1706,25 +1705,6 @@
 				(at -7.62 2.54 0)
 				(length 2.54)
 				(name "+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -2.54 2.54 270)
-				(length 2.54)
-				(hide yes)
-				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)

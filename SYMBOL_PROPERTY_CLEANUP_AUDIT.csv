@@ -1,0 +1,509 @@
+Library,Symbol,Action,Source property,Target property,Value,Reason
+PL Busbar,Busbar_Template,remove,MPN,,,empty/sentinel custom value
+PL Capacitor Electrolytic,1000uF_D16xL25,remove,ESR,,N/A,empty/sentinel custom value
+PL Capacitor Electrolytic,1000uF_D16xL25,remove,approval_properties,,{},discarded by schema
+PL Capacitor Electrolytic,1000uF_D16xL25,remove,approval_checks,,"{""symbol"":""56e530ddb61b1ebde943d764df6d868785e7f6d91b172a209fa0baf00c4eeb13""}",discarded by schema
+PL Capacitor Electrolytic,10mF_D30xL50,remove,ESR,,N/A,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Feed_Through_Template,remove,MPN,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Feed_Through_Template,remove,Rated Voltage,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Feed_Through_Template,remove,Dielectric,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Feed_Through_Template,remove,Tolerance,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Feed_Through_Template,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Template,remove,MPN,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Template,remove,Rated Voltage,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Template,remove,Dielectric,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Template,remove,Tolerance,,,empty/sentinel custom value
+PL Capacitor MLCC,Capacitor_Template,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,100nF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,100nF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,100nF_0805,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,100pF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,10nF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,15nF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,1nF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,1pF_0805,remove,Tolerance,,,empty/sentinel custom value
+PL Capacitor MLCC,1uF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,2.2uF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,2.2uF_0805,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,2.2uF_1210,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,2.4nF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,2.4nF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,200pF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,200pF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,22pF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,3.3nF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,330pF_1206,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,4.7uF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,4.7uF_0805,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,4.7uF_1206,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,4.7uF_1210,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,430pF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,470nF_0603_Feed_Through,remove,Dielectric,,,empty/sentinel custom value
+PL Capacitor MLCC,470nF_0603_Feed_Through,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,470nF_0805,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,47nF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,8.2nF_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,8.2pF_0603,remove,Tolerance,,,empty/sentinel custom value
+PL Capacitor MLCC,8.2pF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor MLCC,820pF_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Capacitor Polymer,470uF_D10xL17_SH477M063G1700,remove,approval_properties,,"{""datasheet"":""https://www.lcsc.com/datasheet/C44606499.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1JdVVNfQlJeUTtW""}",discarded by schema
+PL Capacitor Polymer,47uF_D8xL10.5,remove,approval_properties,,"{""datasheet"":""C:/KiCad/9.0/${PL_SYMBOL_DIR}/PL Capacitor Polymer/Datasheets/HV1J476M0810PZ.pdf""}",discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,Check_prices,,https://www.snapeda.com/parts/SJ1-3535NG/Same+Sky/view-part/?ref=eda,discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,STANDARD,,Manufacturer Recommendations,discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,PARTREV,,1.03,discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,SnapEDA_Link,,https://www.snapeda.com/parts/SJ1-3535NG/Same+Sky/view-part/?ref=snap,discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,Description_1,,"3.5 mm Right-Angle Stereo Jack, 5 pin PCB PCB Mount, Isolated Ground",discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,Availability,,In Stock,discarded by schema
+PL Connector Audio,SJ1-3535NG,remove,MP,,SJ1-3535NG,duplicate/alias of MPN
+PL Connector Audio,SJ1-3535NG,rename,MANUFACTURER,Manufacturer,CUI Devices,equivalent aliases
+PL Connector Audio,SJ1-3535NG,rename,Number of Poles/Pins,Number of Conductors,3 Conductors (Stereo / 5 pins including switches),verified override
+PL Connector Audio,SJ1-3535NG,replace value,Number of Conductors,Number of Conductors,3,verified override
+PL Connector Audio,SJ1-3535NG,rename,Contact Current Rating,Rated Current,1A,equivalent aliases
+PL Connector Audio,SJ1-3535NG,add,,Pin Count,5,verified split field
+PL Connector Barrel,2x5.5_PJ-002AH,remove,Current Rating,,5A,duplicate/alias of Rated Current
+PL Connector Power,7461383_Redcube,remove,SnapEDA_Link,,https://www.snapeda.com/parts/7461383/Wurth+Electronics/view-part/?ref=snap,discarded by schema
+PL Connector Power,7461383_Redcube,remove,Rated Voltage,,N/A,empty/sentinel custom value
+PL Connector Power,7461383_Redcube,remove,Pitch,,N/A,empty/sentinel custom value
+PL Connector Power,7461383_Redcube,remove,Pin Count,,N/A,empty/sentinel custom value
+PL Connector Power,7461383_Redcube,rename,MF,Manufacturer,Wurth Electronics,equivalent aliases
+PL Connector Power,Molex_Micro-Fit 3.0_43045-0200,remove,Pitch,,N/A,empty/sentinel custom value
+PL Connector Power,XT60PW-M,remove,Pitch,,N/A,empty/sentinel custom value
+PL Connector Power,XT90PW-F30.G.Y,remove,Pitch,,N/A,empty/sentinel custom value
+PL Connector Power,XT90PW-M.G.Y,remove,Pitch,,N/A,empty/sentinel custom value
+PL Connector RF,Conn_Coaxial_Small,rename,Max Frequency,Frequency Range,6GHz,equivalent aliases
+PL Connector RF,SMA_BWSMA-KE-P001,remove,Frequency,,,empty/sentinel custom value
+PL Connector RF,SMA_HYCW21-SMAW0865-1350B,rename,Frequency,Frequency Range,0-6GHz,equivalent aliases
+PL Connector Terminal,Template_Screw_Terminal_01x02,remove,MPN,,,empty/sentinel custom value
+PL Connector Terminal,Template_Screw_Terminal_01x02,remove,Rated Current,,,empty/sentinel custom value
+PL Connector Terminal,Template_Screw_Terminal_01x02,remove,Rated Voltage,,,empty/sentinel custom value
+PL Connector Terminal,Template_Screw_Terminal_01x02,remove,Wire Gauge,,,empty/sentinel custom value
+PL Connector Terminal,Template_Screw_Terminal_01x02,remove,Operating Temperature,,,empty/sentinel custom value
+PL Connector Terminal,01x02_5.08mm_691213510002,remove,Wire Gauge,,14-30 AWG,duplicate/alias of Wire Gauge Range
+PL Connector Terminal,01x02_5.08mm_691311500102,remove,Wire Gauge,,14-30 AWG,duplicate/alias of Wire Gauge Range
+PL Connector USB,GSB1C4621DSHR,remove,Package,,None,empty/sentinel custom value
+PL Connector USB,GSB1C4621DSHR,remove,Price,,None,discarded by schema
+PL Connector USB,GSB1C4621DSHR,remove,Check_prices,,https://www.snapeda.com/parts/GSB1C4621DSHR/Amphenol/view-part/?ref=eda,discarded by schema
+PL Connector USB,GSB1C4621DSHR,remove,STANDARD,,Manufacturer Recommendations,discarded by schema
+PL Connector USB,GSB1C4621DSHR,remove,PARTREV,,AX2,discarded by schema
+PL Connector USB,GSB1C4621DSHR,remove,SnapEDA_Link,,https://www.snapeda.com/parts/GSB1C4621DSHR/Amphenol/view-part/?ref=snap,discarded by schema
+PL Connector USB,GSB1C4621DSHR,remove,Description_1,,"USB 2.0, Type C, Mid mount, CH 0.78mm, Single Row Surface Mount",discarded by schema
+PL Connector USB,GSB1C4621DSHR,remove,MANUFACTURER,,Amphenol,duplicate/alias of Manufacturer
+PL Connector USB,GSB1C4621DSHR,remove,MP,,GSB1C4621DSHR,duplicate/alias of MPN
+PL Connector USB,GSB1C4621DSHR,rename,MF,Manufacturer,Amphenol Canada,verified override
+PL Connector USB,GSB1C4621DSHR,replace value,Manufacturer,Manufacturer,Amphenol,verified override
+PL Connector USB,GSB1C4621DSHR,rename,MAXIMUM_PACKAGE_HEIGHT,Height,3.16mm,equivalent aliases
+PL Connector USB,GSB1C4621DSHR,replace value,USB Version,USB Version,USB 2.0 Type-C,verified override
+PL Connector USB,GSB1C4621DSHR,rename,Current Rating,Rated Current,1.8 A (VBUS pin) / 0.5 A (Signal pins),equivalent aliases
+PL Connector USB,UJ2-BH-BL1-TH,replace value,USB Version,USB Version,USB 2.0 Type-B,verified override
+PL Connector USB,UJ2-BH-BL1-TH,rename,Current Rating,Rated Current,1A,equivalent aliases
+PL Diode LED,LED_Template,remove,MPN,,,empty/sentinel custom value
+PL Diode LED,LED_Template,remove,Forward Voltage,,,empty/sentinel custom value
+PL Diode LED,LED_Template,remove,Forward Current,,,empty/sentinel custom value
+PL Diode LED,LED_Template,remove,Viewing Angle,,,empty/sentinel custom value
+PL Diode LED,LED_Template,remove,Wavelength,,,empty/sentinel custom value
+PL Diode LED,WS2812B-2020,remove,Luminous Intensity / Wavelength,,Red: 620–630 nm; Green: 515–525 nm; Blue: 465–475 nm,discarded by schema
+PL Diode LED,WS2812B-2020,rename,Rated Current,Forward Current,12–16 mA per channel,equivalent aliases
+PL Diode LED,Emerald_Green_0603,remove,Rated Current,,20mA,duplicate/alias of Forward Current
+PL Diode LED,Emerald_Green_0603,replace value,Forward Current,Forward Current,20mA,verified override
+PL Diode LED,Green_0603,remove,Rated Current,,20mA,duplicate/alias of Forward Current
+PL Diode LED,Red_0603,remove,Rated Current,,20mA,duplicate/alias of Forward Current
+PL Diode LED,Red_0603,rename,Luminous Intensity / Wavelength,Luminous Intensity,100–200 mcd / 630 nm,verified override
+PL Diode LED,Red_0603,replace value,Luminous Intensity,Luminous Intensity,100–200 mcd,verified override
+PL Diode Schottky,RB751V40T1G,remove,Max Reverse Voltage,,30V,duplicate/alias of Reverse Voltage
+PL Diode Schottky,Schottky_template,remove,Max Reverse Voltage,,,empty/sentinel custom value
+PL Diode Schottky,Schottky_template,remove,Forward Voltage,,,empty/sentinel custom value
+PL Diode Schottky,"BAT46WJ,115",remove,Max Reverse Voltage,,100V,duplicate/alias of Reverse Voltage
+PL Diode Schottky,SMD110PL-TP,remove,Max Reverse Voltage,,100V,duplicate/alias of Reverse Voltage
+PL Diode Silicon,BAV21WS,remove,Rated Curretn,,200mA,duplicate/alias of Rated Current
+PL Diode TVS,TPD4E05U06DQAR,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode TVS,TPD4E05U06DQAR,remove,Reverse Standoff,,5.5V,duplicate/alias of Reverse Standoff Voltage
+PL Diode TVS,TPD4E05U06DQAR,remove,Voltage Breakdown,,6V,duplicate/alias of Breakdown Voltage
+PL Diode TVS,TVS_Template_Unidirectional,remove,MPN,,,empty/sentinel custom value
+PL Diode TVS,TVS_Template_Unidirectional,remove,Reverse Standoff Voltage,,,empty/sentinel custom value
+PL Diode TVS,TVS_Template_Unidirectional,remove,Breakdown Voltage,,,empty/sentinel custom value
+PL Diode TVS,TVS_Template_Unidirectional,remove,Clamping Voltage,,,empty/sentinel custom value
+PL Diode TVS,TVS_Template_Unidirectional,remove,Rated Current,,,empty/sentinel custom value
+PL Diode TVS,TVS_Template_Unidirectional,remove,Rated Power,,,empty/sentinel custom value
+PL Diode Zener,5.1V_R+O BZX584C5V1,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode Zener,Zener_Template,remove,MPN,,,empty/sentinel custom value
+PL Diode Zener,Zener_Template,remove,Rated Power,,,empty/sentinel custom value
+PL Diode Zener,Zener_Template,remove,Tolerance,,,empty/sentinel custom value
+PL Diode Zener,Zener_Template,remove,Operating Temperature,,,empty/sentinel custom value
+PL Diode Zener,12V_MM3Z12VB,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode Zener,13V_BZT52C13,remove,Operating Temperature,,,empty/sentinel custom value
+PL Diode Zener,13V_BZT52C13,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode Zener,13V_MMSZ5243BT1G,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode Zener,13V_SMAJ4743A-TP,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode Zener,2.7V_MMSZ4682T1G,remove,Rated Current,,N/A,empty/sentinel custom value
+PL Diode Zener,2.7V_MMSZ4682T1G,rename,Reverse Leakage,Reverse Leakage Current,1 µA @ 1 V,equivalent aliases
+PL Diode Zener,3.3V_BZT52C3V3S,remove,Tolerance,,,empty/sentinel custom value
+PL Diode Zener,3V_BZX38450-C3V0X,rename,Reverese Leakage,Reverse Leakage Current,800nA @ 1V,equivalent aliases
+PL Diode Zener,3V_DZ9F3V0S92-7,remove,Tolerance,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Manufacturer,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Zener Series,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Automotive Grade,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Technology,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Diode Configuration,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Tolerance,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,MPN,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,LCSC Part #,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Zener Voltage,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Zener Voltage Range,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Rated Power,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Reverse Leakage Current,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Zener Impedance Zzt,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Zener Impedance Zzk,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Package,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Operating Junction Temperature,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Packaging,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,MSL,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,RoHS,,,empty/sentinel custom value
+PL Diode Zener,Zener_SOT23_Template,remove,Halogen Free,,,empty/sentinel custom value
+PL Display,128x64_HS96L03W2C03,remove,Operating Voltage,,3.3V,duplicate/alias of Supply Voltage
+PL Display,128x64_HS96L03W2C03,remove,Interface Type,,I2C,duplicate/alias of Interface
+PL IC ADC,ADS131M04IPWR,replace value,Sample Rate,Sample Rate,64kSPS,verified override
+PL IC ADC,ADS131M04IPWR,replace value,Resolution,Resolution,24-bit,verified override
+PL IC Comparator,TLV3601DBVR,remove,GBW,,N/A,discarded by schema
+PL IC Comparator,TLV3601DBVR,remove,Slew Rate,,N/A,discarded by schema
+PL IC Comparator,TLV3601DBVR,rename,Offset Voltage,Input Offset Voltage,±1 mV (typ) / ±5 mV (max),equivalent aliases
+PL IC Comparator,TLV3602DGKR,remove,GBW,,N/A,discarded by schema
+PL IC Comparator,TLV3602DGKR,remove,Slew Rate,,N/A,discarded by schema
+PL IC Comparator,TLV3602DGKR,rename,Offset Voltage,Input Offset Voltage,±1 mV (typ) / ±5 mV (max),equivalent aliases
+PL IC Comparator,TLV7022DDFR,remove,Slew Rate,,N/A,discarded by schema
+PL IC Comparator,TLV7022DDFR,remove,GBW,,N/A,discarded by schema
+PL IC Comparator,TLV7022DDFR,rename,Offset Voltage,Input Offset Voltage,±1 mV (typ) / ±3 mV (max),equivalent aliases
+PL IC DAC,AD9833xRM,remove,Sample Rate,,25MSPS,duplicate/alias of Conversion Rate
+PL IC DAC,DAC8560IxDGK,remove,Sample Rate,,30kSPS,duplicate/alias of Conversion Rate
+PL IC Digital,AP33772SDKZ-13-FA01,remove,Propagation Delay,,N/A,empty/sentinel custom value
+PL IC Digital,AP33772SDKZ-13-FA01,rename,Current Supply,Supply Current,3.3mA,equivalent aliases
+PL IC Digital,AP33772SDKZ-13-FA01,rename,Voltage Supply,Input Voltage Range,3.3-31V,equivalent aliases
+PL IC Flash,W25Q128JVS,rename,Interface Type,Interface,SPI,equivalent aliases
+PL IC Interface,TCA9548APWR,rename,Protocol Type,Interface,I2C/SMBus,equivalent aliases
+PL IC Logic,SN74LVC1G08DCKR,rename,Number of Gates/Channels,Number of Channels,1 (2-input AND gate),equivalent aliases
+PL IC Logic,SN74LVC1G74DCTR,rename,Number of Gates/Channels,Number of Channels,1 (D-type positive-edge-triggered flip-flop),equivalent aliases
+PL IC Opamp,NCS2372,rename,Rated Output Current,Output Current,1A,equivalent aliases
+PL IC Opamp,NCS2372,rename,Offset Voltage,Input Offset Voltage,6mV,equivalent aliases
+PL IC Opamp,NCS5652MUTWG,remove,MPN,,,empty/sentinel custom value
+PL IC Power,LM5085MYX/NOPB,remove,Description_1,,"4.5-75V Wide Vin, Constant On-Time Non-Synchronous PFET Buck Controller",discarded by schema
+PL IC Power,LM5085MYX/NOPB,remove,Package,,HVSSOP-8 Texas Instruments,not allowed in library schema
+PL IC Power,LM5085MYX/NOPB,remove,Availability,,In Stock,discarded by schema
+PL IC Power,LM5085MYX/NOPB,remove,Output Current,,N/A,empty/sentinel custom value
+PL IC Power,LM5085MYX/NOPB,remove,MP,,LM5085MYX/NOPB,duplicate/alias of MPN
+PL IC Power,LTC7890,remove,Efficiency,,N/A,empty/sentinel custom value
+PL IC Regulator Linear,AMS1117-3.3,remove,Voltage Droupout,,1.3V,duplicate/alias of Dropout Voltage
+PL IC Regulator Linear,AMS1117-3.3,rename,Rated Current,Output Current,1A,equivalent aliases
+PL IC Regulator Linear,AP7383-33FDC-7,remove,PSRR,,Unknown,empty/sentinel custom value
+PL IC Regulator Linear,AP7383-33FDC-7,rename,Rated Current,Output Current,150mA,equivalent aliases
+PL IC Regulator Linear,L78L33ABUTR,rename,Rated Current,Output Current,100mA,equivalent aliases
+PL IC Regulator Linear,NCP1117LPST33T3G,rename,Voltage Dropout,Dropout Voltage,1.4V,equivalent aliases
+PL IC Regulator Linear,NCP1117LPST33T3G,rename,Rated Current,Output Current,1A,equivalent aliases
+PL IC Regulator Linear,ZXTR2012K-13,remove,PSRR,,,empty/sentinel custom value
+PL IC Regulator Linear,ZXTR2012K-13,rename,Voltage Dropout,Dropout Voltage,1.4V,equivalent aliases
+PL IC Regulator Linear,ZXTR2012K-13,rename,Rated Current,Output Current,60mA,equivalent aliases
+PL IC uC,RP2350B,remove,Flash Size,,N/A,empty/sentinel custom value
+PL Magnetics Choke,CM3440Z171B-10,rename,Z@Freq,Impedance @ Frequency,170Ω@100MHz,equivalent aliases
+PL Magnetics Choke,FC-DLF2218-2R5-100A-LF,rename,Z@Freq,Impedance @ Frequency,250Ω@100MHz,equivalent aliases
+PL Magnetics Choke,HXA0805F2SF-801-N H-CND,remove,Rated Current,,,empty/sentinel custom value
+PL Magnetics Choke,HXA0805F2SF-801-N H-CND,rename,Z@Freq,Impedance @ Frequency,170Ω@100MHz,equivalent aliases
+PL Magnetics Ferrite,BLM15AG700SN1D,remove,Impedance,,70Ω@100MHz,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,BLM15AX102SN1D,remove,Impedance,,1kΩ,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,BLM15AX221SN1D,remove,Impedance,,220Ω,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,BLM15BA220SN1D,remove,Impedance,,22Ω,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,BLM15BA330SN1D,remove,Impedance,,33Ω,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,BLM15BB470SN1D,remove,Impedance,,47Ω@100MHz,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,BLM15PD800SN1D,remove,Impedance,,80Ω@100MHz,duplicate/alias of Impedance @ Frequency
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Manufacturer,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Ferrite Series,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Automotive Grade,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Technology,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Tolerance,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,MPN,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,LCSC Part #,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Impedance @ Frequency,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Number of Lines,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,DCR,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Rated Current,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Package,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Operating Temperature,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Packaging,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,MSL,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,RoHS,,,empty/sentinel custom value
+PL Magnetics Ferrite,Ferrite_Bead_Template,remove,Halogen Free,,,empty/sentinel custom value
+PL Magnetics Inductor Power,1.0uH_FTC201610S1R0MBCA,remove,SRF,,,empty/sentinel custom value
+PL Magnetics Inductor Power,1.0uH_SRN6045-1R0Y,remove,Tolerance,,30%,not allowed in library schema
+PL Magnetics Inductor Power,1.0uH_SRN6045-1R0Y,rename,SRF,Self Resonant Frequency,50MHz,equivalent aliases
+PL Magnetics Inductor Power,1.0uH_TYS40301R0N-10,remove,Tolerance,,30%,not allowed in library schema
+PL Magnetics Inductor Power,1.0uH_TYS40301R0N-10,rename,SRF,Self Resonant Frequency,70MHz,equivalent aliases
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Manufacturer URL,,https://www.we-online.com,discarded by schema
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Published Date,,20250214,discarded by schema
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Match Code,,WE-HCFT,discarded by schema
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Size,,2012_LeadDiameter1.2mm,discarded by schema
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Critical Parameter,,1.2uH,discarded by schema
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Tolerance,,20%,not allowed in library schema
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Part Number,,7443782012068,duplicate/alias of MPN
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,IR (A),,20.6,duplicate/alias of Rated Current
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,ISAT (A),,30.6,duplicate/alias of Saturation Current
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,RDC max. (mΩ),,5.0,duplicate/alias of DCR
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,DC Resistance,,0.21mΩ,duplicate/alias of DCR
+PL Magnetics Inductor Power,1.2uH_74437625200122,remove,Resonant Frequency,,89.75MHz,duplicate/alias of Self Resonant Frequency
+PL Magnetics Inductor Power,1.2uH_74437625200122,replace value,Datasheet,Datasheet,https://www.we-online.com/components/products/datasheet/74437625200122.pdf,verified override
+PL Magnetics Inductor Power,1.2uH_74437625200122,rename,L (µH),Inductance,6.8,verified override
+PL Magnetics Inductor Power,1.2uH_74437625200122,replace value,Inductance,Inductance,1.2µH,verified override
+PL Magnetics Inductor Power,1.2uH_74437625200122,rename,Tol. L,Inductance Tolerance,±20%,equivalent aliases
+PL Magnetics Inductor Power,1.2uH_74437625200122,rename,fres (MHz),Self Resonant Frequency,21.0,verified override
+PL Magnetics Inductor Power,1.2uH_74437625200122,replace value,Self Resonant Frequency,Self Resonant Frequency,89.75MHz,verified override
+PL Magnetics Inductor Power,1.2uH_74437625200122,replace value,Core Material,Core Material,Metal alloy,verified override
+PL Magnetics Inductor Power,1.2uH_74437625200122,replace value,ki_fp_filters,ki_fp_filters,*WE-HCFT*2520*,verified override
+PL Magnetics Inductor Power,1.2uH_744393665012,remove,Manufacturer URL,,https://www.we-online.com,discarded by schema
+PL Magnetics Inductor Power,1.2uH_744393665012,rename,SRF,Self Resonant Frequency,30MHz,equivalent aliases
+PL Magnetics Inductor Power,100uH_SRN8040-101M,remove,Shielded,,Yes,duplicate/alias of Shielding
+PL Magnetics Inductor Power,100uH_SRN8040-101M,remove,Rated current,,1A,duplicate/alias of Rated Current
+PL Magnetics Inductor Power,18uH_SRR1280-180M,remove,Shielded,,Yes,duplicate/alias of Shielding
+PL Magnetics Inductor Power,18uH_SRR1280-180M,remove,Rated current,,4.8A,duplicate/alias of Rated Current
+PL Magnetics Inductor Power,18uH_SRR1280-180M,replace value,Rated Current,Rated Current,4.8A,verified override
+PL Magnetics Inductor Power,1uH_SER2010-102MLD,remove,Core Material,,,empty/sentinel custom value
+PL Magnetics Inductor Power,1uH_SER2010-102MLD,rename,Resonant Frequency,Self Resonant Frequency,81MHz,equivalent aliases
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,Manufacturer URL,,https://www.we-online.com,discarded by schema
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,Published Date,,20250214,discarded by schema
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,Match Code,,WE-HCFT,discarded by schema
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,Size,,2012_LeadDiameter1.2mm,discarded by schema
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,Critical Parameter,,6.8 µH,discarded by schema
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,Part Number,,7443782012068,duplicate/alias of MPN
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,IR (A),,20.6,duplicate/alias of Rated Current
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,ISAT (A),,30.6,duplicate/alias of Saturation Current
+PL Magnetics Inductor Power,2.2uH_74437625200222,remove,RDC max. (mΩ),,5.0,duplicate/alias of DCR
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,Datasheet,Datasheet,https://www.we-online.com/components/products/datasheet/74437625200222.pdf,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,rename,L (µH),Inductance,6.8,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,Inductance,Inductance,2.2µH,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,rename,Tol. L,Inductance Tolerance,±20%,equivalent aliases
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,Rated Current,Rated Current,70.6A,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,Saturation Current,Saturation Current,122.4A,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,DCR,DCR,0.38mΩ,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,rename,fres (MHz),Self Resonant Frequency,21.0,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,Self Resonant Frequency,Self Resonant Frequency,62.24MHz,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,Core Material,Core Material,Metal alloy,verified override
+PL Magnetics Inductor Power,2.2uH_74437625200222,replace value,ki_fp_filters,ki_fp_filters,*WE-HCFT*2520*,verified override
+PL Magnetics Inductor Power,220nH_7443936050022,remove,Manufacturer URL,,https://www.we-online.com,discarded by schema
+PL Magnetics Inductor Power,220nH_7443936050022,remove,Part Number,,7443936050022,duplicate/alias of MPN
+PL Magnetics Inductor Power,220nH_IHSR6767GZERR22M5A,remove,Tolerance,,20%,not allowed in library schema
+PL Magnetics Inductor Power,2uH_7443763521022,remove,Manufacturer URL,,https://www.we-online.com,discarded by schema
+PL Magnetics Inductor Power,2uH_7443763521022,remove,Match Code,,WE-HCFT,discarded by schema
+PL Magnetics Inductor Power,2uH_7443763521022,remove,Part Number,,7443763521022,duplicate/alias of MPN
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Manufacturer URL,,https://www.we-online.com,discarded by schema
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Published Date,,20250214,discarded by schema
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Match Code,,WE-HCFT,discarded by schema
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Size,,2012_LeadDiameter1.2mm,discarded by schema
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Critical Parameter,,6.8 µH,discarded by schema
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Tolerance,,20%,not allowed in library schema
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Part Number,,7443782012068,duplicate/alias of MPN
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,IR (A),,20.6,duplicate/alias of Rated Current
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,Current Rating,,54.7A,duplicate/alias of Rated Current
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,ISAT (A),,30.6,duplicate/alias of Saturation Current
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,RDC max. (mΩ),,5.0,duplicate/alias of DCR
+PL Magnetics Inductor Power,6.8uH_74437625200682,remove,fres (MHz),,21.0,duplicate/alias of Self Resonant Frequency
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,Footprint,Footprint,,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,Datasheet,Datasheet,https://www.we-online.com/components/products/datasheet/74437625200682.pdf,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,rename,L (µH),Inductance,6.8,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,Inductance,Inductance,6.8µH,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,rename,Tol. L,Inductance Tolerance,±20%,equivalent aliases
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,Rated Current,Rated Current,54.7A,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,DCR,DCR,1mΩ,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,Core Material,Core Material,Metal alloy,verified override
+PL Magnetics Inductor Power,6.8uH_74437625200682,replace value,ki_fp_filters,ki_fp_filters,*WE-HCFT*2520*,verified override
+PL Magnetics Inductor Signal,47uH_0805,rename,Tolerance,Inductance Tolerance,10%,equivalent aliases
+PL Magnetics Inductor Signal,6.8uH_0805,rename,Tolerance,Inductance Tolerance,20%,equivalent aliases
+PL Optocoupler,LTV-846S,remove,STANDARD,,IPC-7351B,discarded by schema
+PL Optocoupler,LTV-846S,rename,MANUFACTURER,Manufacturer,Lite-on,equivalent aliases
+PL Optocoupler,LTV-846S,rename,MAXIMUM_PACKAGE_HEIGHT,Height,4.6mm,equivalent aliases
+PL Oscillator Crystal,24MHz_CB3LV-3I-8M192000,remove,Stability,,±50ppm,duplicate/alias of Frequency Stability
+PL Oscillator Crystal,8.192MHz_Y32258.192MNCCZ,remove,Stability,,±30ppm,duplicate/alias of Frequency Stability
+PL Oscillator Crystal,Template_Crystal_2-Pin,remove,Frequency,,,empty/sentinel custom value
+PL Oscillator Crystal,Template_Crystal_2-Pin,remove,Load Capacitance,,,empty/sentinel custom value
+PL Oscillator Crystal,Template_Crystal_2-Pin,remove,Frequency Stability,,,empty/sentinel custom value
+PL Oscillator Crystal,Template_Crystal_2-Pin,remove,Frequency Tolerance,,,empty/sentinel custom value
+PL Oscillator Crystal,Template_Crystal_2-Pin,remove,Operating Temperature,,,empty/sentinel custom value
+PL Oscillator Crystal,12MHz_ABM8-272-T3,rename,Tolerance,Frequency Tolerance,30ppm,equivalent aliases
+PL Oscillator Crystal,12MHz_ABM8-272-T3,rename,Stability,Frequency Stability,30ppm,equivalent aliases
+PL Oscillator Crystal,24.576MHz_ECS-245.7-18-4XEN,remove,Stability,,±50ppm,duplicate/alias of Frequency Stability
+PL Oscillator Crystal,54MHz_OT201654MJBA4SL,remove,Stability,,±10ppm,duplicate/alias of Frequency Stability
+PL Oscillator Crystal,64MHz_OT201664MJBA4SL,remove,Stability,,±10ppm,duplicate/alias of Frequency Stability
+PL Oscillator Crystal,8MHz_OT20168MJBA4SL,remove,Stability,,±10ppm,duplicate/alias of Frequency Stability
+PL Oscillator Crystal,32MHz_XL7EL89CLI-111YLC-32M,remove,Stability,,±10ppm,duplicate/alias of Frequency Stability
+PL Power Module,3.3V_173950375,remove,Vin (V),,9-74.5,discarded by schema
+PL Power Module,3.3V_173950375,remove,Vout (V),,3.3,discarded by schema
+PL Power Module,3.3V_173950375,remove,Iout (A),,0.5A,discarded by schema
+PL Power Module,3.3V_173950375,rename,Input Voltage,Nominal Input Voltage,9V–74.5V,equivalent aliases
+PL Power Module,B1212S-1WR3,rename,Input Voltage,Nominal Input Voltage,12V,equivalent aliases
+PL Power Module,RFM-0505S,remove,MAXIMUM_PACKAGE_HEIGHT,,10mm,not allowed in library schema
+PL Power Module,RFM-0505S,remove,Package,,SIP-4 Recom Power,not allowed in library schema
+PL Power Module,RFM-0505S,remove,Price,,None,discarded by schema
+PL Power Module,RFM-0505S,remove,Check_prices,,https://www.snapeda.com/parts/RFM-0505S/Recom+Power/view-part/?ref=eda,discarded by schema
+PL Power Module,RFM-0505S,remove,STANDARD,,Manufacturer Recommendations,discarded by schema
+PL Power Module,RFM-0505S,remove,PARTREV,,0,discarded by schema
+PL Power Module,RFM-0505S,remove,SnapEDA_Link,,https://www.snapeda.com/parts/RFM-0505S/Recom+Power/view-part/?ref=snap,discarded by schema
+PL Power Module,RFM-0505S,remove,Description_1,,"DC-DC Converter, SIP4, 1kV unreg, Single Output, 1W, 5V Out, RFM Series | RECOM Power Inc. RFM-0505S",discarded by schema
+PL Power Module,RFM-0505S,remove,Availability,,In Stock,discarded by schema
+PL Power Module,RFM-0505S,remove,MANUFACTURER,,Recom,duplicate/alias of Manufacturer
+PL Power Module,RFM-0505S,remove,MP,,RFM-0505S,duplicate/alias of MPN
+PL Power Module,RFM-0505S,rename,MF,Manufacturer,Recom Power,verified override
+PL Power Module,RFM-0505S,replace value,Manufacturer,Manufacturer,RECOM Power,verified override
+PL Power Module,RFM-0505S,rename,Input Voltage,Nominal Input Voltage,5V,equivalent aliases
+PL Resistor SMD,Resistor_Template,remove,Tolerance,,,empty/sentinel custom value
+PL Resistor SMD,Resistor_Template,remove,MPN,,,empty/sentinel custom value
+PL Resistor SMD,Resistor_Template,remove,Rated Power,,,empty/sentinel custom value
+PL Resistor SMD,Resistor_Template,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,Resistor_Template,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Resistor SMD,Resistor_Template,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,0R_0201,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Resistor SMD,0R_0201,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,0R_0603,remove,Rated Power,,,empty/sentinel custom value
+PL Resistor SMD,0R_0603,remove,Tolerance,,,empty/sentinel custom value
+PL Resistor SMD,0R_0603,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Resistor SMD,1.37K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1.43K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1.62K_0402,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,1.62K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,100K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,100R_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,100m_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,100m_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,100m_2512,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,100m_2512,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10R_2512,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10m_0603,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Resistor SMD,10m_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10m_0805,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10m_2512,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,10m_2512,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Resistor SMD,10m_2512,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10m_2512_5W,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,10m_2817,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,10m_2817,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,13K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,15K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,165K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,18.7K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,180K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,182K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,18K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,18K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,19K_0805,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1K_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,1K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1K_1206,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1M_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1M_1206_0.05%,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1R_1206,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1m_2512,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,1m_5930,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,2.2K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,2.7K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,2.8K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,200R_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,200m_2512,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,200m_2512,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,20K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,20K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,20K_0603_10ppm,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,22K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,22R_0201,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,22R_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,23.7K_0805,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,232K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,24.9K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,240K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,24K_0603_0.05%,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,2K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,3.32K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,3.6K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,3.9K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,30.1K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,300K_0805_0.05%,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,30K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,30K_0603_10ppm,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,330K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,330R_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,33K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,33K_0603_10ppm,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,33R_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,36K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,4.7K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,4.7R_2512,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,4.7R_2512,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,43K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,470K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,47K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,47K_0603_10ppm,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,5.23K_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,500R_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,500m_0201,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,500m_0201,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Resistor SMD,500m_0201,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,50R_0402,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,510K_0603,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor SMD,510K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,56.2K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,57.6K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,6.8K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,68K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,68K_0603_10ppm,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,7.15K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,8.76K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,86.6K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,9.76K_0603,remove,Height,,,empty/sentinel custom value
+PL Resistor SMD,910K_0805,remove,Height,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,MPN,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,Resistance Tolerance,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,B Value Tolerance,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,B0/50,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,B25/50,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,B25/75,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,B25/85,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,B25/100,,,empty/sentinel custom value
+PL Resistor Thermistor,Template_Thermistor_NTC,remove,Operating Temperature,,,empty/sentinel custom value
+PL Resistor Thermistor,10K_NTC_0402_NCP15XH103F03RC,remove,B0/50,,,empty/sentinel custom value
+PL Resistor Thermistor,10K_NTC_0402_NCP15XH103F03RC,remove,B25/75,,,empty/sentinel custom value
+PL Resistor Thermistor,10K_NTC_0402_NCP15XH103F03RC,remove,Tolerance,,±1%,discarded by schema
+PL Resistor Thermistor,10K_NTC_0402_NCP15XH103F03RC,remove,B-Constant/Beta,,3380K,discarded by schema
+PL Resistor Thermistor,10k_NTC_0402,remove,B0/50,,,empty/sentinel custom value
+PL Resistor Thermistor,10k_NTC_0402,remove,B25/75,,,empty/sentinel custom value
+PL Resistor Thermistor,10k_NTC_0402,remove,Tolerance,,±1%,discarded by schema
+PL Resistor Thermistor,10k_NTC_0402,remove,B-Constant/Beta,,3455K,discarded by schema
+PL Resistor Variable,1M_3224X,remove,R25,,N/A,discarded by schema
+PL Resistor Variable,1M_3224X,rename,Tolerance,Resistance Tolerance,10%,equivalent aliases
+PL Thermal,Thermal_Jumper_Template,remove,Thermal Conductivity,,,empty/sentinel custom value
+PL Thermal,Thermal_Jumper_Template,remove,MPN,,,empty/sentinel custom value
+PL Thermal,Thermal_Jumper_Template,remove,Operating Temperature,,,empty/sentinel custom value
+PL Thermal,Thermal_Jumper_Template,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Thermal,Thermal_Jumper_Template,remove,Material,,,empty/sentinel custom value
+PL Thermal,0612_THJP0612AST1,remove,Operating Temperature,,,empty/sentinel custom value
+PL Thermal,0612_THJP0612AST1,remove,Temperature Coefficient,,,empty/sentinel custom value
+PL Transducer Acoustic,CMC-2742PBJ-A,remove,Impedance,,2.2kΩ,duplicate/alias of Rated Impedance
+PL Transistor BJT,PNP_MMBTA92,remove,Rated Current,,0.5A,duplicate/alias of Collector Current
+PL Transistor BJT,PNP_MMBTA92,rename,Rated Power,Power Dissipation,0.3W,equivalent aliases
+PL Transistor FET,AS2324,remove,Continous Drain Current,,2A,duplicate/alias of Continuous Drain Current
+PL Transistor FET,AS2324,rename,Vgs(th),Gate Threshold Voltage,3V,equivalent aliases
+PL Transistor FET,BSS123IXTSA1,remove,Continous Drain Current,,190mA,duplicate/alias of Continuous Drain Current
+PL Transistor FET,BSS123IXTSA1,rename,Vgs(th) (Max),Gate Threshold Voltage,1.8V,equivalent aliases
+PL Transistor FET,BSS138,remove,Continous Drain Current,,170mA,duplicate/alias of Continuous Drain Current
+PL Transistor FET,BSS138,rename,Vgs(th),Gate Threshold Voltage,1.6V,equivalent aliases
+PL Transistor FET,NTTFS5C454NLTAG,remove,Continous Drain Current,,20A,duplicate/alias of Continuous Drain Current
+PL Transistor FET,NTTFS5C454NLTAG,rename,Vgs(th),Gate Threshold Voltage,2V,equivalent aliases
+PL Transistor FET,PSMN1R7-40YLDX,remove,Continous Drain Current,,200A,duplicate/alias of Continuous Drain Current
+PL Transistor FET,PSMN1R7-40YLDX,rename,Vgs(th),Gate Threshold Voltage,2.05V @ 1mA,equivalent aliases
+PL Transistor FET,XR20P10D,remove,MPN,,,empty/sentinel custom value
+PL Transistor GaN,EPC2305,remove,Rated Continuous Current,,102A,duplicate/alias of Continuous Drain Current
+PL Transistor GaN,EPC2305,rename,On Resistance,On-Resistance,2.2mΩ,equivalent aliases
+PL Transistor GaN,EPC2305,rename,Rated Voltage,Drain-Source Voltage,150V,equivalent aliases
+PL Transistor GaN,EPC2305,rename,Rated Continous Current,Continuous Drain Current,133A,verified override
+PL Transistor GaN,EPC2305,rename,Rated Peak Current,Peak Drain Current,"329A (Pulsed (25°C, TPULSE = 300 μs) ",equivalent aliases
+PL Transistor GaN,EPC2305,rename,Coss,Output Capacitance (Coss),852pF,equivalent aliases
+PL Transistor GaN,EPC2306,remove,Rated Continuous Current,,63A,duplicate/alias of Continuous Drain Current
+PL Transistor GaN,EPC2306,rename,On Resistance,On-Resistance,3.1mΩ,equivalent aliases
+PL Transistor GaN,EPC2306,rename,Rated Voltage,Drain-Source Voltage,100V,equivalent aliases
+PL Transistor GaN,EPC2306,rename,Rated Continous Current,Continuous Drain Current,63A,verified override
+PL Transistor GaN,EPC2306,rename,Rated Peak Current,Peak Drain Current,"197A Pulsed (25°C, TPULSE = 300 μs)",equivalent aliases
+PL Transistor GaN,EPC2306,rename,Coss,Output Capacitance (Coss),616pF,equivalent aliases

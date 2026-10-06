@@ -15,9 +15,9 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,9 +26,20 @@
 			)
 		)
 		(property "Value" "C_Polarized_Template"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Rated Voltage" "Voltage Rating"
+			(at 2.54 -2.032 0)
+			(show_name no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -182,9 +193,9 @@
 	(symbol "220uF_D8_L17_SH227M063F1700"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,9 +204,9 @@
 			)
 		)
 		(property "Value" "220uF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -281,14 +292,14 @@
 			)
 		)
 		(property "Rated Voltage" "63V"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "ESR" "14mΩ@100kHz"
@@ -329,9 +340,9 @@
 	(symbol "470uF_D10xL17_SH477M063G1700"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -340,9 +351,9 @@
 			)
 		)
 		(property "Value" "470uF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -428,14 +439,14 @@
 			)
 		)
 		(property "Rated Voltage" "63V"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "ESR" "20mΩ"
@@ -472,19 +483,13 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "approval_properties" "{\"datasheet\":\"https://www.lcsc.com/datasheet/C44606499.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQ1JdVVNfQlJeUTtW\"}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 	(symbol "47uF_D8xL10.5"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -493,9 +498,9 @@
 			)
 		)
 		(property "Value" "47µF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -548,14 +553,14 @@
 			)
 		)
 		(property "Rated Voltage" "63V"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Tolerance" "20%"
@@ -614,19 +619,13 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "approval_properties" "{\"datasheet\":\"C:/KiCad/9.0/${PL_SYMBOL_DIR}/PL Capacitor Polymer/Datasheets/HV1J476M0810PZ.pdf\"}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 	(symbol "47uF_D8xL11.7"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -635,9 +634,20 @@
 			)
 		)
 		(property "Value" "47uF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Rated Voltage" "100V"
+			(at 2.54 -2.032 0)
+			(show_name no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)

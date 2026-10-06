@@ -74,6 +74,12 @@
 				(hide yes)
 			)
 		)
+		(property "Hole Diameter" "2.2mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
 		(symbol "M2_Via_1_1"
 			(circle
 				(center -1.27 0)
@@ -410,7 +416,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "M3_Via_1"
+	(symbol "M5_Via"
 		(pin_numbers
 			(hide yes)
 		)
@@ -482,7 +488,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "M3_Via_1_1_1"
+		(symbol "M5_Via_1_1"
 			(circle
 				(center -1.27 0)
 				(radius 0.254)

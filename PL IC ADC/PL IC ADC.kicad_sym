@@ -746,7 +746,7 @@
 				)
 			)
 		)
-		(property "Sample Rate" "24-bit"
+		(property "Sample Rate" "64kSPS"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -757,7 +757,7 @@
 				)
 			)
 		)
-		(property "Resolution" "64kSPS"
+		(property "Resolution" "24-bit"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -79,17 +79,6 @@
 				)
 			)
 		)
-		(property "Impedance" "2.2kΩ"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "S/N" "58dB"
 			(at 0 0 0)
 			(show_name no)

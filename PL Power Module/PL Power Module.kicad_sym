@@ -51,33 +51,6 @@
 				(hide yes)
 			)
 		)
-		(property "Vin (V)" "9-74.5"
-			(at 71.374 -2.032 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vout (V)" "3.3"
-			(at 71.374 -4.318 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Iout (A)" "0.5A"
-			(at 71.374 -6.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "173950375"
 			(at 0 0 0)
 			(effects
@@ -123,7 +96,7 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "Input Voltage" "9V–74.5V"
+		(property "Nominal Input Voltage" "9V–74.5V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -292,7 +265,7 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "Input Voltage" "12V"
+		(property "Nominal Input Voltage" "12V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -476,117 +449,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Recom Power"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "10mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SIP-4 Recom Power"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RFM-0505S/Recom+Power/view-part/?ref=eda"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "0"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RFM-0505S/Recom+Power/view-part/?ref=snap"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "RFM-0505S"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "DC-DC Converter, SIP4, 1kV unreg, Single Output, 1W, 5V Out, RFM Series | RECOM Power Inc. RFM-0505S"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Recom"
+		(property "Manufacturer" "RECOM Power"
 			(at 0 0 0)
 			(effects
 				(font
@@ -605,7 +468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Input Voltage" "5V"
+		(property "Nominal Input Voltage" "5V"
 			(at 0 0 0)
 			(effects
 				(font

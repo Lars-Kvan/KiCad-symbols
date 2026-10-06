@@ -82,7 +82,7 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "Interface Type" "SPI"
+		(property "Interface" "SPI"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

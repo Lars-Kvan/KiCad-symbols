@@ -229,7 +229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Resistance Tolerance" "10%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -257,12 +257,6 @@
 			)
 		)
 		(property "Taper Type" "Linear"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "R25" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

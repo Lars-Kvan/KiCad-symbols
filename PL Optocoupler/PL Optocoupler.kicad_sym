@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Lite-on"
+		(property "Manufacturer" "Lite-on"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65,17 +65,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.6mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
+		(property "Height" "4.6mm"
 			(at 0 0 0)
 			(effects
 				(font

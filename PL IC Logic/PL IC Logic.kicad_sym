@@ -101,7 +101,7 @@
 			(show_name no)
 			(do_not_autoplace no)
 		)
-		(property "Number of Gates/Channels" "1 (2-input AND gate)"
+		(property "Number of Channels" "1 (2-input AND gate)"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -330,7 +330,7 @@
 			(show_name no)
 			(do_not_autoplace no)
 		)
-		(property "Number of Gates/Channels" "1 (D-type positive-edge-triggered flip-flop)"
+		(property "Number of Channels" "1 (D-type positive-edge-triggered flip-flop)"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

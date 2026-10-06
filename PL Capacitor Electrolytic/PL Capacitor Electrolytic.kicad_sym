@@ -15,9 +15,9 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,9 +26,20 @@
 			)
 		)
 		(property "Value" "C_Polarized_Template"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Rated Voltage" "Voltage Rating"
+			(at 2.54 -2.032 0)
+			(show_name no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -182,9 +193,9 @@
 	(symbol "1000uF_D16xL25"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,9 +204,9 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -248,25 +259,14 @@
 			)
 		)
 		(property "Rated Voltage" "63V"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "ESR" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 			)
 		)
 		(property "Ripple Current" "1448mA@120Hz,105C"
@@ -314,25 +314,13 @@
 			)
 		)
 		(embedded_fonts no)
-		(property "approval_properties" "{}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
-		(property "approval_checks" "{\"symbol\":\"56e530ddb61b1ebde943d764df6d868785e7f6d91b172a209fa0baf00c4eeb13\"}"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-		)
 	)
 	(symbol "10mF_D30xL50"
 		(extends "C_Polarized_Template")
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 2.54 2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -341,9 +329,9 @@
 			)
 		)
 		(property "Value" "10mF"
-			(at 0.635 -2.54 0)
+			(at 2.54 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -407,28 +395,142 @@
 			)
 		)
 		(property "Rated Voltage" "63C"
-			(at 0 0 0)
+			(at 2.54 -2.032 0)
 			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "ESR" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left)
 			)
 		)
 		(property "Ripple Current" "5.49A@120Hz"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "cap capacitor"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "470uF_D35xL47"
+		(extends "C_Polarized_Template")
+		(property "Reference" "C"
+			(at 2.54 2.032 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470µF"
+			(at 2.54 0 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0.9652 -3.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/KMQN-e.PDF"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "CAP ALUM 470UF 20% 450V SNAP TH"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "EKMQ451VSN471MA45S"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" "450V"
+			(at 2.54 -2.032 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Operating Temperature" "-25°C ~ 105°C"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

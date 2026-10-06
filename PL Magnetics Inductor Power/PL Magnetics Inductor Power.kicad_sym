@@ -88,15 +88,6 @@
 				(hide yes)
 			)
 		)
-		(property "SRF" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "DCR" "35mΩ"
 			(at 0 0 0)
 			(effects
@@ -341,7 +332,7 @@
 				(hide yes)
 			)
 		)
-		(property "SRF" "50MHz"
+		(property "Self Resonant Frequency" "50MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -351,15 +342,6 @@
 			)
 		)
 		(property "DCR" "13.9mΩ"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "30%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -603,7 +585,7 @@
 				(hide yes)
 			)
 		)
-		(property "SRF" "70MHz"
+		(property "Self Resonant Frequency" "70MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -613,15 +595,6 @@
 			)
 		)
 		(property "DCR" "18.2mΩ"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "30%"
 			(at 0 0 0)
 			(effects
 				(font
@@ -811,7 +784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/74437625200122.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74437625200122.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -838,51 +811,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 52.07 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Published Date" "20250214"
-			(at 52.07 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WE-HCFT"
-			(at 52.07 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "7443782012068"
-			(at 52.07 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Size" "2012_LeadDiameter1.2mm"
-			(at 52.07 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mounting Technology" "THT"
 			(at 52.07 0 0)
 			(effects
@@ -892,7 +820,7 @@
 				(hide yes)
 			)
 		)
-		(property "L (µH)" "6.8"
+		(property "Inductance" "1.2µH"
 			(at 52.07 -2.54 0)
 			(effects
 				(font
@@ -901,7 +829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tol. L" "±20%"
+		(property "Inductance Tolerance" "±20%"
 			(at 52.07 -5.08 0)
 			(effects
 				(font
@@ -910,34 +838,7 @@
 				(hide yes)
 			)
 		)
-		(property "IR (A)" "20.6"
-			(at 52.07 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ISAT (A)" "30.6"
-			(at 52.07 -10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RDC max. (mΩ)" "5.0"
-			(at 52.07 -12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "fres (MHz)" "21.0"
+		(property "Self Resonant Frequency" "89.75MHz"
 			(at 52.07 -15.24 0)
 			(effects
 				(font
@@ -946,7 +847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Core Material" "MnZn"
+		(property "Core Material" "Metal alloy"
 			(at 52.07 -17.78 0)
 			(effects
 				(font
@@ -955,43 +856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Critical Parameter" "1.2uH"
-			(at 0 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "20%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DC Resistance" "0.21mΩ"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74437625200122"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Resonant Frequency" "89.75MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1009,7 +874,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*WE-HCFT*2012*"
+		(property "ki_fp_filters" "*WE-HCFT*2520*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1226,15 +1091,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 52.07 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "744393665012"
 			(at 0 0 0)
 			(effects
@@ -1262,7 +1118,7 @@
 				(hide yes)
 			)
 		)
-		(property "SRF" "30MHz"
+		(property "Self Resonant Frequency" "30MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1512,24 +1368,6 @@
 				(hide yes)
 			)
 		)
-		(property "Shielded" "Yes"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Rated current" "1A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Saturation Current" "1A"
 			(at 0 0 0)
 			(effects
@@ -1742,24 +1580,6 @@
 				(hide yes)
 			)
 		)
-		(property "Shielded" "Yes"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Rated current" "4.8A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Saturation Current" "4.6A"
 			(at 0 0 0)
 			(effects
@@ -1787,7 +1607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "4.1A"
+		(property "Rated Current" "4.8A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1948,15 +1768,6 @@
 				(hide yes)
 			)
 		)
-		(property "Core Material" ""
-			(at 52.07 -17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "SER2010-102MLD"
 			(at 0 0 0)
 			(effects
@@ -1966,7 +1777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Resonant Frequency" "81MHz"
+		(property "Self Resonant Frequency" "81MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2183,7 +1994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/74437625200122.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74437625200222.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -2210,51 +2021,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 52.07 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Published Date" "20250214"
-			(at 52.07 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WE-HCFT"
-			(at 52.07 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "7443782012068"
-			(at 52.07 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Size" "2012_LeadDiameter1.2mm"
-			(at 52.07 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mounting Technology" "THT"
 			(at 52.07 0 0)
 			(effects
@@ -2264,7 +2030,7 @@
 				(hide yes)
 			)
 		)
-		(property "L (µH)" "6.8"
+		(property "Inductance" "2.2µH"
 			(at 52.07 -2.54 0)
 			(effects
 				(font
@@ -2273,7 +2039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tol. L" "±20%"
+		(property "Inductance Tolerance" "±20%"
 			(at 52.07 -5.08 0)
 			(effects
 				(font
@@ -2282,34 +2048,7 @@
 				(hide yes)
 			)
 		)
-		(property "IR (A)" "20.6"
-			(at 52.07 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ISAT (A)" "30.6"
-			(at 52.07 -10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RDC max. (mΩ)" "5.0"
-			(at 52.07 -12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "fres (MHz)" "21.0"
+		(property "Self Resonant Frequency" "62.24MHz"
 			(at 52.07 -15.24 0)
 			(effects
 				(font
@@ -2318,17 +2057,8 @@
 				(hide yes)
 			)
 		)
-		(property "Core Material" "MnZn"
+		(property "Core Material" "Metal alloy"
 			(at 52.07 -17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical Parameter" "6.8 µH"
-			(at 0 -7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2354,7 +2084,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*WE-HCFT*2012*"
+		(property "ki_fp_filters" "*WE-HCFT*2520*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2363,7 +2093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "65A"
+		(property "Rated Current" "70.6A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2375,13 +2105,13 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "Saturation Current" "115A"
+		(property "Saturation Current" "122.4A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "DCR" "0.35mΩ"
+		(property "DCR" "0.38mΩ"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2564,24 +2294,6 @@
 		)
 		(property "Manufacturer" "Wurth Elektronik"
 			(at 52.07 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 52.07 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "7443936050022"
-			(at 52.07 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,15 +2563,6 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Operating Temperature" "-55°C ~ 155°C"
 			(at 0 0 0)
 			(effects
@@ -3082,33 +2785,6 @@
 		)
 		(property "Manufacturer" "Wurth Elektronik"
 			(at 52.07 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 52.07 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WE-HCFT"
-			(at 52.07 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "7443763521022"
-			(at 52.07 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3720,7 +3396,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Inductor_THT_Wurth:L_Wurth_WE-HCFT-2012_LeadDiameter1.2mm"
+		(property "Footprint" ""
 			(at 0 7.62 0)
 			(effects
 				(font
@@ -3729,7 +3405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Magnetics Inductor Power/Datasheets/74437625200122.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74437625200682.pdf"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -3756,51 +3432,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer URL" "https://www.we-online.com"
-			(at 52.07 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Published Date" "20250214"
-			(at 52.07 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WE-HCFT"
-			(at 52.07 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "7443782012068"
-			(at 52.07 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Size" "2012_LeadDiameter1.2mm"
-			(at 52.07 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mounting Technology" "THT"
 			(at 52.07 0 0)
 			(effects
@@ -3810,7 +3441,7 @@
 				(hide yes)
 			)
 		)
-		(property "L (µH)" "6.8"
+		(property "Inductance" "6.8µH"
 			(at 52.07 -2.54 0)
 			(effects
 				(font
@@ -3819,7 +3450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tol. L" "±20%"
+		(property "Inductance Tolerance" "±20%"
 			(at 52.07 -5.08 0)
 			(effects
 				(font
@@ -3828,43 +3459,7 @@
 				(hide yes)
 			)
 		)
-		(property "IR (A)" "20.6"
-			(at 52.07 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ISAT (A)" "30.6"
-			(at 52.07 -10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RDC max. (mΩ)" "5.0"
-			(at 52.07 -12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "fres (MHz)" "21.0"
-			(at 52.07 -15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Core Material" "MnZn"
+		(property "Core Material" "Metal alloy"
 			(at 52.07 -17.78 0)
 			(effects
 				(font
@@ -3873,34 +3468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Critical Parameter" "6.8 µH"
-			(at 0 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74437625200682"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "20%"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Current Rating" "54.7A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3936,7 +3504,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*WE-HCFT*2012*"
+		(property "ki_fp_filters" "*WE-HCFT*2520*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3945,7 +3513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rated Current" "45A"
+		(property "Rated Current" "54.7A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3957,7 +3525,7 @@
 			(do_not_autoplace no)
 			(hide yes)
 		)
-		(property "DCR" "1.25mΩ"
+		(property "DCR" "1mΩ"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

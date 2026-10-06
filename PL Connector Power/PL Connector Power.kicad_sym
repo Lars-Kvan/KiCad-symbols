@@ -67,19 +67,7 @@
 				)
 			)
 		)
-		(property "MF" "Wurth Electronics"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/7461383/Wurth+Electronics/view-part/?ref=snap"
+		(property "Manufacturer" "Wurth Electronics"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -104,39 +92,6 @@
 			)
 		)
 		(property "Rated Current" "180A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Voltage" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Pitch" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Pin Count" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1115,17 +1070,6 @@
 				)
 			)
 		)
-		(property "Pitch" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Rated Current" "7A (Varies by Wire Gauge)"
 			(at 0 0 0)
 			(show_name no)
@@ -1338,16 +1282,6 @@
 			)
 		)
 		(property "Rated Voltage" "500V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Pitch" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1625,16 +1559,6 @@
 			)
 		)
 		(property "Rated Voltage" "500V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Pitch" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1939,16 +1863,6 @@
 			)
 		)
 		(property "Number of Contacts" "2"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Pitch" "N/A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
