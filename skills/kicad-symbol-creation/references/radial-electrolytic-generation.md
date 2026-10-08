@@ -28,7 +28,7 @@ Use this reference when a task turns supplier capacitor exports and manufacturer
 
 - Put pad 1 on negative X as a roundrect and pad 2 on positive X as a circle unless the local library establishes another convention.
 - For a cylindrical body, make F.CrtYd a circle centered on the body. Do not approximate it with a square bounding box.
-- Keep the `+` polarity mark fully inside the body-side silk region and clear of the body outline, pads, and other silk.
+- Place the silk `+` polarity mark fully outside the body circle; putting it outside the circular courtyard as well is preferred when clearance permits. Scale its span and stroke with body diameter, cap it for very large cans, and keep the separate F.Fab polarity mark readable inside the body.
 - Clip negative-side diagonal hatching to the circular body so each visible stripe reaches the outer circle. Apply pad clearance after circle clipping; do not leave floating stripe fragments.
 - Include F.Fab polarity marking, exact body dimensions, deterministic identifiers, and a direct `${PL}` model link with an explicit transform only when required.
 
