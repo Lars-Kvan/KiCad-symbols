@@ -39,7 +39,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C19271469.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/20N03.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -84,6 +84,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "20A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "25mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "20N03_0_1"
 			(polyline
@@ -336,7 +351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/AO3400A.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -381,6 +396,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "5.7A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "28 mΩ (@ 10V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "AO3400A_0_1"
 			(polyline
@@ -632,7 +662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/AO3401A.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -677,6 +707,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "-30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "-4A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "46 mΩ (@ 10V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "AO3401A_0_1"
 			(polyline
@@ -927,7 +972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2699/AS2324.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/AS2324.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -954,16 +999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "2A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "3V"
+		(property "Gate Threshold Voltage" "3V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -980,6 +1016,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "20V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "6.5A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "20 mΩ (@ 4.5V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "AS2324_0_1"
 			(polyline
@@ -1230,7 +1281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSS123I-DataSheet-v02_00-EN.pdf?fileId=5546d46277921c320177a421ae8a1d46"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/BSS123IXTSA1.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1257,16 +1308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "190mA"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th) (Max)" "1.8V"
+		(property "Gate Threshold Voltage" "1.8V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1283,6 +1325,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "0.17A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "6Ω"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "BSS123IXTSA1_0_1"
 			(polyline
@@ -1533,7 +1590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.jp/pdf/datasheet/bss138-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/BSS138.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1560,16 +1617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "170mA"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "1.6V"
+		(property "Gate Threshold Voltage" "1.6V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1586,6 +1634,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "50V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "0.22A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "3.5Ω"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "BSS138_0_1"
 			(polyline
@@ -1836,7 +1899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://goodarksemi.com/docs/datasheets/mosfets/GSGTL1R510.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/GSGTL1R510.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1871,6 +1934,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "300A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "1.5mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "GSGTL1R510_0_1"
 			(polyline
@@ -2121,7 +2199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IAUZ40N10S5N130-DataSheet-v01_00-EN.pdf?fileId=5546d4626c1f3dc3016c8a62b6cf0ddb"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/IAUZ40N10S5N130ATMA1.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2156,6 +2234,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "40A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "13mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "IAUZ40N10S5N130ATMA1_0_1"
 			(polyline
@@ -2406,7 +2499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C122552.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/IPT007N06N.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2441,6 +2534,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "60V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "300A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "0.7 mΩ (@ 10V)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "IPT007N06N_0_1"
 			(polyline
@@ -2693,7 +2801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C20624234.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/IRLR024NTR.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -2738,6 +2846,21 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "55V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "Continuous Drain Current" "14A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+		)
+		(property "On-Resistance" "65mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 		)
 		(symbol "IRLR024NTR_0_1"
 			(polyline
@@ -2988,7 +3111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/nttfs5c454nl-d.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/NTTFS5C454NLTAG.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3015,16 +3138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "20A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "2V"
+		(property "Gate Threshold Voltage" "2V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3041,6 +3155,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Continuous Drain Current" "85A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "40V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "On-Resistance" "3.1mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "NTTFS5C454NLTAG_0_1"
 			(polyline
@@ -3386,7 +3518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN1R7-40YLD.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/PSMN1R7-40YLDX.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3413,16 +3545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Continous Drain Current" "200A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vgs(th)" "2.05V @ 1mA"
+		(property "Gate Threshold Voltage" "2.05V @ 1mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3439,6 +3562,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "On-Resistance" "1.7mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "40V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Continuous Drain Current" "200A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "PSMN1R7-40YLDX_0_1"
 			(polyline
@@ -3729,7 +3870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN4R4-30MLC.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/PSMN4R4-30MLC,115.pdf"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -3774,6 +3915,18 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Continuous Drain Current" "70A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "30V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "PSMN4R4-30MLC,115_0_1"
 			(polyline
@@ -4024,25 +4177,6 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 2.54 -5.08 90)
-				(length 2.54)
-				(hide yes)
-				(name "S"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(embedded_fonts no)
 	)
@@ -4102,15 +4236,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "ki_keywords" "PMOS P-MOS"
 			(at 0 0 0)
 			(effects
@@ -4119,6 +4244,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Continuous Drain Current" "20A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "On-Resistance" "180mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "XR20P10D_0_1"
 			(polyline
@@ -4372,7 +4515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2942676.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Transistor FET/Datasheets/YJD18GP10AQ.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4407,6 +4550,24 @@
 				)
 				(hide yes)
 			)
+		)
+		(property "On-Resistance" "36mΩ"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Continuous Drain Current" "18A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+		)
+		(property "Drain-Source Voltage" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 		)
 		(symbol "YJD18GP10AQ_0_1"
 			(polyline

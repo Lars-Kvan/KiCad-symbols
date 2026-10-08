@@ -17,6 +17,8 @@ Create maintainable PL-library symbols without damaging existing library content
 
 Read [PL library conventions](references/pl-library-conventions.md) before selecting equivalents, naming symbols, or assigning properties. Read [safe batch workflow](references/safe-batch-workflow.md) before generating or installing more than a few symbols.
 
+For dataset-driven through-hole aluminum electrolytic symbols, radial and snap-in footprints, or generated capacitor 3D models, also read [radial electrolytic generation](references/radial-electrolytic-generation.md).
+
 ## Non-negotiable local rules
 
 - New symbols may reference only PL footprint libraries. Never assign a stock KiCad, SnapEDA, or supplier footprint directly.
