@@ -45,7 +45,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/1N4001 M1.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -252,7 +252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3034809.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=RwIMX1FTRFBcBgAFR1AKUQVUE1IKUlNUEldfBABQEVQxVlNRQlZfVVBURVVYVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFFdU1xWTk8GEwkK"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAV199DW.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -614,7 +614,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C212291.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAV199WQ-7.pdf"
 			(at -1.27 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -879,7 +879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.smc-diodes.com/propdf/BAV19WS%20THRU%20BAV21WS%20N0590%20REV.B.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAV21WS.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -923,7 +923,7 @@
 				)
 			)
 		)
-		(property "Rated Curretn" "200mA"
+		(property "Reverse Recovery Time" "50ns"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -934,11 +934,10 @@
 				)
 			)
 		)
-		(property "Reverse Recovery Time" "50ns"
+		(property "Rated Current" "200mA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
-			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1086,7 +1085,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C151574.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/BAW156T-7-F.pdf"
 			(at -1.27 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1109,6 +1108,39 @@
 			)
 		)
 		(property "MPN" "BAW156T-7-F"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Forward Voltage" "1.25 V (@ 150 mA) / 1.0 V (@ 50 mA)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Current" "140 mA (continuous)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Recovery Time" "3 µs"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1318,7 +1350,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf"
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode Silicon/Datasheets/US1B-13-F.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1345,6 +1377,36 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Forward Voltage" "1.0 V (@ 1 A)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Current" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Recovery Time" "50ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)

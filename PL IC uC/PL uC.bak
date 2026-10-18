@@ -3083,17 +3083,6 @@
 				)
 			)
 		)
-		(property "Flash Size" "N/A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Core Architecture" "Dual ARM Cortex-M33 / Dual Hazard3 RISC-V"
 			(at 0 0 0)
 			(show_name no)
