@@ -934,6 +934,16 @@
 				)
 			)
 		)
+		(property "Rated Current" "200mA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "DIODE STANDARD 200V 200MA SOD323"
 			(at 0 0 0)
 			(show_name no)
@@ -955,11 +965,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Rated Current" "200mA"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "BAV21WS_0_1"
 			(polyline
@@ -1378,6 +1383,36 @@
 				)
 			)
 		)
+		(property "Forward Voltage" "1.0 V (@ 1 A)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Current" "1A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Recovery Time" "50ns"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "Ultra Fast"
 			(at 0 0 0)
 			(show_name no)
@@ -1399,21 +1434,6 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Forward Voltage" "1.0 V (@ 1 A)"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Rated Current" "1A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-		)
-		(property "Reverse Recovery Time" "50ns"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 		)
 		(symbol "US1B-13-F_0_1"
 			(polyline

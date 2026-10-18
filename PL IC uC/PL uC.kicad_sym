@@ -1862,7 +1862,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PL IC uC:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

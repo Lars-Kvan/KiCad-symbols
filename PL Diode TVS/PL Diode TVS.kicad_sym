@@ -1545,7 +1545,724 @@
 		)
 		(embedded_fonts no)
 	)
-
+	(symbol "USBLC6-2SC6"
+		(pin_names
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at 0.635 5.715 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 0.635 3.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PL Diode TVS:SOT-23-6"
+			(at 1.27 -6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/cd00050750.pdf"
+			(at 1.27 -8.255 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "USBLC6-2SC6"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "usb ethernet video"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "USBLC6-2SC6_0_0"
+			(circle
+				(center -1.524 0)
+				(radius 0.0001)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -0.508 2.032)
+				(radius 0.0001)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -0.508 -4.572)
+				(radius 0.0001)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0.508 2.032)
+				(radius 0.0001)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0.508 -4.572)
+				(radius 0.0001)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.524 -2.54)
+				(radius 0.0001)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "USBLC6-2SC6_0_1"
+			(polyline
+				(pts
+					(xy -2.54 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 0.508) (xy -1.016 0.508) (xy -1.524 1.524) (xy -2.032 0.508)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -3.048) (xy -1.016 -3.048)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 1.524) (xy -2.032 1.524)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 -4.064) (xy -2.032 -4.064) (xy -1.524 -3.048) (xy -1.016 -4.064)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 -1.143) (xy -0.508 -0.762) (xy 0.508 -0.762)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy -0.508 2.032) (xy 0.508 2.032) (xy 0 1.524) (xy 0 -4.064) (xy -0.508 -4.572) (xy 0.508 -4.572)
+					(xy 0 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.508 -1.778) (xy -0.508 -1.778) (xy 0 -0.762) (xy 0.508 -1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 1.524) (xy 2.032 1.524)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 -3.048) (xy 2.032 -3.048)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 0.508) (xy 1.016 0.508) (xy 1.524 1.524) (xy 2.032 0.508)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 -4.064) (xy 1.016 -4.064) (xy 1.524 -3.048) (xy 2.032 -4.064)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "USBLC6-2SC6_1_1"
+			(rectangle
+				(start -2.54 2.794)
+				(end 2.54 -5.334)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 2.032) (xy -1.524 2.032) (xy -1.524 -4.572) (xy -0.508 -4.572)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.508 -4.572) (xy 1.524 -4.572) (xy 1.524 2.032) (xy 0.508 2.032)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 2.54)
+				(name "I/O1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -7.62 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 2.54)
+				(name "I/O2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -2.54 180)
+				(length 2.54)
+				(name "I/O2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 5.08 270)
+				(length 2.54)
+				(name "VBUS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 2.54)
+				(name "I/O1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "DFLT170A-7"
+		(extends "TVS_Template_Unidirectional")
+		(property "Reference" "D"
+			(at 0 2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DFLT170A-7"
+			(at 0 -2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PL Diode TVS:D_PowerDI-123"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode TVS/Datasheets/Diodes_DFLT5V0A_DFLT220A.pdf"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diodes Incorporated 225W unidirectional TVS, 170V VRWM, PowerDI-123"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TVS Series" "DFLT"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Technology" "TVS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "DFLT170A-7"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Standoff Voltage" "170V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Breakdown Voltage" "189V min / 209V max"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Clamping Voltage" "281V max @ 0.81A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Leakage Current" "5uA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Power" "225W@10/1000us"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Current" "0.81A@10/1000us"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Number of Channels" "1"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Operating Temperature" "-65℃~+150℃"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "PowerDI-123"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Packaging" "Tape & Reel (TR)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "unidirectional diode TVS voltage suppressor"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "D_PowerDI-123"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "SMAJ10A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -1812,7 +2529,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ10CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -2079,7 +2795,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ11CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -2346,7 +3061,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ12A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -2613,7 +3327,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ12CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -2880,7 +3593,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ13A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -3147,7 +3859,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ13CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -3414,7 +4125,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ14A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -3681,7 +4391,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ14CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -3948,7 +4657,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ15A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -4215,7 +4923,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ15CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -4482,7 +5189,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ160A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -4749,7 +5455,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ160CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -5016,7 +5721,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ16A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -5283,7 +5987,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ16CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -5550,7 +6253,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ170A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -5817,7 +6519,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ17CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -6084,7 +6785,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ188A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -6351,7 +7051,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ188CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -6618,7 +7317,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ18A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -6885,7 +7583,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ18CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -7152,7 +7849,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ20CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -7419,7 +8115,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ220CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -7686,7 +8381,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ22A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -7953,7 +8647,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ22CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -8220,7 +8913,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ24A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -8487,7 +9179,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ24CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -8754,7 +9445,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ250CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -9021,7 +9711,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ26A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -9288,7 +9977,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ26CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -9555,7 +10243,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ28A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -9822,7 +10509,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ28CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -10089,7 +10775,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ30A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -10356,7 +11041,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ30CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -10623,7 +11307,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ33A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -10890,7 +11573,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ33CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -11157,7 +11839,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ36A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -11424,7 +12105,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ36CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -11691,7 +12371,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ400CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -11958,7 +12637,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ40CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -12225,7 +12903,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ43A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -12492,7 +13169,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ45A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -12759,7 +13435,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ45CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -13026,7 +13701,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ48A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -13293,7 +13967,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ48CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -13560,7 +14233,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ5.0A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -13827,7 +14499,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ5.0CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -14094,7 +14765,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ51A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -14361,7 +15031,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ51CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -14628,7 +15297,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ58A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -14895,7 +15563,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ58CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -15162,7 +15829,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ6.0A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -15429,7 +16095,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ6.0CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -15696,7 +16361,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ6.5A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -15963,7 +16627,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ6.5CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -16230,7 +16893,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ60A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -16497,7 +17159,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ60CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -16764,7 +17425,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ7.0A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -17031,7 +17691,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ78CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -17298,7 +17957,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ8.0A"
 		(extends "TVS_Template_Unidirectional")
 		(property "Reference" "D"
@@ -17565,7 +18223,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ8.0CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -17832,7 +18489,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ85CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -18099,7 +18755,6 @@
 		)
 		(embedded_fonts no)
 	)
-
 	(symbol "SMAJ9.0CA"
 		(extends "TVS_Template_Bidirectional")
 		(property "Reference" "D"
@@ -18354,250 +19009,6 @@
 			)
 		)
 		(property "ki_fp_filters" "D_SMA"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
-	(symbol "DFLT170A-7"
-		(extends "TVS_Template_Unidirectional")
-		(property "Reference" "D"
-			(at 0 2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DFLT170A-7"
-			(at 0 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PL Diode TVS:D_PowerDI-123"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "${PL_SYMBOL_DIR}/PL Diode TVS/Datasheets/Diodes_DFLT5V0A_DFLT220A.pdf"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diodes Incorporated 225W unidirectional TVS, 170V VRWM, PowerDI-123"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TVS Series" "DFLT"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Technology" "TVS"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Polarity" "Unidirectional"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "DFLT170A-7"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reverse Standoff Voltage" "170V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Breakdown Voltage" "189V min / 209V max"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Clamping Voltage" "281V max @ 0.81A"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reverse Leakage Current" "5uA"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Power" "225W@10/1000us"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Current" "0.81A@10/1000us"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Number of Channels" "1"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Operating Temperature" "-65℃~+150℃"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "PowerDI-123"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Packaging" "Tape & Reel (TR)"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_keywords" "unidirectional diode TVS voltage suppressor"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_fp_filters" "D_PowerDI-123"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
