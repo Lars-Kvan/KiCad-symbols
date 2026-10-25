@@ -256,7 +256,7 @@
 	(symbol "480x320_DT035CTFT-IPS-SHB"
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "DS"
@@ -281,7 +281,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "N/A"
+		(property "Footprint" "PL Display:DT035CTFT-IPS-SHB"
 			(at 51.308 42.672 0)
 			(show_name no)
 			(do_not_autoplace no)

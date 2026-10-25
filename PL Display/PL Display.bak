@@ -281,7 +281,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PL Display:DT035CTFT-IPS-SHB"
 			(at 51.308 42.672 0)
 			(show_name no)
 			(do_not_autoplace no)

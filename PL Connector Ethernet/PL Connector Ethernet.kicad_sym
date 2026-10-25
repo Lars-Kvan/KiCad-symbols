@@ -734,25 +734,6 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at -2.54 -10.16 90)
-				(length 2.54)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 		)
 		(symbol "RJ45_ARJM11D7-009-AB-EW2_1_1"
 			(arc
